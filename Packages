@@ -1,0 +1,22 @@
+Package: ru.rejail.autotouch
+Architecture: iphoneos-arm
+Version: 6.1.2k
+Priority: optional
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 107265
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/ru.rejail.autotouch_6.1.2k_iphoneos-arm.deb
+Size: 27811712
+MD5sum: 50c9bf266dac9613e343f743107981f8
+SHA1: b88123b52198aa0a8ee378ee648df0d3e6485fde
+SHA256: 4a926d7fa98f47bc908e5e29df535fa98c957b2a60d37347b8d9d8df21ecf3d0
+SHA512: 7a1208412da2d55da47a22de2a5c702d50416bb03cead2215725bc8940e7db984e526e9b7b35dc46d4900c89c78ca9884f70867a5bd869f7135f93204812db5a
+Description: Автокликер для iOS
+Name: AutoTouch
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Depiction: https://rejail.ru/depiction.php?file=autotouch
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=autotouch
+
