@@ -1,3 +1,38 @@
+Package: com.laxus.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Laxus
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 17616
+MD5sum: 2542138532bdec8869994a94cc182807
+SHA1: 5fe9966f92ba67891f8bef568cbaa63e7abec99c
+SHA256: a24bca0b751677f797f81198bd7b73ac7e962ca9aaa48c2a0220a1624e91eb65
+SHA512: 38ae5559ce826768ffa4809d7df7624162ae1d0645949810934f77d63e324640a1a3539d7252e7264b4b8b66f3d65fb8961dc6404546401732c131f8bfc00cbd
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Name: iPACracker iOSGods
+Author: Laxus
+
+Package: iOSGods.com.GenshinImpact
+Architecture: iphoneos-arm
+Version: 1.0.1+iOSGods.com
+Section: Tweaks
+Maintainer: iOSGods.com
+Installed-Size: 9472
+Depends: mobilesubstrate
+Filename: ./debs/iOSGods.com.GenshinImpact_1.0.1+iOSGods.com_iphoneos-arm.deb
+Size: 2419336
+MD5sum: 5d21fb55b1f8173c16b6b831c7ee1117
+SHA1: 86a8c5337d4a3d4e090ad57a28d1685c4b2d0122
+SHA256: a899bc93bffb0ffc054fb4d826290851acb749cd99acded319f27c2c45eeb455
+SHA512: ab3544fb836e35e4ed34d1e075740cfb4b284450aa0740d3e1f5079bebb63796f81042c07ab8ff40fcbaad37a2a045e04387b41dd0b42fe322185295d8fad0e3
+Homepage: https://iosgods.com
+Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
+Name: Hack Genshin Impact iOSGods
+Author: Laxus
+
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
 Version: 6.1.2k

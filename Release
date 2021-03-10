@@ -1,11 +1,11 @@
-Origin: Little 34306's Repo
-Label: 34306
+Origin: GitPush Repo
+Label: GitPush
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: A little repo to use
+Description: Source Cydia Repo by GitPush <fahlnbg>
 MD5Sum:
- 2ea70c4c306ea711af8a5fe6f8d6e833 1062 Packages
- 9e94ab677d5da44ca5561ca19d31b298 752 Packages.bz2
+ 5f3e992d9034d4ee4c6f2fa6d089d1d5 2578 Packages
+ 97f75115a88313a86286115b4361b36a 1454 Packages.bz2

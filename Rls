@@ -1,8 +1,8 @@
-Origin: Little 34306's Repo
-Label: 34306
+Origin: GitPush Repo
+Label: GitPush
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: A little repo to use
+Description: Source Cydia Repo by GitPush <fahlnbg>
