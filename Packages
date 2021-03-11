@@ -1,3 +1,55 @@
+Package: com.cortex.carplayenable
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: Cortex
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.cortex.carplayenable_0.0.1-2+debug_iphoneos-arm.deb
+Size: 32412
+MD5sum: f3bea0c72bcca3b04fe53494206b1892
+SHA1: 98ed9688bd16d3c5b70c677208c9f4ca2ebb6a8f
+SHA256: 81b7e39f74b284366085250d12b63b45ec732c3e17b402b0ac545179b4fede9b
+SHA512: 2eb7317bb695750827c98990b2dfc42b1cec1b282f05395da3c29f7f5e0cdbf0889b792d8fc8b552b08e80f603d4c6ebc83ac1fbd6f351a4d348ce60fdb72fc6
+Description: Use any app with CarPlay
+Name: carplayenable
+Author: Cortex
+
+Package: com.huy.little.34306
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: fb.com/huyhue34306
+Installed-Size: 100kb
+Depends: mobilesubstrate
+Filename: ./debs/com.huy.little.34306_1.0_iphoneos-arm.deb
+Size: 11388334
+MD5sum: ccb8a478ba3a5c6fbc0d93e20a56ac97
+SHA1: 8ef03e0ab09276beba9d1a39ae3fb26dbbf6ca25
+SHA256: 6cbaac60f4ae4e285ca9f446abedf764973589787813600ca50bacf4d3ace745
+SHA512: dc0f24bd1a60fe44343337a081219b9829139bdab061cdef8345e25823591a8fc6caba5376123061b7301457e94f8a2597e897a0217cb683899b4e6a73323f4f
+Description: Huy Hue
+Name: igg crack
+Author: Huy Hue
+
+Package: com.julioverne.spotilife
+Architecture: iphoneos-arm
+Version: 1.1a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife-1.1a-iphoneos-arm.deb
+Size: 201134
+MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
+SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
+SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+SHA512: c365bb9511e1beea90a31c23de2271f0a1d3bcc2b6dc5983413e3c387448eb3f95f6251467623b0c850c63bc57ddb3ccd6b7ee9f5638e0cc3911a61192ec7fb3
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotilife
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+
 Package: com.laxus.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
