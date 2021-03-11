@@ -1,3 +1,19 @@
+Package: com.34306.altstorebeta
+Architecture: iphoneos-arm
+Version: 1.4.5b
+Section: App
+Maintainer: 34306
+Depends:
+Filename: ./debs/com.34306.altstorebeta_1.4.5b_iphoneos-arm (1).deb
+Size: 4576028
+MD5sum: 63654b335af29344a4d0f5dbd46dcbeb
+SHA1: d5e3d71c4c12946fcb02768fd909632ca5d7f3c3
+SHA256: 376673c95160602a45e8c2c5aac33f1463ecd6dff303c97f413ba60af29d6eac
+SHA512: 001cb17588f886eca7a5701587c7c05d38014c2c26745ce6e99f2faf8178f74f9d11be4d0905481c19639cdbc05602abb6e42d91cc3d7d15dcc2ce07b123dc68
+Description: Altstore iPA deb file
+Name: Altstore
+Author: Riley Testut
+
 Package: com.34306.animetheme
 Architecture: iphoneos-arm
 Version: 1.1
