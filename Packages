@@ -1,17 +1,18 @@
-Package: com.34306.altstorebeta
+Package: com.34306.animetheme
 Architecture: iphoneos-arm
-Version: 1.4.5b
-Section: App
-Maintainer: 34306
-Filename: ./debs/com.34306.altstorebeta_1.4.5b_iphoneos-arm.deb
-Size: 4576014
-MD5sum: 3c3b35d2afa85ba1ebcfba2aa85cf59c
-SHA1: d9518bb79df59948a7de2f5305570dfd5308ed51
-SHA256: aac7f700ebdd4d8d2b0507ba41dae7ffd032b8352866891c2a9e129d465c7ab3
-SHA512: 0b31fb2a3c32cc8ffdf0c6b9e3b168281cf3c95f7968a316b41703d6281f674eb35f6d313aa0b1ca72c46b6621f0d132386e5fb0a2759b5a7b54020e2fc867e0
-Description: Altstore iPA deb file
-Name: Altstore
-Author: Riley Testut
+Version: 1.1
+Section: Tweak
+Maintainer: Little 34306
+Installed-Size: 18111
+Filename: ./debs/com.34306.animetheme_1.1_iphoneos-arm.deb
+Size: 18108406
+MD5sum: 004fad4ba2944bccb26249dc8499d391
+SHA1: 62dd20589a50f971068e774a0cc3e639915e1a56
+SHA256: d2a287cb92d1c97bcff56f7d5a861536aa0886c0dfbb5d636865aa99a587d56b
+SHA512: 97c6f7fa766ed24d573b860f4f61ce546059c69b454c156b9d438018fc121ca962d4c23d72051e41e8e35282ae4e3c30f0bbc8f00a6726f8e616efe28f3e3690
+Description: Anime theme by Huy Hue
+Name: Anime Theme
+Author: Huy Hue
 
 Package: com.34306.bakgrunnur
 Architecture: iphoneos-arm
