@@ -67,6 +67,48 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.udevs.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.5.13
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1384
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware (>= 13.0), applist
+Filename: ./debs/com.udevs.bakgrunnur_1.5.13_iphoneos-arm.deb
+Size: 373952
+MD5sum: 3849383a0a826f6df714c9559f51889d
+SHA1: db87f44edaf367c2e9fcd919cb5276b82d8ac4d1
+SHA256: 753bbdcb964d6542da14f27fb99a5f68490f1f0b30bc414ae38ce06921563cb9
+SHA512: 2acdc8a60b68fc9425e351844599973056b568de5476b246543e4f7d879d32ec17bc579f82c4a39f1993be67e45c469da2e909f662a3d27b543adbd8f4ab75d3
+Description: Truly backgrounding your apps
+Name: Background Running App (Bakgrunnur)
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+
+Package: com.yourepo.lly.adsspee
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 893
+Depends: mobilesubstrate (>= 0.9.5015), preferenceloader (>= 2.2.2), applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.yourepo.lly.adsspee_1.0.4-3_iphoneos-arm.deb
+Size: 204748
+MD5sum: 141de224b528531b78508e1e1ca4e394
+SHA1: 39c2fb7b787d4719ade52f325f66793f3631fc78
+SHA256: 98d81f1bd2dac342209f891370b37a710c32bda7b359799c0084e661a23967a9
+SHA512: afef330e8c3adc29e872938a81cb90927b7a8acd0061e2adc964da1123c15769be31833c9fb0ba50a26d487ed887310b565905729c0d01c4452297d6397f6c73
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoadsspeedDp
+Description: Tăng tốc Video quảng cáo.
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoadsspeedDp
+Author: lenglengyu <lenglengyu@126.com>
+Name: Tăng tốc Video quảng cáo
+dev: lenglengyu
+Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
