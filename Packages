@@ -17,6 +17,24 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
 
+Package: com.battousai.asphalt
+Architecture: iphoneos-arm
+Version: 2.3.0-1
+Section: Tweaks
+Maintainer: iOSGods.com
+Installed-Size: 17636
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.battousai.asphalt_2.3.0 working.deb
+Size: 6070984
+MD5sum: 9383bef572c8b77a2ef1b391a2675c51
+SHA1: ec9533aa49283e2a72875aea74ef16dcab5c7792
+SHA256: e2ca4dbd248731ad2c7b5543540dafde9b670e9f3e3ca1afb332184d5a932588
+SHA512: 33a2ab4bd09ef09c122f19f589f7a2e4799610159111a378ebe1c44494e9609d33fd01acb23c89f82b809e3a55c07494723e5bcb01bb3ccc0eee90253ba50e13
+Homepage: http://iosgods.com
+Description: An awesome Cydia Substrate tweak from iOSGods.com!
+Name: Asphalt 8 Cheats
+Author: Battousai
+
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
 Version: 1.0
