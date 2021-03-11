@@ -1,3 +1,22 @@
+Package: com.34306.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.5.13
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1384
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware (>= 13.0), applist
+Filename: ./debs/com.34306.bakgrunnur_1.5.13_iphoneos-arm.deb
+Size: 373954
+MD5sum: b8e554244cc1dc252b9322e5f898828b
+SHA1: 5299e1ca8afad7619fec278d256488aeabe941ea
+SHA256: 66f47b6c218bad64b907b1bd6c5be01206dab2ca416c0a0a9982af81767e5385
+SHA512: 12a9b6c33a4c41c0a830647540ddce46d8c67464e9402be27a3d5e4e41bf38f49775bed07c32279ffdc551f258006d625fda6bab15b989b71c4e31b80d90c069
+Description: Chạy nền cho app
+Name: Bakgrunnur
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
 Version: 1.0
@@ -49,48 +68,6 @@ SHA512: 9308dc504382b27397b565fe8e1a3d90eda132cc32394486e9d26345fc515d2ed1b81bc1
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 Author: Laxus
-
-Package: com.udevs.bakgrunnur
-Architecture: iphoneos-arm
-Version: 1.5.13
-Section: Tweaks
-Maintainer: udevs
-Installed-Size: 1384
-Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware (>= 13.0), applist
-Filename: ./debs/com.udevs.bakgrunnur_1.5.13_iphoneos-arm.deb
-Size: 373928
-MD5sum: 86b978810f7d78755e8a378247822c9c
-SHA1: e97750cb48a241d52a5c88bd1593fdf38d1992a1
-SHA256: 70ce7662ac842ed5a1e1dcbe5cc4ca17e27cdb9c5f7eaa370d28fc8715df06d7
-SHA512: 9e8f57015d70ea83be01351f8b9fa08f4cf4f48d7aa9669d00589f9bed68cbfa140c5fb79d867341528aee12c653cee208d382116768d8bc9ff364543fec83d9
-Description: Truly backgrounding your apps
-Name: Bakgrunnur
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
-
-Package: com.yourepo.lly.adsspee
-Architecture: iphoneos-arm
-Version: 1.0.4-3
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 893
-Depends: mobilesubstrate (>= 0.9.5015), preferenceloader (>= 2.2.2), applist
-Conflicts: com.yourepo.lenglengyu.adsspeed
-Filename: ./debs/com.yourepo.lly.adsspee_1.0.4-3_iphoneos-arm (1).deb
-Size: 204728
-MD5sum: 00c61e2958b23e09b44d00ea6b89844e
-SHA1: 85269a1e453836dcbea5553e70da875d40e2c01e
-SHA256: 22f1465ad98cffb118c9159d32e57ba7d5936ba2217002b114a08fd445e5fc6f
-SHA512: 6dbafca6997d4f46c33a48c79d797289ea06df8d0705d4ae7d748857ab55b56013a6198b99056dc7ee47323be46ea38c4f090093ecc98aeec8e71ce0f313893e
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoadsspeedDp
-Description: Speed up ads video
-Tag: purpose::extension, compatible::ios12, compatible::ios13
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoadsspeedDp
-Author: lenglengyu <lenglengyu@126.com>
-Name: Speed Video Ads
-dev: lenglengyu
-Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
 
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
