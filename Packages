@@ -1,20 +1,3 @@
-Package: com.cortex.carplayenable
-Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
-Section: Tweaks
-Maintainer: Cortex
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debs/com.cortex.carplayenable_0.0.1-2+debug_iphoneos-arm.deb
-Size: 32412
-MD5sum: f3bea0c72bcca3b04fe53494206b1892
-SHA1: 98ed9688bd16d3c5b70c677208c9f4ca2ebb6a8f
-SHA256: 81b7e39f74b284366085250d12b63b45ec732c3e17b402b0ac545179b4fede9b
-SHA512: 2eb7317bb695750827c98990b2dfc42b1cec1b282f05395da3c29f7f5e0cdbf0889b792d8fc8b552b08e80f603d4c6ebc83ac1fbd6f351a4d348ce60fdb72fc6
-Description: Use any app with CarPlay
-Name: carplayenable
-Author: Cortex
-
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
 Version: 1.0
@@ -75,13 +58,13 @@ Maintainer: udevs
 Installed-Size: 1384
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware (>= 13.0), applist
 Filename: ./debs/com.udevs.bakgrunnur_1.5.13_iphoneos-arm.deb
-Size: 373952
-MD5sum: 3849383a0a826f6df714c9559f51889d
-SHA1: db87f44edaf367c2e9fcd919cb5276b82d8ac4d1
-SHA256: 753bbdcb964d6542da14f27fb99a5f68490f1f0b30bc414ae38ce06921563cb9
-SHA512: 2acdc8a60b68fc9425e351844599973056b568de5476b246543e4f7d879d32ec17bc579f82c4a39f1993be67e45c469da2e909f662a3d27b543adbd8f4ab75d3
+Size: 373928
+MD5sum: 86b978810f7d78755e8a378247822c9c
+SHA1: e97750cb48a241d52a5c88bd1593fdf38d1992a1
+SHA256: 70ce7662ac842ed5a1e1dcbe5cc4ca17e27cdb9c5f7eaa370d28fc8715df06d7
+SHA512: 9e8f57015d70ea83be01351f8b9fa08f4cf4f48d7aa9669d00589f9bed68cbfa140c5fb79d867341528aee12c653cee208d382116768d8bc9ff364543fec83d9
 Description: Truly backgrounding your apps
-Name: Background Running App (Bakgrunnur)
+Name: Bakgrunnur
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
@@ -94,18 +77,18 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 893
 Depends: mobilesubstrate (>= 0.9.5015), preferenceloader (>= 2.2.2), applist
 Conflicts: com.yourepo.lenglengyu.adsspeed
-Filename: ./debs/com.yourepo.lly.adsspee_1.0.4-3_iphoneos-arm.deb
-Size: 204748
-MD5sum: 141de224b528531b78508e1e1ca4e394
-SHA1: 39c2fb7b787d4719ade52f325f66793f3631fc78
-SHA256: 98d81f1bd2dac342209f891370b37a710c32bda7b359799c0084e661a23967a9
-SHA512: afef330e8c3adc29e872938a81cb90927b7a8acd0061e2adc964da1123c15769be31833c9fb0ba50a26d487ed887310b565905729c0d01c4452297d6397f6c73
+Filename: ./debs/com.yourepo.lly.adsspee_1.0.4-3_iphoneos-arm (1).deb
+Size: 204728
+MD5sum: 00c61e2958b23e09b44d00ea6b89844e
+SHA1: 85269a1e453836dcbea5553e70da875d40e2c01e
+SHA256: 22f1465ad98cffb118c9159d32e57ba7d5936ba2217002b114a08fd445e5fc6f
+SHA512: 6dbafca6997d4f46c33a48c79d797289ea06df8d0705d4ae7d748857ab55b56013a6198b99056dc7ee47323be46ea38c4f090093ecc98aeec8e71ce0f313893e
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoadsspeedDp
-Description: Tăng tốc Video quảng cáo.
+Description: Speed up ads video
 Tag: purpose::extension, compatible::ios12, compatible::ios13
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoadsspeedDp
 Author: lenglengyu <lenglengyu@126.com>
-Name: Tăng tốc Video quảng cáo
+Name: Speed Video Ads
 dev: lenglengyu
 Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
 
