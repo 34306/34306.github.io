@@ -126,6 +126,24 @@ Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
+Package: cytusii
+Architecture: iphoneos-arm
+Version: 3.5.1
+Section: Tweaks
+Maintainer: AndnixSH
+Installed-Size: 512
+Depends: mobilesubstrate
+Filename: ./debs/cytusii_3.5.1_iphoneos-arm.deb
+Size: 183494
+MD5sum: 556f25acbfe272491d9cd080ba1014b6
+SHA1: f0007679159def7872e84e98d2de0057da13cc41
+SHA256: 155109ce1f3358ab8d30247bf20bdeb9d049354e8ade3cc0e25f4f9cdb5abc84
+SHA512: 40a576a3a271019b7210987fd00fabb25e232c545d5a6d5cc9fa7a9debff62eaedc809ae8739ef76445534044263865809e5015d7f740d26793b12431abdee7a
+Homepage: https://platinmods.com
+Description: Cytus 2 mod by AndnixSH!
+Name: Cytus 2 mod
+Author: AndnixSH
+
 Package: iOSGods.com.GenshinImpact
 Architecture: iphoneos-arm
 Version: 1.0.1+iOSGods.com
