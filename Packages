@@ -195,13 +195,12 @@ Version: 1.1.0
 Priority: Little 34306
 Section: Tweaks
 Maintainer: Siguza
-Depends:
 Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
-Size: 3082
-MD5sum: 00480fabcca22b0fac228726df66d39b
-SHA1: f86931b6a973de43f3a5e5f3df321a29e495adf9
-SHA256: 12256b61d2206c1657949b4eb0e7e7073af3bebd817620a1912cbd242ec20077
-SHA512: 917bbdcf10244d5affe5733ab951b377d5db587a9b44621b46957565343e5627c7dcf29060892f436be419667536035f81c473aeeb2859a2583ca69e5a839ce7
+Size: 3076
+MD5sum: 6760fb16d5b19f7da7e5f4eb85e81449
+SHA1: 5b5f860b9170a71b661f37ee8defee13765aaddb
+SHA256: 2bf8758a2e494c27abfaaaa5a8ea87a9956c7e2304045639689c0fce9a1f07d7
+SHA512: c528c17c2d59ef47f61319e95fc920d5dc9a9c7a54c117b92b01a3917b17e33e7bd8253b7efd88c6102f50017501eed15856ba4e3010b8f5aa9d6f76ebb102e3
 Homepage: https://github.com/Siguza/libkrw/
 Description: libkrw headers
 Name: libkrw
