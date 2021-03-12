@@ -49,6 +49,21 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
 
+Package: com.34306.bubbletheme
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Huy Hue
+Filename: ./debs/com.34306.bubbletheme_1.0_iphoneos-arm.deb
+Size: 929382
+MD5sum: e7bb236c122328a672147423facbc022
+SHA1: dc3089bcaa0450bc2dd5c8c21efd7dcd9f40fba9
+SHA256: 4e613e49df9efa4bc94d9a17cee9471831c67fb918901a8e509382ccfe5334a6
+SHA512: d1029fa31c03da7fa079b6a3a035e61e18428873af2366d31f107b1538db592eb8240f38ded775d2e3f9d8feaa37d2b841490fdb32bdc132a3c6770e426c8c81
+Description: Bubble Theme
+Author: Huy Hue
+Name: Package Name
+
 Package: com.battousai.asphalt
 Architecture: iphoneos-arm
 Version: 2.3.0-1
@@ -179,15 +194,33 @@ Section: System
 Maintainer: XsF1re
 Installed-Size: 228
 Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
-Size: 33396
-MD5sum: f700e56f04010ea503f8a87d1bd622d2
-SHA1: 01f93b7a87a004555155d0b6a0425144ab8c637f
-SHA256: f341e3c30f35d713c9d570132eade9b8e310e90824e1b35d2cb6c6710b097b79
-SHA512: 5ad8e2e8eb00a00de2457ba7b99ce9d0113abea2f433d101f99a73664de371e738f225f96cbc4a5b2b2670e38cd64a4d2a1b9e4fc55bc798064ba88047cdd13e
+Size: 30834
+MD5sum: c94ee102054a9d33fb51a18e66a78612
+SHA1: 39bfe53d8504e3e3f89434ea033bd2b970c7c2db
+SHA256: cefb0f6b8cac8331a92112c8176f53e11131e393ca1524ebe7c1b847d1554b62
+SHA512: 2a4c13a546a9d87be267fda756d896d0cc2fe71007e5824292266ddee71ecdfe93cdbed1ae15aa566f0a5ad0799788d7afd70d196b61a30e14c0fcb01e45e429
 Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
+
+Package: libkrw-dev
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Development
+Maintainer: Siguza
+Depends: libkrw
+Filename: ./debs/libkrw-dev_1.1.0_iphoneos-arm.deb
+Size: 2924
+MD5sum: ec27e4486e25ab1246377c722f7b294a
+SHA1: b87013063cd199a48be13c7d8fcd0c4d5842d63e
+SHA256: 17fbab84f79d0f1d859591a50c8872b93d2075ee583d1ffae9f071d5c59d2320
+SHA512: 0b83a8f7c285729097cf72cc3a54184eb414ea63075ea2cea456494e79eb848ce982a71a31f7f1fb1ae6d4a116fc5278cddff15e97b6b622bdfca5d4edd6d6c1
+Homepage: https://github.com/Siguza/libkrw/
+Description: libkrw headers
+Name: libkrw-dev
+Author: Siguza
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
