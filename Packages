@@ -190,21 +190,22 @@ Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
 
-Package: libkrw
+Package: libkrw-dev
 Architecture: iphoneos-arm
 Version: 1.1.0
 Priority: optional
-Section: System
+Section: Development
 Maintainer: Siguza
-Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
-Size: 10686
-MD5sum: 83d423a8d9a192c068f404c38f12ec2a
-SHA1: d8dd467c00f972136dd04dd7e98c01af6884ee0f
-SHA256: ff0fc43b916fc8c0a1c3ebffe2a9e238ce77e02dc3df401b75dfcc780d025f48
-SHA512: 18b002e5deeba242d02de8ed0ca5645c790704fa326232f9c46164afdcc5794ec5ca8a806c52909f5dbb84385084b3a0c824ad34d77deda3a631e3fd5ce14abc
+Depends: libkrw
+Filename: ./debs/libkrw-dev_1.1.0_iphoneos-arm.deb
+Size: 2924
+MD5sum: ec27e4486e25ab1246377c722f7b294a
+SHA1: b87013063cd199a48be13c7d8fcd0c4d5842d63e
+SHA256: 17fbab84f79d0f1d859591a50c8872b93d2075ee583d1ffae9f071d5c59d2320
+SHA512: 0b83a8f7c285729097cf72cc3a54184eb414ea63075ea2cea456494e79eb848ce982a71a31f7f1fb1ae6d4a116fc5278cddff15e97b6b622bdfca5d4edd6d6c1
 Homepage: https://github.com/Siguza/libkrw/
-Description: Nice kernel r/w API
-Name: libkrw
+Description: libkrw headers
+Name: libkrw-dev
 Author: Siguza
 
 Package: ru.rejail.autotouch
