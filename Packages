@@ -179,32 +179,15 @@ Section: System
 Maintainer: XsF1re
 Installed-Size: 228
 Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
-Size: 30824
-MD5sum: ff2bccbebc1fa569aaafddbc7ce504a5
-SHA1: 1ad04962102a61e15f1d885bc74bcf8b1104bed8
-SHA256: c235a729113e921943bcf26254dcea3a79cd8f89f5240e7f0077a98eb8c0ebb3
-SHA512: 9e4260193ada48198e84bcfdcd320ca7dcc9d45433ca2b3a57a3c54105e9748a5ea77151212dd71951c8c6d6f3ea2b512027196cdfc64d90866b0b1a3125350d
+Size: 33396
+MD5sum: f700e56f04010ea503f8a87d1bd622d2
+SHA1: 01f93b7a87a004555155d0b6a0425144ab8c637f
+SHA256: f341e3c30f35d713c9d570132eade9b8e310e90824e1b35d2cb6c6710b097b79
+SHA512: 5ad8e2e8eb00a00de2457ba7b99ce9d0113abea2f433d101f99a73664de371e738f225f96cbc4a5b2b2670e38cd64a4d2a1b9e4fc55bc798064ba88047cdd13e
 Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
-
-Package: libkrw
-Architecture: iphoneos-arm
-Version: 1.1.0
-Priority: Little 34306
-Section: Tweaks
-Maintainer: Siguza
-Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
-Size: 3076
-MD5sum: 6760fb16d5b19f7da7e5f4eb85e81449
-SHA1: 5b5f860b9170a71b661f37ee8defee13765aaddb
-SHA256: 2bf8758a2e494c27abfaaaa5a8ea87a9956c7e2304045639689c0fce9a1f07d7
-SHA512: c528c17c2d59ef47f61319e95fc920d5dc9a9c7a54c117b92b01a3917b17e33e7bd8253b7efd88c6102f50017501eed15856ba4e3010b8f5aa9d6f76ebb102e3
-Homepage: https://github.com/Siguza/libkrw/
-Description: libkrw headers
-Name: libkrw
-Author: Siguza
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
