@@ -172,6 +172,41 @@ Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
 Name: Genshin Impact Cheats
 Author: Laxus
 
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm
+Version: 0.2.2
+Section: System
+Maintainer: XsF1re
+Installed-Size: 228
+Depends: libkrw
+Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
+Size: 30832
+MD5sum: 0990e88f49891d98c75ffaaf1511db32
+SHA1: cbc88c5caa8a3c083427e88aed0604744846fb58
+SHA256: 3d678304c3b06169ae57864c7ddeab232f3b938eac8da8316f142e0297be6046
+SHA512: 34f992ba065463b5fe19346531cdc8ff6b549311e1e7d13c6d2badcbe902912db625c4ccd324b71b421139d716a56a81f07d520f7a32e1776e7ff87906f80cfb
+Description: An expermental tool to hide jailbreak files for bypass detection.
+Tag: role::hacker
+Name: vnodebypass
+Author: XsF1re
+
+Package: libkrw
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Development
+Maintainer: Siguza
+Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
+Size: 10680
+MD5sum: c4cee8415ffcefcde1a447b94d2282f8
+SHA1: 201e192b59afc9ce256ac401f8ee2f01faaaa107
+SHA256: 698f9c6a683c08417828257da0c0bb1f3c556c8a8c77433eb80ebcbc20ca010d
+SHA512: 625258cd9d014bf92707cd476cf2994305b9fba456984ef725fbfe07bb4a172c5d8fd5027c6ee3aec05c73cfcda647869210a22b0cd85803da5895040b2c26fa
+Homepage: https://github.com/Siguza/libkrw/
+Description: Nice kernel r/w API
+Name: libkrw
+Author: Siguza
+
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
 Version: 6.1.2k
