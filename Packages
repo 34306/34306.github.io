@@ -55,14 +55,14 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Huy Hue
 Filename: ./debs/com.34306.bubbletheme_1.0_iphoneos-arm.deb
-Size: 929382
-MD5sum: e7bb236c122328a672147423facbc022
-SHA1: dc3089bcaa0450bc2dd5c8c21efd7dcd9f40fba9
-SHA256: 4e613e49df9efa4bc94d9a17cee9471831c67fb918901a8e509382ccfe5334a6
-SHA512: d1029fa31c03da7fa079b6a3a035e61e18428873af2366d31f107b1538db592eb8240f38ded775d2e3f9d8feaa37d2b841490fdb32bdc132a3c6770e426c8c81
+Size: 929380
+MD5sum: 327012fb213ebe47590d31df43f79839
+SHA1: b9f204803bf107b5b3ece62e5b4216923d1c8815
+SHA256: cd03944487f65af70bb5e667c815ae92e31c805d338fb941cbaa8715b846b006
+SHA512: 13e246ee3053843d7c08b009d0c5653877b5e376427e78b5aa251a22fb5a79d2bb7f7ff928626fc6fdcc8d46b91b296e4c4cb118728b7100ecbfc6cebc0502ea
 Description: Bubble Theme
 Author: Huy Hue
-Name: Package Name
+Name: Bubble Theme
 
 Package: com.battousai.asphalt
 Architecture: iphoneos-arm
@@ -203,24 +203,6 @@ Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
-
-Package: libkrw-dev
-Architecture: iphoneos-arm
-Version: 1.1.0
-Priority: optional
-Section: Development
-Maintainer: Siguza
-Depends: libkrw
-Filename: ./debs/libkrw-dev_1.1.0_iphoneos-arm.deb
-Size: 2924
-MD5sum: ec27e4486e25ab1246377c722f7b294a
-SHA1: b87013063cd199a48be13c7d8fcd0c4d5842d63e
-SHA256: 17fbab84f79d0f1d859591a50c8872b93d2075ee583d1ffae9f071d5c59d2320
-SHA512: 0b83a8f7c285729097cf72cc3a54184eb414ea63075ea2cea456494e79eb848ce982a71a31f7f1fb1ae6d4a116fc5278cddff15e97b6b622bdfca5d4edd6d6c1
-Homepage: https://github.com/Siguza/libkrw/
-Description: libkrw headers
-Name: libkrw-dev
-Author: Siguza
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
