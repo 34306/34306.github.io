@@ -194,14 +194,14 @@ Package: libkrw
 Architecture: iphoneos-arm
 Version: 1.1.0
 Priority: optional
-Section: Development
+Section: System
 Maintainer: Siguza
 Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
-Size: 10680
-MD5sum: c4cee8415ffcefcde1a447b94d2282f8
-SHA1: 201e192b59afc9ce256ac401f8ee2f01faaaa107
-SHA256: 698f9c6a683c08417828257da0c0bb1f3c556c8a8c77433eb80ebcbc20ca010d
-SHA512: 625258cd9d014bf92707cd476cf2994305b9fba456984ef725fbfe07bb4a172c5d8fd5027c6ee3aec05c73cfcda647869210a22b0cd85803da5895040b2c26fa
+Size: 10686
+MD5sum: 83d423a8d9a192c068f404c38f12ec2a
+SHA1: d8dd467c00f972136dd04dd7e98c01af6884ee0f
+SHA256: ff0fc43b916fc8c0a1c3ebffe2a9e238ce77e02dc3df401b75dfcc780d025f48
+SHA512: 18b002e5deeba242d02de8ed0ca5645c790704fa326232f9c46164afdcc5794ec5ca8a806c52909f5dbb84385084b3a0c824ad34d77deda3a631e3fd5ce14abc
 Homepage: https://github.com/Siguza/libkrw/
 Description: Nice kernel r/w API
 Name: libkrw
