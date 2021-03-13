@@ -16,19 +16,18 @@ Author: Riley Testut
 
 Package: com.34306.animetheme
 Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweak
+Version: 1.2
+Section: Tweaks
 Maintainer: Little 34306
-Installed-Size: 18111
-Filename: ./debs/com.34306.animetheme_1.1_iphoneos-arm.deb
-Size: 18108406
-MD5sum: 004fad4ba2944bccb26249dc8499d391
-SHA1: 62dd20589a50f971068e774a0cc3e639915e1a56
-SHA256: d2a287cb92d1c97bcff56f7d5a861536aa0886c0dfbb5d636865aa99a587d56b
-SHA512: 97c6f7fa766ed24d573b860f4f61ce546059c69b454c156b9d438018fc121ca962d4c23d72051e41e8e35282ae4e3c30f0bbc8f00a6726f8e616efe28f3e3690
-Description: Anime theme by Huy Hue
+Filename: ./debs/com.34306.animetheme_1.2_iphoneos-arm.deb
+Size: 27619934
+MD5sum: ae0d4bc712d567ae27e63ac0e1a8ab10
+SHA1: 79f66072459af7fbd1a178e40be9493ffde78370
+SHA256: a22a16acbd8f10df2be820b64e4c494e888098759ffca95933c4ffc2b36ac646
+SHA512: 1de5470c9a121bb4f3640f199acd22da741be3e60fac74e78299c240f3b23afa55d4f2524349c3ab5ce461682e637d26a4aed37bbd8d6be65e599162ea67d4c6
+Description: Anime Theme update 1.2
+Author: Huy Hue <little34306xd@gmail.com>
 Name: Anime Theme
-Author: Huy Hue
 
 Package: com.34306.bakgrunnur
 Architecture: iphoneos-arm
