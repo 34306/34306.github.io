@@ -20,11 +20,11 @@ Version: 1.2
 Section: Tweaks
 Maintainer: Little 34306
 Filename: ./debs/com.34306.animetheme_1.2_iphoneos-arm.deb
-Size: 27619934
-MD5sum: ae0d4bc712d567ae27e63ac0e1a8ab10
-SHA1: 79f66072459af7fbd1a178e40be9493ffde78370
-SHA256: a22a16acbd8f10df2be820b64e4c494e888098759ffca95933c4ffc2b36ac646
-SHA512: 1de5470c9a121bb4f3640f199acd22da741be3e60fac74e78299c240f3b23afa55d4f2524349c3ab5ce461682e637d26a4aed37bbd8d6be65e599162ea67d4c6
+Size: 27620016
+MD5sum: ffa63e0d52d0d2092e14e4c4142c3a9e
+SHA1: 4847d9d004f2e97200f5976fbbba78822b7f07d7
+SHA256: e642b334ea9e3881b25a8b9a11683c46ed62a3def9e59ebfb0d9ec5b2773a474
+SHA512: cdcb132f4b73420cbace6ea1e47527da575b92bf12bd05bfa849cb1167dac109cee313197c650a673c0e606c51dfa300827db49624590d5d1df6a6aea618e0da
 Description: Anime Theme update 1.2
 Author: Huy Hue <little34306xd@gmail.com>
 Name: Anime Theme
