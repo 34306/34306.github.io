@@ -63,6 +63,23 @@ Description: Bubble Theme
 Author: Huy Hue
 Name: Bubble Theme
 
+Package: com.34306.camshutterfix
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.camshutterfix_0.0.1-1_iphoneos-arm.deb
+Size: 4898
+MD5sum: e93a8060fde8a1a1adfa5f9e722c5a01
+SHA1: 76f79297017abb60ca6e48d742ce1b0c6a84a97b
+SHA256: c583e9c80fbdf948ea538a03f34714d67d9a9d05863af12175f16e977b89a8f6
+SHA512: 518735713b209155eb5dc23deef94aa723d84e1e6a89f5e60e410aeabe73e22b1a1b44103b11c67d13a13098b39166818be513371b2daa8eb8272010f63c0179
+Description: Fixes the broken shutter button when enabling the iPhone 11 Camera on older devices. Does however stop the swipe on shutter button to record video from working.
+Name: Cam 11 shutter fix
+Author: andyjhall
+
 Package: com.battousai.asphalt
 Architecture: iphoneos-arm
 Version: 2.3.0-1
