@@ -80,19 +80,19 @@ Description: Fixes the broken shutter button when enabling the iPhone 11 Camera 
 Name: Cam 11 shutter fix
 Author: andyjhall
 
-Package: com.34306.douyin
+Package: com.34306.douyinnowtm
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 1.0
 Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 148
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.douyin_0.0.1-1+debug_iphoneos-arm.deb
-Size: 8316
-MD5sum: e21261b6fa745114855c34aacbfe2811
-SHA1: 9ce0a4b0a320ad7fe4188623aea07daf6fb438be
-SHA256: eb4108a4e137389f0ef0f0ed8d44f8bd74c187fd6f868d27b539fa367e530eb6
-SHA512: 42e48b474e1578916dc0ecc6a2ab90311ac34fe2b88a9bc8711a8747da0c4e2e05ec0f5ac51d58f944e3ff08ac6e0604f7302f3f1f9d79f48ec28bb6d50302db
+Filename: ./debs/com.34306.douyinnowtm_1.0_iphoneos-arm.deb
+Size: 11594
+MD5sum: 42114bd6d94b8dab4cbe72ef0bbc6e4a
+SHA1: 87bd405f5062b9b5c3cd6566d77f7c89559e5756
+SHA256: 42101fa99d2023e79f45cbb9375fc209b2a1b95c05bb58e909c9d162242785cf
+SHA512: e5bcef544da6e2f478095ebaca91929b4f080223abbdf7180ad0878eba5f307796a3aa9b83f635076c7c40495741ba13351d81375e8f0e6a2b3c7b82828e17c3
 Description: Douyin no Wtm
 Name: Douyin no Wtm
 Author: Huy Hue
