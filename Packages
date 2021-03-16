@@ -97,6 +97,24 @@ Description: Douyin no Wtm
 Name: Douyin no Wtm
 Author: Huy Hue
 
+Package: com.34306.hsbcbypass
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.hsbcbypass_1.0_iphoneos-arm.deb
+Size: 152022
+MD5sum: a1ec9fab0838f588c26d1ea39c9ae6df
+SHA1: bcefdf7e7fcb68e404d956ea876f86530e8dd3f6
+SHA256: abf504967f2abd891726ffb3574e11945157770e6ecb0d7223cffe0419b8995a
+SHA512: bfa0465fd7badeb03b48b9bfe5a13d8047eaf0dffd8d96b2eb1d28438f9a1958086a37602d0cf895f36b555b116f03d18b1d18a763e6596c63174af8646a61b4
+Homepage: ipalibrary.info
+Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
+Name: Bypass HSBC VN 3.1.0
+Author: IPALibrary <ipalibrary.info>
+
 Package: com.battousai.asphalt
 Architecture: iphoneos-arm
 Version: 2.3.0-1
@@ -219,24 +237,6 @@ Homepage: https://iosgods.com
 Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
 Name: Genshin Impact Cheats
 Author: Laxus
-
-Package: info.ipalibrary.hsbcvietnam
-Architecture: iphoneos-arm
-Version: 1.0-29
-Section: Tweaks
-Maintainer: IPALibrary <ipalibrary.info>
-Installed-Size: 404
-Depends: mobilesubstrate
-Filename: ./debs/info.ipalibrary.hsbcvietnam_1.0-29_iphoneos-arm.deb
-Size: 152006
-MD5sum: abebe9e3fb58a3b481a3fafbb98ec8ee
-SHA1: eb2a7b0fd04b1113f844082df6e6c98391a0eb3c
-SHA256: d12e2a289af6a694d25811074f884f0f66478c7606a8949c558954b581dffb35
-SHA512: a5372635652f9911fbc3f94b6bc213425f43beea513719f9c771fda27374f2c55f96247c4275fb6a4a19354514d2bee6e7d84d115530799e726f72ceb79510ac
-Homepage: ipalibrary.info
-Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
-Name: Bypass HSBC VN 3.1.0
-Author: IPALibrary <ipalibrary.info>
 
 Package: info.ipalibrary.mbbank
 Architecture: iphoneos-arm
