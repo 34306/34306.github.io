@@ -220,6 +220,42 @@ Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
 Name: Genshin Impact Cheats
 Author: Laxus
 
+Package: info.ipalibrary.hsbcvietnam
+Architecture: iphoneos-arm
+Version: 1.0-29
+Section: Tweaks
+Maintainer: IPALibrary <ipalibrary.info>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/info.ipalibrary.hsbcvietnam_1.0-29_iphoneos-arm.deb
+Size: 152006
+MD5sum: abebe9e3fb58a3b481a3fafbb98ec8ee
+SHA1: eb2a7b0fd04b1113f844082df6e6c98391a0eb3c
+SHA256: d12e2a289af6a694d25811074f884f0f66478c7606a8949c558954b581dffb35
+SHA512: a5372635652f9911fbc3f94b6bc213425f43beea513719f9c771fda27374f2c55f96247c4275fb6a4a19354514d2bee6e7d84d115530799e726f72ceb79510ac
+Homepage: ipalibrary.info
+Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
+Name: Bypass HSBC VN 3.1.0
+Author: IPALibrary <ipalibrary.info>
+
+Package: info.ipalibrary.mbbank
+Architecture: iphoneos-arm
+Version: 1.0-20
+Section: Tweaks
+Maintainer: IPALibrary <ipalibrary.info>
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./debs/info.ipalibrary.mbbank_1.0-20_iphoneos-arm.deb
+Size: 258100
+MD5sum: 9e31633507d8dd6e16a89cd20ec5c1fc
+SHA1: a0ebe88f360d2bd948c2fcac733b64c88ae702e5
+SHA256: af1d7b46a801a835cf537dc82349adcda6732d3bb260f743f426f59e64fe37e8
+SHA512: 2162b1dae803868586f1a264a98be6566fe58c50272b33806487a9ddd0b0a5516616196bfb11514d5ee6ce605f37629aae1fbc040d6a54bb6ec78834731d23e7
+Homepage: ipalibrary.info
+Description: Bypass MBBank by ipalibrary.info
+Name: Bypass MBBank
+Author: IPALibrary <ipalibrary.info>
+
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm
 Version: 0.2.2
@@ -227,11 +263,11 @@ Section: System
 Maintainer: XsF1re
 Installed-Size: 228
 Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
-Size: 30834
-MD5sum: c94ee102054a9d33fb51a18e66a78612
-SHA1: 39bfe53d8504e3e3f89434ea033bd2b970c7c2db
-SHA256: cefb0f6b8cac8331a92112c8176f53e11131e393ca1524ebe7c1b847d1554b62
-SHA512: 2a4c13a546a9d87be267fda756d896d0cc2fe71007e5824292266ddee71ecdfe93cdbed1ae15aa566f0a5ad0799788d7afd70d196b61a30e14c0fcb01e45e429
+Size: 242528
+MD5sum: e6b92eed853efc062e63986be8159b6b
+SHA1: fee9a69fc3aafa92e372af6a33f44b6928ad38d4
+SHA256: 7613ed6f9f60e3f3be48d164d542757ea6e3c9d3903dceca6397455742db48c8
+SHA512: 5ade3efde576a2eff3a7e4a97f60870643ae573515790a90dd864e0fbfafd22ec2fe1b96a042fca16da334d127b98ca56061198e10acd9e2d088a54f802dacf9
 Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
