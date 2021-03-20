@@ -1,14 +1,14 @@
 Package: com.34306.altstorebeta
 Architecture: iphoneos-arm
 Version: 1.4.5b
-Section: tweaks
+Section: Tweaks
 Maintainer: Little 34306
-Filename: ./debs/com.34306.altstorebeta_1.4.5b_iphoneos-arm.deb
-Size: 594
-MD5sum: e17388d36a9b3c50cede4585ff21db88
-SHA1: 0f4412c4d5bc72568e4f85284584d070d6f98bdf
-SHA256: 193ced95b34d5aecf0c07f7fe84d5848ab3449597c561fc0140401ffce60caa6
-SHA512: e11cd3bf2c6510fc962f84d9aab78a24710e6eb3c947c4ac324a2bbddf336058920058e21f2ab37bc38230206046593a3bd276b63b97b5a03aa588c5a50b1127
+Filename: ./debs/com.34306.altstorebeta_1.4.5b_iphoneos-arm (1).deb
+Size: 606
+MD5sum: f496826501360bcfabfc5eda2bd9ce51
+SHA1: 72b7912b972ef90cab9a98db87d7d358e173caf1
+SHA256: d2ec28fc8ac7148d6ebb03d8aeedcb204516da7f627cbef08a9fbba02d1b7621
+SHA512: 52413bc23498e234bce1913e5ab57172cd9b88a66737731128cfa2be0201295c2f6644f8475a514f2a7b08a9aed2e1000a01b7dc8f4c75aacaeebc1d1b0f3893
 Description: Altstore beta by Huy Hue
 Name: Altstore Beta
 Author: Huy Hue
@@ -305,6 +305,23 @@ Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
+
+Package: libkrw
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Development
+Maintainer: Little 34306
+Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
+Size: 10704
+MD5sum: f83666298c9a9d444d807c3f519f6ada
+SHA1: 1bdb46fb995c1695baf1d97f8e558a583dfb73b2
+SHA256: d8a6be5e32b3b05f8ceca5326892e01aa8bcc8473e44e85baa071db935a83b25
+SHA512: 991eb109a06bc0ace2ca81a658d23e749bedb4450df47b408c3eeeb8392af2b7a3dd1d70ffd42681859c30b3cb6d381d988290361af349bfc4beb4be7640367b
+Homepage: https://github.com/Siguza/libkrw/
+Description: Nice kernel r/w API
+Name: libkrw
+Author: Siguza
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
