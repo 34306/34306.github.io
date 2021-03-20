@@ -114,6 +114,22 @@ Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
 Name: Bypass HSBC VN 3.1.0
 Author: IPALibrary <ipalibrary.info>
 
+Package: com.34306.libkrw
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Development
+Maintainer: Little 34306
+Filename: ./debs/com.34306.libkrw_1.1.0_iphoneos-arm.deb
+Size: 10698
+MD5sum: 3c3f65404217a8ad5098ef8d1ec7764b
+SHA1: e8ac20ffc02c14d55c174997ca23b7c3fb1d3cd3
+SHA256: 74ac1f4039b4314c0da69f5674838199bd696f165bd28ee9e7846044b1c3b0a5
+SHA512: 0306fd7fa2af43bfb796eeacdf486c0e1113a3eda8ec53118618f6104a58f9573d2054c17f40e1459955f5871ef8dcf7f19815dfea88b69224f809404150ace8
+Homepage: https://github.com/Siguza/libkrw/
+Description: Nice kernel r/w API
+Name: libkrw
+Author: Siguza
+
 Package: com.34306.maxfpslqm
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -305,23 +321,6 @@ Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
-
-Package: libkrw
-Architecture: iphoneos-arm
-Version: 1.1.0
-Priority: optional
-Section: Development
-Maintainer: Little 34306
-Filename: ./debs/libkrw_1.1.0_iphoneos-arm.deb
-Size: 10704
-MD5sum: f83666298c9a9d444d807c3f519f6ada
-SHA1: 1bdb46fb995c1695baf1d97f8e558a583dfb73b2
-SHA256: d8a6be5e32b3b05f8ceca5326892e01aa8bcc8473e44e85baa071db935a83b25
-SHA512: 991eb109a06bc0ace2ca81a658d23e749bedb4450df47b408c3eeeb8392af2b7a3dd1d70ffd42681859c30b3cb6d381d988290361af349bfc4beb4be7640367b
-Homepage: https://github.com/Siguza/libkrw/
-Description: Nice kernel r/w API
-Name: libkrw
-Author: Siguza
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
