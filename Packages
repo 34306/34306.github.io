@@ -137,6 +137,25 @@ Description: Douyin no Wtm
 Name: Douyin no Wtm
 Author: Huy Hue
 
+Package: com.34306.foxforttools
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: System
+Maintainer: Little 34306
+Installed-Size: 2156
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.1.4), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./debs/com.34306.foxforttools_1.2.9_iphoneos-arm.deb
+Size: 964416
+MD5sum: 80d8cffe47be6106e356915efe7ef176
+SHA1: 9713f6351f546952dafdfd3591d2ecdbb7e3d074
+SHA256: b46947932b721f6c82a6f09c04443cb88def0f436e6cc10c78a46f13c9fe55ae
+SHA512: ca22560f8a4b8c100f9296ee253aa512a833864f1ffaca4ff669a3d7e6798ff59a56f56806202f3b6cc2ff6dff7e88c172d45c330e9bf058bed41b9bd7d67c86
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools
+Author: FoxfortMobile
+
 Package: com.34306.hsbcbypass
 Architecture: iphoneos-arm
 Version: 1.0
@@ -154,6 +173,25 @@ Homepage: ipalibrary.info
 Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
 Name: Bypass HSBC VN 3.1.0
 Author: IPALibrary <ipalibrary.info>
+
+Package: com.34306.libfoxfortutils
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: System
+Maintainer: Little 34306
+Installed-Size: 1252
+Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./debs/com.34306.libfoxfortutils_1.1.7_iphoneos-arm.deb
+Size: 490800
+MD5sum: 104fdc436118b1140d1fd431e7bbb820
+SHA1: 4dfacbcbfbd5ab1a459b23ab2eee6f77d8c91c5f
+SHA256: f9f451b386384400b7112108422161c1e3bafdcb0e64b76e5821dd35e5bc2674
+SHA512: 94d9e3d616f3374ae6a916a55b074a1436f83b61ea45a419497fd655e7608558c8c60797f96208e1b1fead4c2418ba84694d6ba9c080e4da89e7b2127e5bc02c
+Description: Basic utilities for Foxfort tweaks
+Tag: role::developer
+Name: libfoxfortutils
+Author: FoxfortMobile
 
 Package: com.34306.libkrw
 Architecture: iphoneos-arm
@@ -205,6 +243,24 @@ Description: Fix autofill OTP SMS confirm code
 Name: Autofill OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.34306.translomatic
+Architecture: iphoneos-arm
+Version: 2.6.10-ht
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 3048
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
+Filename: ./debs/com.34306.translomatic_2.6.10-ht_iphoneos-arm.deb
+Size: 2877160
+MD5sum: 0822ce700e0a60ed68a7b5a7ff880838
+SHA1: 2269cf67d6c69f4fa043eb8826d3ea6705209f91
+SHA256: 680abea90fc2fab619609750f85e99f4ed94ceef800317cda99874bde24affbf
+SHA512: 8c4d5b53b2de1fee30bb69ab37c011c7801eb3e127f51d7c6695caa9dab5d259b8830603cc35c944c65e18768615b7d6488d4e8ad4cab600d65c0960cdf9a35e
+Description: Quickly translate any text
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
 Package: com.34306.vpnmaster
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -239,62 +295,6 @@ Homepage: http://iosgods.com
 Description: An awesome Cydia Substrate tweak from iOSGods.com!
 Name: Asphalt 8 Cheats
 Author: Battousai
-
-Package: com.foxfort.foxforttools
-Architecture: iphoneos-arm
-Version: 1.2.9
-Section: System
-Maintainer: FoxfortMobile
-Installed-Size: 2156
-Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.1.4), com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof
-Filename: ./debs/com.foxfort.foxforttools_1.2.9_iphoneos-arm.deb
-Size: 964394
-MD5sum: d408aed2629e5fd9e0b3a49145835b61
-SHA1: 5a026eb1e168a510700afd395f7d8f125a495685
-SHA256: a3f1a448ac7e021205ad660d2c7105bf20f1b1acf14cb41f708b29767b991fca
-SHA512: 88bd7a8447adbf8b42770add76176ad4c974d2a99ac8dbe8131492442b68c3eca412e6c1876cc201a9a7acc6c76b4d43180e5b0e6d4cad9b70a358214b3889f4
-Description: Helper tools for Foxfort tweaks
-Tag: role::developer
-Name: FoxFort Tools
-Author: FoxfortMobile
-
-Package: com.foxfort.libfoxfortutils
-Architecture: iphoneos-arm
-Version: 1.1.7
-Section: System
-Maintainer: FoxfortMobile
-Installed-Size: 1252
-Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof
-Filename: ./debs/com.foxfort.libfoxfortutils_1.1.7_iphoneos-arm.deb
-Size: 490772
-MD5sum: 05b19ba89fa99755fa107b5b09052d60
-SHA1: 0e6dd2fc820437b9bb70ab04700ad2dcb9680713
-SHA256: 9a13822eb1c2daf3e4933bb7ade5a42cafc983ca58df4614586b341b2b1bca02
-SHA512: 0c777d53e1a62bcefe437c7ff0ea4327eb216cdb0ef62c5710da33d84a67565a5552f839c76a36680a32ad35f5a66bfd4bc7821def4ea5fcf957f35986c2ffa1
-Description: Basic utilities for Foxfort tweaks
-Tag: role::developer
-Name: libfoxfortutils
-Author: FoxfortMobile
-
-Package: com.foxfort.translomatic
-Architecture: iphoneos-arm
-Version: 2.6.10-ht
-Section: Tweaks
-Maintainer: FoxfortMobile
-Installed-Size: 3048
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
-Filename: ./debs/com.foxfort.translomatic_2.6.10-ht_iphoneos-arm.deb
-Size: 2877144
-MD5sum: 1db951248feaadb1172d6969eb5fe9cf
-SHA1: 3ab4ee6c61e5687ffbe64aafc2d2fa4396b5821d
-SHA256: 6b44ada1b393842843ae2d5b2b6082e4a13aaef7b62df5b5c6f414d0934deef2
-SHA512: b14558a244840b287746227a22a7a4746d4fc19a2d520a984f5a2b3522a9938503cada2c6b8d0011fa653bfdd66329ad4c46787bf5ba48bd1b4237f4a4e80e48
-Description: Quickly translate any text
-Name: Translomatic
-Author: FoxfortMobile
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
