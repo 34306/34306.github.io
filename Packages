@@ -1,18 +1,17 @@
 Package: com.34306.altstorebeta
 Architecture: iphoneos-arm
 Version: 1.4.5b
-Section: Tweak
-Maintainer: 34306
-Depends:
-Filename: ./debs/com.34306.altstorebeta_1.4.5b_iphoneos-arm (1).deb
-Size: 4576030
-MD5sum: ba233e72e8bd8cb895cfc11b204f174a
-SHA1: 2f5b98fa6808b36c439657365046c2b4446e539d
-SHA256: 0716bbe0acb056567d476c84f6e6569534dfe9e43e8f1ef20b1365fbec7323f2
-SHA512: 5217ab01bcd34209b6c51109323e04a556f197bec78f2cdee3f9c790b09815273c210f4cafd52bd01fdd60d0d2b07a2342558d11c9f869dcbeaf9776fe2d1924
-Description: Altstore iPA deb file
-Name: Altstore
-Author: Riley Testut
+Section: tweaks
+Maintainer: Little 34306
+Filename: ./debs/com.34306.altstorebeta_1.4.5b_iphoneos-arm.deb
+Size: 594
+MD5sum: e17388d36a9b3c50cede4585ff21db88
+SHA1: 0f4412c4d5bc72568e4f85284584d070d6f98bdf
+SHA256: 193ced95b34d5aecf0c07f7fe84d5848ab3449597c561fc0140401ffce60caa6
+SHA512: e11cd3bf2c6510fc962f84d9aab78a24710e6eb3c947c4ac324a2bbddf336058920058e21f2ab37bc38230206046593a3bd276b63b97b5a03aa588c5a50b1127
+Description: Altstore beta by Huy Hue
+Name: Altstore Beta
+Author: Huy Hue
 
 Package: com.34306.animetheme
 Architecture: iphoneos-arm
@@ -114,6 +113,40 @@ Homepage: ipalibrary.info
 Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
 Name: Bypass HSBC VN 3.1.0
 Author: IPALibrary <ipalibrary.info>
+
+Package: com.34306.maxfpslqm
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.maxfpslqm_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4166
+MD5sum: 3c090645ef2acc5ef5222f576742800e
+SHA1: 6f65baf9794b15ba6b8aa78809df112defe3da3e
+SHA256: 78dc20b210b7788819152ac8c0041ba810c7c119120cbe348612703b5380bc5d
+SHA512: be19a62d69ca2c38b8607b673d82560f05613d33837aeb760dc2e72f3db7d534cc49dbd5ee655e5a53a4eab5505d936c0dc09ea37e4116c1cd85620d9a91e9cf
+Description: Unlock 60fps for Liên Quân Mobile
+Name: Liên Quân Mobile 60FPS (FPS Cao)
+Author: Huy Hue
+
+Package: com.34306.smsautofillfix
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.smsautofillfix_1.0.1_iphoneos-arm.deb
+Size: 10490
+MD5sum: 148eb6d8fcf8d927cf6927e96675e7b6
+SHA1: 79e90e604c2d2ea79a58d9832c286df0c3ab5c32
+SHA256: 892d595f496fc54e3880e18931d6bd48aa5c2cd798388823f488352bed08ef3e
+SHA512: 3a8d009efaf597a554974e3def40fab0718db862305b5223a3a848102327f1253555c3464bb9f791f94ba9dfe4c034aa90ab25459dca4a9f8a7cade7da25a063
+Description: Fix autofill OTP SMS confirm code
+Name: Autofill OTP SMS
+Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.battousai.asphalt
 Architecture: iphoneos-arm
