@@ -208,6 +208,27 @@ Description: Unlock 60fps for Liên Quân Mobile
 Name: Liên Quân Mobile 60FPS (FPS Cao)
 Author: Huy Hue
 
+Package: com.34306.reprovision14
+Architecture: iphoneos-arm
+Version: 0.6.0~release
+Priority: optional
+Section: System
+Maintainer: Little 34306
+Provides: com.matchstic.extender-installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.extender-installer, com.matchstic.reprovision
+Filename: ./debs/com.34306.reprovision14_0.6.0~release_iphoneos-arm.deb
+Size: 15950030
+MD5sum: 0040128547a5883090e579d1b76251aa
+SHA1: d80505a1fd5ce38a82a70726e62965b08d73803d
+SHA256: 168c1c7b589e64baa64fc4cef75a6019babdf436b3252046a921be7188e00ef0
+SHA512: 92fa77b4273ef1958d967c8f4f1429e6d6f4d0cb946c473e8dcc2af10dda47844e98470ea039934f6a8256c7c0cb7c50494ec3362ccbb586009019a5e6f53bf8
+Description: Re-sign applications on your device
+Name: ReProvision14
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
 Version: 1.0.1
