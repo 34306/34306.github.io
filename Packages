@@ -251,11 +251,11 @@ Maintainer: Little 34306
 Installed-Size: 3048
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
 Filename: ./debs/com.34306.translomatic_2.6.10-ht_iphoneos-arm.deb
-Size: 2877160
-MD5sum: 0822ce700e0a60ed68a7b5a7ff880838
-SHA1: 2269cf67d6c69f4fa043eb8826d3ea6705209f91
-SHA256: 680abea90fc2fab619609750f85e99f4ed94ceef800317cda99874bde24affbf
-SHA512: 8c4d5b53b2de1fee30bb69ab37c011c7801eb3e127f51d7c6695caa9dab5d259b8830603cc35c944c65e18768615b7d6488d4e8ad4cab600d65c0960cdf9a35e
+Size: 2877004
+MD5sum: 11eadfa73f6ed7b6bed9ed44742a55fd
+SHA1: a21e768c0333db14c7f53a761cf4632e75711890
+SHA256: 6f57c349743f549faa7221520ad54bd2266682b98618d00426d72501d88f3d89
+SHA512: bc71623849b992879fe5b63dd601ff44a6836a603d244f53e64ba70cb4bb7c259f7669b5e629a708979308451f1af28ad69276687e49a8103f20a7a3379a472c
 Description: Quickly translate any text
 Name: Translomatic
 Author: FoxfortMobile
