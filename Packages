@@ -156,24 +156,6 @@ Tag: role::developer
 Name: FoxFort Tools
 Author: FoxfortMobile
 
-Package: com.34306.hsbcbypass
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 404
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.hsbcbypass_1.0_iphoneos-arm.deb
-Size: 152022
-MD5sum: a1ec9fab0838f588c26d1ea39c9ae6df
-SHA1: bcefdf7e7fcb68e404d956ea876f86530e8dd3f6
-SHA256: abf504967f2abd891726ffb3574e11945157770e6ecb0d7223cffe0419b8995a
-SHA512: bfa0465fd7badeb03b48b9bfe5a13d8047eaf0dffd8d96b2eb1d28438f9a1958086a37602d0cf895f36b555b116f03d18b1d18a763e6596c63174af8646a61b4
-Homepage: ipalibrary.info
-Description: Bypass HSBC VN App Version 3.1.0 by ipalibrary.info
-Name: Bypass HSBC VN 3.1.0
-Author: IPALibrary <ipalibrary.info>
-
 Package: com.34306.libfoxfortutils
 Architecture: iphoneos-arm
 Version: 1.1.7
@@ -277,24 +259,6 @@ SHA512: 087963294fd5f9aa3136e74f9fc3948654e999889720e6ff281b0af6570dfa1aa89c4a15
 Description: Crack tung cai lon` vpn master luon :)
 Name: VPN Master VIP
 Author: Huy Hue
-
-Package: com.battousai.asphalt
-Architecture: iphoneos-arm
-Version: 2.3.0-1
-Section: Tweaks
-Maintainer: iOSGods.com
-Installed-Size: 17636
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.battousai.asphalt_2.3.0 working.deb
-Size: 6070984
-MD5sum: 9383bef572c8b77a2ef1b391a2675c51
-SHA1: ec9533aa49283e2a72875aea74ef16dcab5c7792
-SHA256: e2ca4dbd248731ad2c7b5543540dafde9b670e9f3e3ca1afb332184d5a932588
-SHA512: 33a2ab4bd09ef09c122f19f589f7a2e4799610159111a378ebe1c44494e9609d33fd01acb23c89f82b809e3a55c07494723e5bcb01bb3ccc0eee90253ba50e13
-Homepage: http://iosgods.com
-Description: An awesome Cydia Substrate tweak from iOSGods.com!
-Name: Asphalt 8 Cheats
-Author: Battousai
 
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
@@ -400,24 +364,6 @@ Homepage: https://iosgods.com
 Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
 Name: Genshin Impact Cheats
 Author: Laxus
-
-Package: info.ipalibrary.mbbank
-Architecture: iphoneos-arm
-Version: 1.0-20
-Section: Tweaks
-Maintainer: IPALibrary <ipalibrary.info>
-Installed-Size: 644
-Depends: mobilesubstrate
-Filename: ./debs/info.ipalibrary.mbbank_1.0-20_iphoneos-arm.deb
-Size: 258100
-MD5sum: 9e31633507d8dd6e16a89cd20ec5c1fc
-SHA1: a0ebe88f360d2bd948c2fcac733b64c88ae702e5
-SHA256: af1d7b46a801a835cf537dc82349adcda6732d3bb260f743f426f59e64fe37e8
-SHA512: 2162b1dae803868586f1a264a98be6566fe58c50272b33806487a9ddd0b0a5516616196bfb11514d5ee6ce605f37629aae1fbc040d6a54bb6ec78834731d23e7
-Homepage: ipalibrary.info
-Description: Bypass MBBank by ipalibrary.info
-Name: Bypass MBBank
-Author: IPALibrary <ipalibrary.info>
 
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm
