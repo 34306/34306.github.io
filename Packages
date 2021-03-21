@@ -214,15 +214,15 @@ Version: 0.6.0~release
 Priority: optional
 Section: System
 Maintainer: Little 34306
-Provides: com.matchstic.extender-installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Depends: firmware (>= 9.0)
-Replaces: com.matchstic.extender-installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Filename: ./debs/com.34306.reprovision_0.6.0~release_iphoneos-arm.deb
-Size: 15950020
-MD5sum: 2acf784c2cfa0ca3eef4341aa8c36624
-SHA1: 220c14b91cedfe8c4f17712e01b11e0393ea7ab4
-SHA256: 4e2ce4107a715fb5e5c41eeda5273643e045156d22cce239b82b9284ad710b79
-SHA512: 58634a75d6fa1b621de0471d00500de120310f2db2430be54fa95e56f7c88e14d41662427826116765b5ca323a9e8c17f8445346816daae0e9309b6f4bcc249e
+Size: 15949968
+MD5sum: 7846259269f423523f651be9614ae9dd
+SHA1: 473992df98950559f3d3f5decdb3fd7efebf7406
+SHA256: af7a8557b07392c5fd18273812aa353011d861d3fcf0c466db4191829fe62757
+SHA512: c5cb06a9d1022790ce95fa85a4d926a107e339ae0a3da14a734810c073de7fe8ec7309d0da1b5d9d25d666ed90a21d992165bf522cb13aed91b5b6feaa392289
 Description: Re-sign applications on your device
 Name: ReProvision14
 Author: Soh Satoh, Matt Clarke
