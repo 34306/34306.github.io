@@ -1,3 +1,24 @@
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.6.0~release
+Priority: optional
+Section: System
+Maintainer: Soh Satoh
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debs/605703930eba20001abbec48.deb
+Size: 14665870
+MD5sum: ccc800b213f77da6355277be96485a1c
+SHA1: e6507fc05aab49ed4fea09406fd2114310b388d6
+SHA256: 93ca97df74eb7b9ab38bf0809e5e6bb16d8bb796034fcb1cac266f9b894d0cf9
+SHA512: 99e3b49f4aec6f6c212f45003208befbb7c031980ff48bc3d564fac48e7e1f53b0b34133a88384dea5fe3d3c463ea4b13a1f959f9205ad271b6eab5b455ac527
+Description: Re-sign applications on your device
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
 Package: com.34306.altstorebeta
 Architecture: iphoneos-arm
 Version: 1.4.5b
@@ -207,27 +228,6 @@ SHA512: be19a62d69ca2c38b8607b673d82560f05613d33837aeb760dc2e72f3db7d534cc49dbd5
 Description: Unlock 60fps for Liên Quân Mobile
 Name: Liên Quân Mobile 60FPS (FPS Cao)
 Author: Huy Hue
-
-Package: com.34306.reprovision
-Architecture: iphoneos-arm
-Version: 0.6.0~release
-Priority: optional
-Section: System
-Maintainer: Little 34306
-Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
-Filename: ./debs/com.34306.reprovision_0.6.0~release_iphoneos-arm.deb
-Size: 15949968
-MD5sum: 7846259269f423523f651be9614ae9dd
-SHA1: 473992df98950559f3d3f5decdb3fd7efebf7406
-SHA256: af7a8557b07392c5fd18273812aa353011d861d3fcf0c466db4191829fe62757
-SHA512: c5cb06a9d1022790ce95fa85a4d926a107e339ae0a3da14a734810c073de7fe8ec7309d0da1b5d9d25d666ed90a21d992165bf522cb13aed91b5b6feaa392289
-Description: Re-sign applications on your device
-Name: ReProvision14
-Author: Soh Satoh, Matt Clarke
-dev: Matt Clarke
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
