@@ -208,27 +208,6 @@ Description: Unlock 60fps for Liên Quân Mobile
 Name: Liên Quân Mobile 60FPS (FPS Cao)
 Author: Huy Hue
 
-Package: com.34306.reprovision
-Architecture: iphoneos-arm
-Version: 0.6.0~release
-Priority: optional
-Section: System
-Maintainer: Little 34306
-Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
-Filename: ./debs/com.34306.reprovision_0.6.0~release_iphoneos-arm.deb
-Size: 15950050
-MD5sum: 2a69f09797d101bd84facbad5905847d
-SHA1: fb2ad225acc950236ddb3914fc9b2f3ed297f7b5
-SHA256: 1c877a6c066bc5cd7b5d7072eb09964e8f53923b931707813819005ff8d00a64
-SHA512: 91b30ce77ae0d5ba6051fe67d0bf9be08284c25ab9fd4ea6fe95f3e7f4e59d93b31283ecbfe799809ce6e26133b6749184af4a8f675f3fc1b8469e85c11e1c76
-Description: Re-sign applications on your device
-Name: ReProvision14
-Author: Soh Satoh, Matt Clarke
-dev: Matt Clarke
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -280,6 +259,24 @@ SHA512: 087963294fd5f9aa3136e74f9fc3948654e999889720e6ff281b0af6570dfa1aa89c4a15
 Description: Crack tung cai lon` vpn master luon :)
 Name: VPN Master VIP
 Author: Huy Hue
+
+Package: com.34306.ytadblock
+Architecture: iphoneos-arm
+Version: 15.42.5
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.ytadblock_15.42.5_iphoneos-arm.deb
+Size: 14398
+MD5sum: fb229cf719ff895527a98eddab3ff7dd
+SHA1: 00d6cfe25552d8cf0929d185b9cc2d081406eaf7
+SHA256: 514151b7bc779f155203d6e84af046cf1db69d6a41b66b050751a63cdf62d64c
+SHA512: 3ef3fd1ac23be6a9191687bc8fd1b9c516fd98b617e8efab9beb55254c71d27401b94ea571a0b503d9ad7e7d3596f254b266826b3cea4ee87b8b149fcdc93b6d
+Description: An awesome YouTube AdBlock tweak!
+Name: YTAdBlock
+Author: atebitsy
+Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
 
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
