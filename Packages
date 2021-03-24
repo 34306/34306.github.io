@@ -120,6 +120,23 @@ Description: Fixes the broken shutter button when enabling the iPhone 11 Camera 
 Name: Cam 11 shutter fix
 Author: andyjhall
 
+Package: com.34306.cercube3
+Architecture: iphoneos-arm
+Version: 1.6.9k
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.repo.xarold.com.cercube
+Filename: ./debs/com.34306.cercube3_1.6.9k_iphoneos-arm.deb
+Size: 15209406
+MD5sum: 5797262fdb0c0e6a8754bdad911527bd
+SHA1: 59eefabb72ddc818764b99048cb9b18cf7f3338d
+SHA256: 1e20b3e67fa06049574b4b90cf8b65edd556c65cd42dc3b5cf6ed25e69f1a9ec
+SHA512: da96d0b6d1f5baa003584a5f917cceec84cc6798b57842e2677d5061ab608fdbe88a5443cf6769274dcd436306539feb642ea8a9e38d9f75e4657ee43ce20632
+Description: Fully-featured youtube downloader!
+Name: Cercube for iOS 7/8/9
+Author: Majd Alfhaily
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
+
 Package: com.34306.douyinnowtm
 Architecture: iphoneos-arm
 Version: 1.0
@@ -277,6 +294,21 @@ Description: An awesome YouTube AdBlock tweak!
 Name: YTAdBlock
 Author: atebitsy
 Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
+
+Package: com.34306.ytlowios
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Filename: ./debs/com.34306.ytlowios_1.0_iphoneos-arm.deb
+Size: 28397898
+MD5sum: d59dbf3072f789e566e10bc405da666e
+SHA1: 8906fe47bd952940e956c8e471d0c88ebbb73e52
+SHA256: 326ce0f50f51128ff421b243f573270ea5378ede85ad7caefaf7a8998c8056dd
+SHA512: e0898e5a314dc7fb44588b8cc7d4f2a0606824dd65935cb7357594af726824f1cc77141af75aadef8162afcc54abc79abd4218e61ebb7c59c574924cacb2c7d7
+Description: Youtube for lower version iOS (7/8/9)
+Name: Youtube for iOS 7/8/9
+Author: Huy Hue
 
 Package: com.huy.little.34306
 Architecture: iphoneos-arm
