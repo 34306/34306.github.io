@@ -173,6 +173,23 @@ Tag: role::developer
 Name: FoxFort Tools
 Author: FoxfortMobile
 
+Package: com.34306.iGameGuardian8.3
+Architecture: iphoneos-arm
+Version: 8.3
+Priority: optional
+Section: iGG
+Maintainer: Little 34306
+Installed-Size: 15000
+Filename: ./debs/com.34306.iGameGuardian8.3_8.3_iphoneos-arm.deb
+Size: 3304410
+MD5sum: edfdbe62c7b1ab4c9b66f1e09790e46d
+SHA1: a2ad94c0512a41bf2b18a57f3926569c0053dea8
+SHA256: 20c15413335410d1c8ced32d854626cbf536af3a17383e1c7853cc3a9c33427c
+SHA512: ac9fb1a012e566fc54c25b02665aee0b18c3d21862224e16284b45b604c1f453914ef684c656de474afb216a1579896f0656e873d5d25208ac1129e47c7362af
+Name: iGameGuardian crack
+Author: Huy Hue
+Sponsor: Little 34306
+
 Package: com.34306.libfoxfortutils
 Architecture: iphoneos-arm
 Version: 1.1.7
@@ -308,23 +325,6 @@ SHA256: 326ce0f50f51128ff421b243f573270ea5378ede85ad7caefaf7a8998c8056dd
 SHA512: e0898e5a314dc7fb44588b8cc7d4f2a0606824dd65935cb7357594af726824f1cc77141af75aadef8162afcc54abc79abd4218e61ebb7c59c574924cacb2c7d7
 Description: Youtube for lower version iOS (7/8/9)
 Name: Youtube for iOS 7/8/9
-Author: Huy Hue
-
-Package: com.huy.little.34306
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: fb.com/huyhue34306
-Installed-Size: 100kb
-Depends: mobilesubstrate
-Filename: ./debs/com.huy.little.34306_1.0_iphoneos-arm.deb
-Size: 11388334
-MD5sum: ccb8a478ba3a5c6fbc0d93e20a56ac97
-SHA1: 8ef03e0ab09276beba9d1a39ae3fb26dbbf6ca25
-SHA256: 6cbaac60f4ae4e285ca9f446abedf764973589787813600ca50bacf4d3ace745
-SHA512: dc0f24bd1a60fe44343337a081219b9829139bdab061cdef8345e25823591a8fc6caba5376123061b7301457e94f8a2597e897a0217cb683899b4e6a73323f4f
-Description: Huy Hue
-Name: igg crack
 Author: Huy Hue
 
 Package: com.julioverne.spotilife
