@@ -242,6 +242,42 @@ Description: Unlock 60fps for Liên Quân Mobile
 Name: Liên Quân Mobile 60FPS (FPS Cao)
 Author: Huy Hue
 
+Package: com.34306.milkyway2-ios14
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 132
+Depends: com.34306.milkyway2
+Filename: ./debs/com.34306.milkyway2-ios14_0.0.1_iphoneos-arm.deb
+Size: 4522
+MD5sum: eeda1eaff56179e9d71f11e779a4f980
+SHA1: 4afd7db376934896f24251d4c4a1ad38a6de7aad
+SHA256: 448861b5911227e49c49f1f281a35715baf752cb5ecb99a8319ad2c8d0178e58
+SHA512: 0396f286c627c855284b74ba27ddae310f996134dd9c39f206ca4f77dc04770161d661b8deb13a2cdf2b529c76b91ce21ec4bf899d020b29ad210b7bf5c1b040
+Description: Fix for Milkyway 2 iOS 14
+Name: MilkyWay2 (iOS 14 fix)
+Author: Brend0n
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
+Package: com.34306.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 376
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.34306.milkyway2_0.2.1_iphoneos-arm.deb
+Size: 84492
+MD5sum: 593c555ed3dbef4bbf1e772a79493182
+SHA1: 0c76236e5891f27485ff33136ecd20ae444903ac
+SHA256: 5e399585fc7832971dda2804cedc61e97de29016462990bad84a2cd93afe4fca
+SHA512: 8a188abe77f14f56d92903c46f49a0e914edcefc73d233f27acca1f96b2446c0136a38939fae8cfab0543d62b1297b3bda6480c450bfb7d402ddc62aaa439302
+Description: MilkyWay2 for iOS 13, 14
+Name: MilkyWay2
+Author: akusio <akusio-report@neko2.net>
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -261,19 +297,19 @@ Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.34306.translomatic
 Architecture: iphoneos-arm
-Version: 2.6.10-ht
+Version: 2.6.10-cr
 Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 3048
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
-Filename: ./debs/com.34306.translomatic_2.6.10-ht_iphoneos-arm.deb
-Size: 2877004
-MD5sum: 11eadfa73f6ed7b6bed9ed44742a55fd
-SHA1: a21e768c0333db14c7f53a761cf4632e75711890
-SHA256: 6f57c349743f549faa7221520ad54bd2266682b98618d00426d72501d88f3d89
-SHA512: bc71623849b992879fe5b63dd601ff44a6836a603d244f53e64ba70cb4bb7c259f7669b5e629a708979308451f1af28ad69276687e49a8103f20a7a3379a472c
+Filename: ./debs/com.34306.translomatic_2.6.10-cr_iphoneos-arm.deb
+Size: 2877028
+MD5sum: 7ce17f82bda19a6c082bd852c10ca74c
+SHA1: 1436b50afe038b41efd319a285ef917f21a2295c
+SHA256: 25b723ff9c674979a7e23ec8c75dbd0d03a52ba741dc8dd3e37acdff1595a3fb
+SHA512: a8da438a64fa5b1f437c2f56f6b6f986eb38e008c30ac3b7a08a4e1a0563d6d693c9c1706c8aa1ac6455d0b5e2ab494a734e445b70c52bb1e026e323a919d947
 Description: Quickly translate any text
-Name: Translomatic
+Name: Translomatic Semi-crack
 Author: FoxfortMobile
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 
