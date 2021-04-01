@@ -47,6 +47,23 @@ Description: Anime Theme update 1.2
 Author: Huy Hue <little34306xd@gmail.com>
 Name: Anime Theme
 
+Package: com.34306.appshack
+Architecture: iphoneos-arm
+Version: 1.0-0+debug-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 4772
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debs/com.34306.appshack_1.0-0+debug-1+debug_iphoneos-arm.deb
+Size: 1340690
+MD5sum: 8727c5a87f22d15489bedc441b832202
+SHA1: a96cf5192739c676d853135dfd4274badd013b4b
+SHA256: f57682f64533cf693849e25a00ac372abd8919d8f9fb5c78ca3fd5bcedda1ab7
+SHA512: 872a52318763b26b8c3cf8d0cd6f20b112a5706455c9f5287cf60545fc0f090558c3ebb3d2432132ead65189729fa4f9bc5a1612b5e02ac22c371a90878678bb
+Description: App Hack with 8 Ball Pool win 100% win (go first)
+Name: App Hack
+Author: Halem
+
 Package: com.34306.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.5.13
@@ -277,6 +294,21 @@ Description: MilkyWay2 for iOS 13, 14
 Name: MilkyWay2
 Author: akusio <akusio-report@neko2.net>
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
+Package: com.34306.nicebarxcrack
+Architecture: iphoneos-arm
+Version: 1.0.0.8-4
+Section: Tweaks
+Maintainer: Little 34306
+Filename: ./debs/com.34306.nicebarxcrack_1.0.0.8-4_iphoneos-arm.deb
+Size: 722
+MD5sum: 873ab35af7c7e048282937f39c003dd9
+SHA1: 8ef98f9b79203405586af90ccacc2c46cf298e74
+SHA256: 72672406826c709e54bce32050b64f06abdccaa7241a6d1987b9b46fcb43d21a
+SHA512: d5db24905c173fac132fb67384993b6a11d15caeae1bf51c31f5c30e00a2f75a6c5e16e1def046682b87e366b3b1ed26b3e7b90dc82159a1bf0193ea9c20b3c7
+Description: NiceBarX(iOS14) cracked by Huy Hue
+Author: Huy Hue <little34306xd@gmail.com>
+Name: NiceBarX(iOS14) crack
 
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
