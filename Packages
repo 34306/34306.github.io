@@ -1,3 +1,21 @@
+Package: com.34306.GenshinImpact
+Architecture: iphoneos-arm
+Version: 1.0.1+iOSGods.com
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 9472
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.GenshinImpact_1.0.1+iOSGods.com_iphoneos-arm.deb
+Size: 2419342
+MD5sum: d4bbcbc49b80e0d1cdb56326be8537d4
+SHA1: 53e028aee21ade6ff0890b1431157b08ec87e9fc
+SHA256: b19b8285975dcfc70ab0c99b76f581c334e1a9dc3960213bac7e248ec4d7f425
+SHA512: 6af97464081ba483a869d5ce2e421a3d618cbad0611f1c25951a1a3f517eb07715804ada5902e43e1f63bba873198422aa0741feed442b4c30a8b75f516af845
+Homepage: https://iosgods.com
+Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
+Name: Genshin Impact Cheats
+Author: Laxus
+
 Package: com.34306.altstorebeta
 Architecture: iphoneos-arm
 Version: 1.4.5b
@@ -464,24 +482,6 @@ Homepage: https://platinmods.com
 Description: Cytus 2 mod by AndnixSH!
 Name: Cytus 2 mod
 Author: AndnixSH
-
-Package: iOSGods.com.GenshinImpact
-Architecture: iphoneos-arm
-Version: 1.0.1+iOSGods.com
-Section: Tweaks
-Maintainer: iOSGods.com
-Installed-Size: 9472
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.GenshinImpact_1.0.1+iOSGods.com_iphoneos-arm (4).deb
-Size: 2417262
-MD5sum: 625cb07d0e864d13f8afd24d0f2dc8b3
-SHA1: 5302684a491cf6e8aeeb1529ce40705014fd6cb0
-SHA256: a23a3e9931fefe5d59c57d4338a6ae9c106f7d290d8b1b6c0a13cd504fde9aef
-SHA512: d8a2f24fea0961f6622fe2eb8bce5bc9ce2e89950fac70b8e12cb7ec36eb8f91c1e27148e412c803cd9633a482423fa605ee2f3c2c92c0eadd5c470ddd5eba61
-Homepage: https://iosgods.com
-Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
-Name: Genshin Impact Cheats
-Author: Laxus
 
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm
