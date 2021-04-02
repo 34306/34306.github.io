@@ -73,11 +73,11 @@ Maintainer: Little 34306
 Installed-Size: 4772
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
 Filename: ./debs/com.34306.appshack_1.0-0+debug-1+debug_iphoneos-arm.deb
-Size: 1340690
-MD5sum: 8727c5a87f22d15489bedc441b832202
-SHA1: a96cf5192739c676d853135dfd4274badd013b4b
-SHA256: f57682f64533cf693849e25a00ac372abd8919d8f9fb5c78ca3fd5bcedda1ab7
-SHA512: 872a52318763b26b8c3cf8d0cd6f20b112a5706455c9f5287cf60545fc0f090558c3ebb3d2432132ead65189729fa4f9bc5a1612b5e02ac22c371a90878678bb
+Size: 1340694
+MD5sum: 08690c0c98b6f5efa6ab427c3ba0fd8a
+SHA1: 14e4f60bea7597641f50e50e0303de2721a5d086
+SHA256: 67cbb61fbe10b34d7b51b069b2d5e31bb0090a277c833cd32e8fd5fa20b48821
+SHA512: 4130274d1c08bd880820e58f56b77a4aef8f655caa16a97da51c6c652d52f072b5015c3b09667f85eb2a95eaf3737551c520b8703a1d5cfb028743be9089c4c8
 Description: App Hack with 8 Ball Pool win 100% win (go first)
 Name: App Hack
 Author: Halem
