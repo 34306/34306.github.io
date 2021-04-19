@@ -335,6 +335,25 @@ Name: MilkyWay2
 Author: akusio <akusio-report@neko2.net>
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 
+Package: com.34306.orion
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 8624
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debs/com.34306.orion_1.0.0_iphoneos-arm.deb
+Size: 2969788
+MD5sum: 57d37f0959722a56e7de07b7817019fd
+SHA1: d8fea288e78374c5ef986aa8fce15792dbb7b877
+SHA256: 13b45ace57023cc148a543599cc5db6c2642d6475cf74e2003820fd8a5c94534
+SHA512: 096a398ae29c94098eb7a6c346634a98c70a685d458c31a709a4c6d4d88c9dfb56b06a9b012921f356d40ef5ee9c89c9da416cda5a5e34673ba8fe9c8f4d8733
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: Orion Việt Hoá
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/orion
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -528,4 +547,19 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Depiction: https://rejail.ru/depiction.php?file=autotouch
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=autotouch
+
+Package: com.34306.zinitv
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Little 34306
+Filename: ./debs/zinitv.deb
+Size: 590
+MD5sum: e8c60757f6ef79d4488959885876f1cb
+SHA1: c1ba7428cbbc1f3948db914f6244dc3364ba4186
+SHA256: 71886c8b193b03153c5b5a622ba394b8e166fca31e053b22ef7befe4f5cb309e
+SHA512: a0b334a9f3db45275a34fefaf620137fdccb34e84c1d44124efed780d35323de2ba0342f1be34b48db4aae3ce72d09ff5f66e1f053b619fb520e35fb3271c23f
+Description: Watch film
+Name: ZiniTV
+Author: Huy Hue
 
