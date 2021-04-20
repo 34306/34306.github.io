@@ -343,11 +343,11 @@ Maintainer: Little 34306
 Installed-Size: 8624
 Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
 Filename: ./debs/com.34306.orion_1.0.0_iphoneos-arm.deb
-Size: 2969788
-MD5sum: 57d37f0959722a56e7de07b7817019fd
-SHA1: d8fea288e78374c5ef986aa8fce15792dbb7b877
-SHA256: 13b45ace57023cc148a543599cc5db6c2642d6475cf74e2003820fd8a5c94534
-SHA512: 096a398ae29c94098eb7a6c346634a98c70a685d458c31a709a4c6d4d88c9dfb56b06a9b012921f356d40ef5ee9c89c9da416cda5a5e34673ba8fe9c8f4d8733
+Size: 2974772
+MD5sum: 2b68b3a638bfa9fbfa70519dd121e5ec
+SHA1: 3f4d25118e7bf3393b0769a49c9061fa1e4064e1
+SHA256: 2b0d1f5319b68571063acce6125891bdebb4b4c61ea43ca1d9b18f185662d2fc
+SHA512: a834301c5ffecdb6d9a263af4d3dac514643ab01778142d0cbfeb90febdcb38e14563627bfababce6527cfa67a480dff45af4fa448b2408217ca3dd6c295f7ce
 Description: Cấu hình mọi thứ trên thiết bị của bạn!
 Name: Orion Việt Hoá
 Author: John Zarogiannis <johnzrgnns@gmail.com>
