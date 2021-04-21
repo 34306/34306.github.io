@@ -354,6 +354,23 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Sileodepiction: http://repo.kenhtao.net/sileo-depiction/orion
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.34306.orionappstoreapps
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 2132
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2)
+Filename: ./debs/com.34306.orionappstoreapps_1.0.0_iphoneos-arm.deb
+Size: 1085684
+MD5sum: ca7b1cefa21b20ef9fa96138438a3450
+SHA1: e462b05f6063c57a58763f8d2d0c05af50766e5d
+SHA256: 4e9450c18f16c2681aafd955699c60b0d2383fa4c834a5c89218ede2a2f9075f
+SHA512: 58f6f3598975d7183473c6364bd6db4fc73c836bb1c826916412b3d454110f15a613e49cb7dfa0be16734bb191ddff1d87eadf9927788da4d69ca223b7c42d5b
+Description: Kiểm soát cách dùng một số App trên App Store
+Name: Orion Apps Việt Hoá
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
 Package: com.34306.smsautofillfix
 Architecture: iphoneos-arm
 Version: 1.0.1
