@@ -544,6 +544,26 @@ Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
 
+Package: love.litten.diary
+Architecture: iphoneos-arm
+Version: 1.0-508+debug
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 7008
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.diary_1.0-508debug_iphoneos-arm.deb
+Size: 2604072
+MD5sum: fc9d8286fef999c463a907a00b060434
+SHA1: 5dd5c06e943e9daec7b9840f09c33ee39a409ece
+SHA256: 025ea2da55232b599b97602548dcf47b433cec4ecb3a31816e53de3382531da6
+SHA512: 9d13fc18e76d1b867da770346e4b874ebfe3e3771fe2aff168d8d9e0192138004e96ef66ebd7b171ee784a94825b1bfca885a41a57e3477f4f7434700d7ba8f1
+Description: The new Wondows 10
+Name: Diary 📖
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dry/index.html
+SileoDepiction: https://repo.litten.love/depictions/dry/dry.json
+Icon: https://repo.litten.love/depictions/dry/assets/icon.png
+
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
 Version: 6.1.2k
