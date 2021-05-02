@@ -208,6 +208,23 @@ Tag: role::developer
 Name: FoxFort Tools
 Author: FoxfortMobile
 
+Package: com.34306.iGameGuardian8.3
+Architecture: iphoneos-arm
+Version: 8.3
+Priority: optional
+Section: iGG
+Maintainer: Little 34306
+Installed-Size: 15000
+Filename: ./debs/com.34306.iGameGuardian8.3_8.3_iphoneos-arm.deb
+Size: 3304410
+MD5sum: edfdbe62c7b1ab4c9b66f1e09790e46d
+SHA1: a2ad94c0512a41bf2b18a57f3926569c0053dea8
+SHA256: 20c15413335410d1c8ced32d854626cbf536af3a17383e1c7853cc3a9c33427c
+SHA512: ac9fb1a012e566fc54c25b02665aee0b18c3d21862224e16284b45b604c1f453914ef684c656de474afb216a1579896f0656e873d5d25208ac1129e47c7362af
+Name: iGameGuardian crack
+Author: Huy Hue
+Sponsor: Little 34306
+
 Package: com.34306.iconrenamerx
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -229,24 +246,6 @@ Name: IconRenamerX
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: netskao
-
-Package: com.34306.igameguardian12
-Architecture: iphoneos-arm
-Version: 12.0.1k
-Priority: optional
-Section: Tweaks
-Maintainer: Little 34306
-Depends: firmware (>= 12.0), mobilesubstrate
-Conflicts: idv.aqua.iGameGuardian.iOS12
-Filename: ./debs/com.34306.igameguardian12_12.0.1k_iphoneos-arm.deb
-Size: 2975892
-MD5sum: 01cbfae5643f78dbddbe591bde776075
-SHA1: 219b42c92a73f60929913de2e2a6bbb152b1689b
-SHA256: 0a6def5da5996f669cea50eb49b55b7a3337fd6829f652a3ecd1ad912105fbe5
-SHA512: 5a92158356fdde8f91e8a796e682291b0e9b8c568d8bf2b2e5dd272a0665bf268db294cfca681850fabcd74d331bca6dcbc47bc0dab3ab6feb0f2e05b8ccb3f8
-Description: iGameGuardian crack
-Name: iGameGuardian crack
-Author: Aqua
 
 Package: com.34306.libfoxfortutils
 Architecture: iphoneos-arm
