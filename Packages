@@ -491,6 +491,40 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.rpgfarm.libapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 196
+Filename: ./debs/com.rpgfarm.libapappview_1.0_iphoneos-arm.deb
+Size: 32602
+MD5sum: b788fbd0ed590dcba0b5c9964c4013bc
+SHA1: af27c417486a4815bb373583055e4d3bf04292ff
+SHA256: 063bbdf9ad7693f655d874dd720507a97123f8f7ee69937c1f3a7bedeee6cb85
+SHA512: 459ee44ca44335e4f21ec12feecf056af4fa7b18348861fc01f0d16b9e64792d1a44662d1d6aef04b113434d79485afc70af1defbab8e146c334524c41405a4f
+Description: Get Application View on SpringBoard.
+Tag: role::developer
+Name: libAPAppView
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.rpgfarm.pulloverproapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
+Filename: ./debs/com.rpgfarm.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 4908
+MD5sum: f1b36b1857f909a25f8841910aa03f23
+SHA1: 2ebc6896e0bb45bf470f131811f95bf98efa2b95
+SHA256: 12a2ecf715ac6117ca129d5fa3c1247390a1f7cf66468b078414520dea49f441
+SHA512: 6e08e94f9cb3f9ed530844700022d7a55c7c923f1e800f4a7ddf063c8adbb94243281e50172b6e5aadd78b6aee129add1dcd7e079a531ccf7eb1e3e04607c636
+Description: PullOver Pro Keyboard Fix
+Name: PullOver Pro Keyboard Fix
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
