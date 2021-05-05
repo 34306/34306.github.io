@@ -354,6 +354,26 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Sileodepiction: http://repo.kenhtao.net/sileo-depiction/orion
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.34306.orion
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Kênh Táo
+Installed-Size: 8572
+Depends: firmware (>= 13.0), firmware (<= 14.9), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debs/com.34306.orion_1.1.0_iphoneos-arm.deb
+Size: 3020026
+MD5sum: 081411c378488aaf5a1d15185a29e1ed
+SHA1: 78851bcfa1b7b4b6aff08592b8a6d2cdfbdc01f1
+SHA256: ad71e54cfed8a738503d4ef3091acedb323d518e42961a9ccac9f7441547d6e7
+SHA512: e6f2aff7b63e334d33f094ae1f46b36270b6009f743dfe5be6cdd05c750ffbff843e491769cf55f800cc5c294cd2f49e0776806a0cfa301fce6feca76367ef79
+Description: Redesign your way to use your device!
+Name: Orion Fix for iOS 14.5.1
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.orion
+Depiction: https://repo.kenhtao.net/view/6731
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.34306.orionappstoreapps
 Architecture: iphoneos-arm
 Version: 1.0.0
