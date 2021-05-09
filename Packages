@@ -65,6 +65,21 @@ Description: Anime Theme update 1.2
 Author: Huy Hue <little34306xd@gmail.com>
 Name: Anime Theme
 
+Package: com.34306.animetheme
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Little 34306
+Filename: ./debs/com.34306.animetheme_1.4_iphoneos-arm.deb
+Size: 31679082
+MD5sum: e5d6505d07ed276979441fd85cb07b7a
+SHA1: f794bb7c134fa0fcb19c4a0d4c01dd243eea6969
+SHA256: dcaaba86e2abc7c5b759cb9c67a67f398bdce3e76c018dc380fb1eeec99fe162
+SHA512: bd4bbe4e5a0313cc0d8a6623e97aea1482c96ced6eacc65a67d90998daeb90c9ed80adae7d4bbdd68f62e4096a6f67e616b848e96924db300342ec37ad61a105
+Description: Anime Theme update 1.4
+Author: Huy Hue <little34306xd@gmail.com>
+Name: Anime Theme
+
 Package: com.34306.appshack
 Architecture: iphoneos-arm
 Version: 1.0-0+debug-1+debug
