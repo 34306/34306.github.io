@@ -1,16 +1,16 @@
 Package: 0xcc.woodfairy.koi
 Architecture: iphoneos-arm
 Version: 1.1.5
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: woodfairy & Litten
 Installed-Size: 716
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
 Filename: ./debs/0xcc.woodfairy.koi_1.1.5_iphoneos-arm.deb
-Size: 357794
-MD5sum: a50223579bc4c3f7b6da809b74b98689
-SHA1: 1c365e870135385b460d632d2d184c252ff4c641
-SHA256: bfcb4fa4bfee290e63bd4fc25f49fe270ee6144353b776a6c3bc12b0c4a49a06
-SHA512: c0688f87c0ea27009661352e29e86613ca6ed4e4b78513872a449bf917a8e73a262b7345550bd866ab121a6fcfc2a5ad7498f37cb9213eebb7c977b0a20e5641
+Size: 337808
+MD5sum: 64b5ac9f9e399125cc635972e8699ec8
+SHA1: 385a0ff263f9113f4cc5587574b0d918f0390b91
+SHA256: 983d5caa332ed297b51ae40a83bf9424830faf2f5022a804ccadd1f7ffdad403
+SHA512: 7f8eb7ab89a4c1abd9a1d62b5a3e0809d3c37fea46b647f3e9b66252ef5f7382d62451fd904e19f6f539509e0d9970ea18c5acc136a3e2a205397bd56d87fc40
 Description: Colorize the force touch menu background based on the app icon color
 Name: Koi 🐠
 Author: woodfairy & Litten
@@ -635,16 +635,16 @@ Author: XsF1re
 Package: love.litten.amonglock
 Architecture: iphoneos-arm
 Version: 1.1.5
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 23844
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.amonglock_1.1.5_iphoneos-arm.deb
-Size: 20768810
-MD5sum: b783b02fb9961f19afda9309ef98abf9
-SHA1: 7ee6ed7e9cc528d3e2577107d37ed9de96e734f7
-SHA256: 5cff2b80841700772e139be8af823fc95c02b602bf6778b7b2daf548f636b652
-SHA512: a586c8ba3633bed9ace944f2e4eb378262d0bb58fab75c803acb8a98393012867fd94e0984889f7f170845713738ead2d28ce172de5b7eb84db8abd0521eeefe
+Size: 20861204
+MD5sum: 91beb7fee46981ffed002929181e10ea
+SHA1: d0d73fe2b4dc7d29b56700cfc6d4e221b2739b46
+SHA256: df9a221c9371e6163de8aec83dd4d1c0df18abe007a1850744eb3958ef7948f0
+SHA512: 6cf100cb9114eb0cfd74e3d9a5b534911fd72d19056a95e004fb2c0d601511a9adc27c639f9acadf0f6ea0727789e02ab1ad65e46493143f3fd76258623d6208
 Description: You were not the owner of this device
 Name: AmongLock 👻
 Author: Litten & BigIlel
@@ -655,16 +655,16 @@ Icon: https://repo.litten.love/depictions/alk/assets/icon.png
 Package: love.litten.astolfo
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Litten's Tweak
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1588
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
 Filename: ./debs/love.litten.astolfo_1.1_iphoneos-arm.deb
-Size: 1250076
-MD5sum: a14f0370654df0bcd9b1b545788159d4
-SHA1: 3f0b24ffffb380b788516ff5e0aa81a8725670e6
-SHA256: 5dd2b102c6762daa4f2ad11c77d9a941f9037c39cc406598a76a9027418c2db4
-SHA512: f10a6d97b6bac690cb9b951df4d1091f6c2f665ad59174cc2523fcb277ca6a939e944c781ebdeee5f266dea37ae0e219bf98c61be9011abc2c5ae8c9184d1d36
+Size: 1250060
+MD5sum: 86d5a60cdbe373bb4265df7a6172b148
+SHA1: 2739a2c824fcc3cd6d78ce39f40a0e3a14d68dc5
+SHA256: c05d622fcd43b561c81a3600545346ce522d861bd1a3dfe627d4d01ff62cda4a
+SHA512: 6e570e4fd7e1f3e46b78e6c8efe2b6f2db2935767d98d5f680c2cac0ae8213b3ceb6cfcfabd919ee8c764d737d1535822a265d1eb167df4f06391b854a25f104
 Description: Astolfo siri
 Name: Astolfo 👒
 Author: Litten
@@ -675,16 +675,16 @@ Icon: https://repo.litten.love/depictions/afo/assets/icon.png
 Package: love.litten.avrora
 Architecture: iphoneos-arm
 Version: 1.2.1
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 740
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common(>= 1.14), firmware (>= 13.0), com.spark.libsparkapplist, com.peterdev.libpddokdo
 Filename: ./debs/love.litten.avrora_1.2.1_iphoneos-arm.deb
-Size: 376242
-MD5sum: 590a22ae92bfeb59a584f82f2639e745
-SHA1: f68af03ed177330bf685cf51a0fdcf8d14618352
-SHA256: 6c651d6868b4a6557f91103a0dbe462fa1f4fc07e3bb321fe5e4455b1a343a2f
-SHA512: af00b747df8ebbaddfec180220969d9a25dba2b7050415f0ae24c782ac038a5430764654f20b1d3828e56ea98dfa394bb273f74f87c1859bf46be6240d83fae8
+Size: 359228
+MD5sum: 0ef9451ac1ae605137ede46c7aca15b1
+SHA1: 3cdb601ed0cc574c51702e3293d3811e9e75e5a8
+SHA256: 30271f5c2c57d219afa6d8c370a2b2dba0ddc1fe56b08a405f6c0510280a08ce
+SHA512: 48c2c1d9c7105abff06c60d84e44154b71ae109432e23bbded8343bfdd321192f1db5989c1c597bb9e533726cf47fdc1ae5071479e3898a27166c08aca672fed
 Description: Shiny icons need shiny names
 Name: Avrora 🌌
 Author: Litten
@@ -695,16 +695,16 @@ Icon: https://repo.litten.love/depictions/ava/assets/icon.png
 Package: love.litten.batterybuddy
 Architecture: iphoneos-arm
 Version: 1.0.1
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 192
 Depends: mobilesubstrate
 Filename: ./debs/love.litten.batterybuddy_1.0.1_iphoneos-arm.deb
-Size: 15472
-MD5sum: 8ab5a12f876281c740395cbe7a341a12
-SHA1: 26b43cb50b0032e6a02b2e8bf0c0865e43d55844
-SHA256: 19576b0ecb40151390ff52349142ff1d83967aff8635e6bfb0d9778efaf2b882
-SHA512: 085e45137e68e76083d28de8635a3c7abfd3158b1adf81785b861c33cb85c5009d895e9a651a4100bece05dea77274675043b138b96ccb00ee870fe2d13bc992
+Size: 11142
+MD5sum: d73174c5aa9a5cfa696d47224df31885
+SHA1: 826f0d63aa51bc58bcd865d88217098c52e59557
+SHA256: 8c75d06938d54fbf36a3b54e668894a50c96dc7c55e0e0f82d3b709ad2911424
+SHA512: 45b8770a8132b254bc488dc66ad968bd788c988bd9caea5a8d4c76836031fcd86add54c7017549a386c9bb1c9c11b82712e7538bc16d40aeb5da1ff7afcab2ed
 Description: Battery indicator, but cute
 Name: BatteryBuddy ⚡️
 Author: Litten & neilsardesai
@@ -715,16 +715,16 @@ Icon: https://repo.litten.love/depictions/bdy/assets/icon.png
 Package: love.litten.butterfly
 Architecture: iphoneos-arm
 Version: 1.1.6
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 680
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Filename: ./debs/love.litten.butterfly_1.1.6_iphoneos-arm.deb
-Size: 326344
-MD5sum: 734cc9f81b107df4e50e8c88343acb67
-SHA1: 00fd225134dea8667a838893f0c13f559e9df758
-SHA256: 5d8289cb5f19f432e822592955526c2211bc0b499b18079ea042a24cd540da77
-SHA512: 3dcdebda5477a4a5ce8aefea86e4f7b13a90a58e9d5053cb3cfbaa67f5c3d02756d909faddc9fd08534dcdbc5d83528b9f8f19b4dfa915e3c8c78031abb9cb03
+Size: 306436
+MD5sum: 8b2fab2cf397eecd8cf406308481cf6d
+SHA1: db653504df0305e2fdd86191a429aba3b3bd16b7
+SHA256: 6b901971adbfd6b18337a6e425a3f2cb174ccaa1ad5b4d7a9022515def87764b
+SHA512: e7ca5a1924ce993928191d6640757492fae1e9f8429ac647f80eb6591ef95e18295bfee14764491b4f17d84f2851cc8e24abaabc70c89908000ff10a2d5beb0e
 Description: Little colors flying around everywhere
 Name: Butterfly 🦋
 Author: Litten
@@ -735,16 +735,16 @@ Icon: https://repo.litten.love/depictions/bty/assets/icon.png
 Package: love.litten.crystal
 Architecture: iphoneos-arm
 Version: 1.3
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 724
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.crystal_1.3_iphoneos-arm.deb
-Size: 366848
-MD5sum: d790d6126670ebcb0b367b1229deddce
-SHA1: e7d636f690680323153f9f0fa5f1aa0c1d50f3c8
-SHA256: 8a1786adfca755f91b1dc9aafb9db039ae4e6800b13ff1b08d3e8a66d919fb3b
-SHA512: 5939a1bebf53305e86809461f18c0738fa860e1177b8663115539980936853b897d0fcea42e20de932d7a2eb4cb282dc954e0a71ff47e56e0edaae5b62b7c997
+Size: 347446
+MD5sum: bcb0d8aa3ffb08109019fd95e0ba56ad
+SHA1: 63152d034d05b57ebe48b69149ace0a168752257
+SHA256: 9e5ae299800e651142e726f937604e8d1cbe175b5a467086c37b986ac0fa7ddf
+SHA512: be29eae575ff7c3ad34176cb1c3ec692c29ce4ab768b55688dc5351186a5b9d0c0efe728a6669c5763225abff5e4b6b1369d76741b67b8fa07ff17bce0704402
 Description: Headphone listening mode automations
 Name: Crystal 💎
 Author: Litten
@@ -755,16 +755,16 @@ Icon: https://repo.litten.love/depictions/cst/assets/icon.png
 Package: love.litten.dejavu
 Architecture: iphoneos-arm
 Version: 1.2
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1432
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.dejavu_1.2_iphoneos-arm.deb
-Size: 1067890
-MD5sum: 3548da74b24f23fa9a28caa19a5caece
-SHA1: 794546aca58ac9f62d46e8c2a0f197b4a6696666
-SHA256: 7da780a5041a3dd2df050748f050f33e205073fecccea27ed836331315ccba66
-SHA512: 374129ed0e968859a284519f666bf25ca0687364b77aae1a520fd3370001c6468a00baadb2066de675fa6b03cf5c177d7ef3a14960194875315e61dac32cd6ab
+Size: 1048370
+MD5sum: 224c5d050fb83ea5ae2d6c40ca8471bf
+SHA1: 47865cdf0f588476d7455da8ecd5c684bdc5fce8
+SHA256: 086d371ef5e73245ecb2aebd5465a9b3740789bd4bd56b8093a41c812cbad785
+SHA512: 562ebe96aea700e7d424cccaca03320d34cc0c2ffc4ea013ee561470819fc1b112de62f139248e8c9a708accc3d30074d03cb2cfa3b67bdfaed380c2a980a0d4
 Description: I've seen that before
 Name: Déjà Vu 🕰
 Author: Litten
@@ -775,16 +775,16 @@ Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
 Package: love.litten.diary
 Architecture: iphoneos-arm
 Version: 1.0-508+debug
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 7008
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/love.litten.diary_1.0-508+debug_iphoneos-arm.deb
-Size: 3390826
-MD5sum: 858396d2f0f9bb5851a28a8cd22e82e5
-SHA1: 9abc57db33452357c7cff98d6f2d3caf0948beb9
-SHA256: b45ec029f1cd1400bb580120126fcfd2420e2b2a2c71742305f6e8dc0d30ea7e
-SHA512: 8a568232afe5fc7288a7427d365a54058b61b5a9d5291f933c99d81564e5b23891bad0718201a7f6cd77c834bbbc0dccaab1c0dfcf72a7e5fb136d3709840cf8
+Filename: ./debs/love.litten.diary_1.0-508debug_iphoneos-arm.deb
+Size: 2604072
+MD5sum: fc9d8286fef999c463a907a00b060434
+SHA1: 5dd5c06e943e9daec7b9840f09c33ee39a409ece
+SHA256: 025ea2da55232b599b97602548dcf47b433cec4ecb3a31816e53de3382531da6
+SHA512: 9d13fc18e76d1b867da770346e4b874ebfe3e3771fe2aff168d8d9e0192138004e96ef66ebd7b171ee784a94825b1bfca885a41a57e3477f4f7434700d7ba8f1
 Description: The new Wondows 10
 Name: Diary 📖
 Author: Litten
@@ -795,16 +795,16 @@ Icon: https://repo.litten.love/depictions/dry/assets/icon.png
 Package: love.litten.dress
 Architecture: iphoneos-arm
 Version: 2.5.10
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1048
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker
 Filename: ./debs/love.litten.dress_2.5.10_iphoneos-arm.deb
-Size: 358852
-MD5sum: 410a1fdcc67e59d87c80441edbb204bd
-SHA1: edfd68491b803a660f2eae78fd7ba660e4d7ea27
-SHA256: 05a046b53345339186f725f3d3fdf8739afeabaa1ed96710392648b01be27a7b
-SHA512: ff743b01840c3540eb78f5ff3e127ff070fa42e9fbd22a56df2b8ccfae48f2af944ee983f45849922c7c21631f2d69e3d2358d9d2a04ea1f32ccdd792a795f24
+Size: 304116
+MD5sum: f81b2a5d53708dc169ba03a6e793f819
+SHA1: ef77080f2c9d17aa41358fc8b096c4a9078f475d
+SHA256: 5efd83d182e5beeeb11c58422db3e7cbef954ac6f3c62b6335f4d1daeb727ce4
+SHA512: 3664ac63c15485112469a2fa14ce958eb13cb54ec93a9fc2a5d63ad27f504ccc3f931f56dbac97c4e21ba517d2cf9268952b4b90911c95134f235f107a21ddff
 Description: Dress up your lockscreen
 Name: Dress 👗
 Author: Litten
@@ -815,16 +815,16 @@ Icon: https://repo.litten.love/depictions/drs/assets/icon.png
 Package: love.litten.eneko
 Architecture: iphoneos-arm
 Version: 1.1.1
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 680
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
 Filename: ./debs/love.litten.eneko_1.1.1_iphoneos-arm.deb
-Size: 304724
-MD5sum: 6864929c6cb710d263a19a20fea38d2a
-SHA1: 48b207c6df1216e44a03af576867780c074f8879
-SHA256: ee327878e8e127bc9383e72f0c6fcdda3866568f65f21776a5922c32da36493a
-SHA512: 5baf6e61a93507d1291e66a2cb34ec579b509646f0ceac45cca9279a42d2b3501965e768dbe9c50d52649976831f6540483f1b1b065b858264ff929f6a971175
+Size: 279734
+MD5sum: 63dba21be98af7c5881da108b44a4997
+SHA1: 68501ef21f33de814827969e647958c16fa829b8
+SHA256: 35221b1ac02f2c69216b40ea951621141375bce2da5f3294c98e6fd812c01fc5
+SHA512: 6eb02679e04d3a8aa51f9327210de9c0a57a6d98e63373f260b0a5909de945a728a0ebeab57c183b8a9feadac027fd07db665bb536f90f22b82f57bc2630be5f
 Description: Set a video as your wallpaper
 Name: Eneko 🎬
 Author: Litten
@@ -835,16 +835,16 @@ Icon: https://repo.litten.love/depictions/ene/assets/icon.png
 Package: love.litten.heartlines
 Architecture: iphoneos-arm
 Version: 1.4.5
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 5484
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.spark.libsparkcolourpicker
 Filename: ./debs/love.litten.heartlines_1.4.5_iphoneos-arm.deb
-Size: 3653324
-MD5sum: 1cb7b97e6644274bce2d4991e4a51fe3
-SHA1: 89c0c9d67d49da7d2fc548ceae5dce3f3c219819
-SHA256: 679e36fed76249e95fa8776a88cb0d33a3c8ee9585ef1172bfc8361626d38ff6
-SHA512: 3a83ddebd2ac20a971324319296be39f19fda5ab8f91fbedc48069baf765c049728150d693c08142dc839e0550424e3416bd90430aaa4f40870496daf5ffc647
+Size: 2616272
+MD5sum: 22d8fbaa61228939da247b7dbdc1832b
+SHA1: cbacb580ba283cf18ceb11ce7a9ef2df86039bc7
+SHA256: 3151069ca08edbcea615e37701cababa6cd98ed14eba5bba4092794eb3bc5e38
+SHA512: b2539889b1ebe242b51131b28cfc490aa2fba2d7186717559b65285cbe98999b61e1ca98daebab84c3599aff24b4cc155a75f46f38ee2930fb89697f7aa3311e
 Description: I know there's trembling in your heartlines
 Name: Heartlines 🌺
 Author: Litten
@@ -855,16 +855,16 @@ Icon: https://repo.litten.love/depictions/hls/assets/icon.png
 Package: love.litten.lisa
 Architecture: iphoneos-arm
 Version: 1.4.1
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 556
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.lisa_1.4.1_iphoneos-arm.deb
-Size: 137388
-MD5sum: 89b97b1d083e27337acfa4d4f9dcb479
-SHA1: 95485035cf28d759a0a059e4432ab0e869e14b23
-SHA256: dea7a7bb77292353ab5878dc22041d1b302c69de079734a96be43d3e9271c27a
-SHA512: 022a04650b3eae1490cea4c53e3a1750d8bac803d4760b213bd2016acd9bfd6f107d90bc751e0c3b18c68a86f7d481a27098c3149b3d8f6399dd6f6a5e5d1408
+Size: 102674
+MD5sum: 62b83a6ffefa4d2795a6260296c2347c
+SHA1: f812098ccf7242ad6f104b96aa810b7e3308d7b0
+SHA256: 8b49e9b023fb4b50fc48178f9e8c65b920de39f88f5c3b435bfe5ccc7fd9a9f8
+SHA512: 624231b756e1c3101357c00ef7d6bd6d5b6a73a290a5a8c7855a99144592dbf6d0f3679bda70ea5efda7ab6c0f8b95310a694b2a1d0cd34709cd502c266f4634
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
@@ -875,16 +875,16 @@ Icon: https://repo.litten.love/depictions/lsa/assets/icon.png
 Package: love.litten.lobelias
 Architecture: iphoneos-arm
 Version: 1.3
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1052
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten (>= 1.1.1)
 Filename: ./debs/love.litten.lobelias_1.3_iphoneos-arm.deb
-Size: 612748
-MD5sum: 8e604a17179b30645caff37de9751a29
-SHA1: b1516ee73f448eb8a178b192fcbd2993ddf69d60
-SHA256: be0984d33ff21932804427e1b64c54522b66a862d556d6ed9f846f165bfcd04e
-SHA512: bf7876bcdb724d1a5db682d287934ed9fc1cf733c3ef31c4546bae823d23346cdd62a456f05b46cde0ca4f7dd4d629b8dbe4077032e00f6958fdab20cfee8ab4
+Size: 562120
+MD5sum: ca984c887400f679498caf2f20678318
+SHA1: 7606e33e3b9f16a850a2e9c98e653240f0787d1e
+SHA256: 4e7022697b4794a3197e7771ad5300ad8bf23dd3a8d589872baf4d64e0c4e2de
+SHA512: b67dccbcd642a4d6d6e4cc1cb2749b48237fea737aa6c116d195e5fea229a4995178988e65981f75286b30b1a225c4c0dd1d658095ae0645d10482ef1ea032a4
 Description: Redesign your lockscreen player
 Name: Lobelias 💐
 Author: Litten & J3nRa1n
@@ -895,16 +895,16 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Package: love.litten.lune
 Architecture: iphoneos-arm
 Version: 1.3.4
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 644
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.spark.libsparkcolourpicker
 Filename: ./debs/love.litten.lune_1.3.4_iphoneos-arm.deb
-Size: 282442
-MD5sum: 2745af89d7c4b9d4c25b79aa0d36abb9
-SHA1: 8528ebe1fef0be748a0b08590262b99ccdc2de6b
-SHA256: 3edc77f6bb07ecfae8f5ebbe299ac091d4e33bb9b3c9137125d4956504256d9d
-SHA512: 87c3be821046c28cbbc16f0e1916aeaa346184ae0b1feba0b9833f41a8fd5cf289fcbd46b123564b561c137ac154d8bfff60b32c5153221ed2f594b916180637
+Size: 259788
+MD5sum: 914fe1e24be548ce9060c2650c6968ac
+SHA1: b70b5d8628126e879a4603b6735cd6d7333e9f98
+SHA256: c544eeef9403f566fac4033d705e9c1528b83256830d7102aa539ad2f88b1352
+SHA512: 98eb24c6b1b38cf559271d8448e2f171ab9f42ddddc9cab679b3228edbdbdd6409c00a5d523794e2dad204c76048e4e1c2cd740195b801524f4a7c320f2d76f7
 Description: Twinkle twinkle little star
 Name: Lune 🌙
 Author: Litten
@@ -915,16 +915,16 @@ Icon: https://repo.litten.love/depictions/lne/assets/icon.png
 Package: love.litten.nita
 Architecture: iphoneos-arm
 Version: 1.4.6
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 568
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
 Filename: ./debs/love.litten.nita_1.4.6_iphoneos-arm.deb
-Size: 202658
-MD5sum: df11e9af6b8768a00c4bfa8b1ece744c
-SHA1: a9da2212ddad7cbf339b752934e54dd545640433
-SHA256: 0785efabfc08f1fe3d6a09079068b1fbd14bb2d176233fc1f00222138c6fb808
-SHA512: 1409ea80cfaee8619598074ee1608e009fb67a3af6be672ce24809e011200dc412c6ec8ddf87cb8f0c7107543fc8bf39dbc2bcbdff182ba6c07b4431803fdc1d
+Size: 182532
+MD5sum: ec41144a075245c8688608f92d829c6e
+SHA1: b950bae5f90f3ae7e8c0dc5cf53d5b0c52cdbd5f
+SHA256: 34771371ec372259f32d7a2160556d045f57d9cf5e395da30a3c51c33d7a759d
+SHA512: 8bf483ce501a59dedf7a44a7e00df216e118089698bfc66e2f3a9ed06d06218688f9e83d722ff7de7f2c363ea8c30885184a9953fa9c6e320d3256aa4a553066
 Description: Ensoleillé
 Name: Nita ☀️
 Author: Litten
@@ -935,16 +935,16 @@ Icon: https://repo.litten.love/depictions/nta/assets/icon.png
 Package: love.litten.puck
 Architecture: iphoneos-arm
 Version: 1.9
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1940
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
 Filename: ./debs/love.litten.puck_1.9_iphoneos-arm.deb
-Size: 1100514
-MD5sum: 5f25f441f5ea664a6ac3e518f9efb895
-SHA1: 1a5a5de169c66d76bef304614cbaa6832cb963c8
-SHA256: fe18136bcb5aee83c2bcc9aa5a76bc3bbb9a403ee91f949e2717bb262ca7bc8f
-SHA512: 2ffccb5f61d59ae05cea94f20b506deb6751e928b1d1c49b7ec70c9c5d47e761247dc1aa7c35928d16804fe956e5578f89d3fd6dc51515a659f600f7330389e6
+Size: 1068116
+MD5sum: 94000f906288d8e29def8138dc807656
+SHA1: 26ee19e95078d4d5c28048c61d9eba15f49f1581
+SHA256: 58520fab8321772c7154803b078b0a5c9c58862f4e0a4a3a3bc121ca3a0bfdce
+SHA512: 2c89f5b437a366feeb72a3a800635bf95c4930cdfc5482bf43346d086821f9456ee51c2c415775f74b6fdd576b4510443339738e2661cc5af09c2ca9a76956b3
 Description: Your magical watching spirit
 Name: Puck 🔮
 Author: Litten
@@ -955,16 +955,16 @@ Icon: https://repo.litten.love/depictions/pck/assets/icon.png
 Package: love.litten.rose
 Architecture: iphoneos-arm
 Version: 1.0.8
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 2668
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.rose_1.0.8_iphoneos-arm.deb
-Size: 547554
-MD5sum: 723d854b814b3f6674ebd1556cc3815c
-SHA1: 53e43988a3a8422d0e8be94733260f2cccf13416
-SHA256: 464a6bb350b92cf31c286f6450725fdc9af34dfcd61ca4ee01dce8620f0c5c7b
-SHA512: 2794b795a47fe086aabe9bccb1acd15e2bdbd7d8e9803fdbe4cdb7c2089d5f8f6cdcf19d5ff96ad012e023861a580d290fee80bab78e51d51eb089d749e7060f
+Size: 434610
+MD5sum: 3f750da7aa532bb567d95b72bd793bac
+SHA1: 92634ec6702826a8a9f9450d298280bf323df721
+SHA256: cb8033a91121e6efd39519c751cb7e5bbd72213b077e9ec52543cdd999ff7c56
+SHA512: 38b78e711459af45ab70d7d6ca59738e7bc084f6777b5b6461690af88d726bb17c4e3bb4295a4adc72d314dd215693069ebccfa2bc89791e620068bec68e228b
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Name: Rose 🌹
 Author: Litten
@@ -975,16 +975,16 @@ Icon: https://repo.litten.love/depictions/rse/assets/icon.png
 Package: love.litten.safariwallpaper
 Architecture: iphoneos-arm
 Version: 1.4
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 612
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
 Filename: ./debs/love.litten.safariwallpaper_1.4_iphoneos-arm.deb
-Size: 252966
-MD5sum: 0322f4a30b370f182aa1662219664f17
-SHA1: 4f7cbe0e61bee5663f7f34d438742cdc695f10af
-SHA256: ae7d987a0362209aa439178b6f98548dd6840d121de8efb6fb4de436a7ce3a54
-SHA512: c836ae4a351732ac0bc127f3d4d668de6ba1d90ee23968fb748e4415dddc098439b641660c5188beccfa47331018e86123260d8c611e99e6c363b93d121ce546
+Size: 231672
+MD5sum: 5b9ddd447dfb12bb41ecaed7827fff78
+SHA1: a7f7535c13f1b613939702b9a346feb2049f1c8a
+SHA256: 8c30dc933ec2bed985ee953774d374f3d98ae396919258490d2b97581072ca14
+SHA512: b395204065a698c44e9ab56392e37747badbd0f65d4c9717ff030130a5eb293e6a943e17197a7b1856eb3a170f6b6346bcbe3987f8629706dfaeab6519a32bd4
 Description: Personalize Safari with a wallpaper
 Name: SafariWallpaper 🌇
 Author: Litten
@@ -995,16 +995,16 @@ Icon: https://repo.litten.love/depictions/saw/assets/icon.png
 Package: love.litten.violet
 Architecture: iphoneos-arm
 Version: 1.6.1
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1112
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.violet_1.6.1_iphoneos-arm.deb
-Size: 368686
-MD5sum: 267776104917ba8ad0fcdc2a3c601078
-SHA1: 98e4247ccfda8a1f7f96fb285d392504eb46d7f8
-SHA256: 4e056d376f63234b6b9c4868a115742d94119c55b80982918fe50836d7853f92
-SHA512: c53e8908beaf5469f59bcf23c7879da3db5074afca9f5ff50a6c5d982e23f4d810c404cc43c412d711c52b187ae998b5f98d7c1873c2e4eb29e2700eba70c608
+Size: 315798
+MD5sum: 9468793fa5d654b02978606c3c8f33d8
+SHA1: d100c980cc2f9d1ce33e3eaeec9d72f5c24ed49b
+SHA256: ecf2b0509ad0d63f0d34b4ade324ca1fa6f9d1ef65a909a4823d2fe9bee44cee
+SHA512: a2f43a47a7c4681c51098720ab17eb77e9098c725aec11c8b30967568a4b441b3482d4417009750f9f6673060eea6049b200426b3e7052aa0589a0cfd84736ac
 Description: Sweet addition to your wallpaper
 Name: Violet 🎀
 Author: Litten
@@ -1015,16 +1015,16 @@ Icon: https://repo.litten.love/depictions/vio/assets/icon.png
 Package: love.litten.yuna
 Architecture: iphoneos-arm
 Version: 1.0.1
-Section: Litten's Tweaks
+Section: Tweaks
 Maintainer: Litten
 Installed-Size: 5280
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
 Filename: ./debs/love.litten.yuna_1.0.1_iphoneos-arm.deb
-Size: 3544492
-MD5sum: 1b88b2d28db328f226cbcc7c3ae19857
-SHA1: 48c8fa017125e7589357e16818aef62c400ba61d
-SHA256: 33c7c914b49bfe92f96c658f3c9d9e325fc63ef13e91d851effda13c26c3e0e8
-SHA512: d33bca43a42a8d88c392f4aa17adfdb8899845a4ab142e986ce2828b2eb6b2605cacfd7cf21f464ec0cd19e7e99bc2e24d3a443c487da2069ef5ec30c5f85d5f
+Size: 2464924
+MD5sum: 8569f211c108c6d1c6e47ce54070d660
+SHA1: a3d4334456adc78bf9fe812be8c14558bb84d91b
+SHA256: 2859c00eb103bb3f403f284234398e98bda9110b38facd9ab8e8754659a9422e
+SHA512: 063a37847e505fb4b7a900549b5605600ea5b3c96c20a823fdf0000bf64e0f0d0bc9e3cc4b84356f82d7d9b8d2e011ea5837fd90f5e8309d90c37b473821a1b8
 Description: Strawberry cupcakes
 Name: Yuna 🍃
 Author: Litten
