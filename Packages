@@ -612,6 +612,26 @@ Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
 
+Package: love.litten.astolfo
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1588
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.astolfo_1.1_iphoneos-arm.deb
+Size: 1250060
+MD5sum: 86d5a60cdbe373bb4265df7a6172b148
+SHA1: 2739a2c824fcc3cd6d78ce39f40a0e3a14d68dc5
+SHA256: c05d622fcd43b561c81a3600545346ce522d861bd1a3dfe627d4d01ff62cda4a
+SHA512: 6e570e4fd7e1f3e46b78e6c8efe2b6f2db2935767d98d5f680c2cac0ae8213b3ceb6cfcfabd919ee8c764d737d1535822a265d1eb167df4f06391b854a25f104
+Description: Astolfo siri
+Name: Astolfo 👒
+Author: Litten
+Depiction: https://repo.litten.love/depictions/afo/index.html
+SileoDepiction: https://repo.litten.love/depictions/afo/afo.json
+Icon: https://repo.litten.love/depictions/afo/assets/icon.png
+
 Package: love.litten.diary
 Architecture: iphoneos-arm
 Version: 1.0-508+debug
