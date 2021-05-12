@@ -207,6 +207,25 @@ Name: Cercube for iOS 7/8/9
 Author: Majd Alfhaily
 Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
 
+Package: com.34306.copylog
+Architecture: iphoneos-arm
+Version: 1.5.3k
+Section: Tweaks
+Maintainer: Ali7assan
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.34306.copylog_1.5.3k_iphoneos-arm.deb
+Size: 2122874
+MD5sum: cde9ece35091a99e78af62848d110826
+SHA1: bb4f330f37bc68e8d3285cccd332ed6a650fc59c
+SHA256: f8bf5d2c212c7b94897a31827bef25db53b80d61684adacaedc446355fbd9414
+SHA512: d434022bed3ee1ab7d95d27038c6945345cfa2c067676d4f89e16b40a94897002819a33b92ae7a884db66c0f1938dd63c0fdce5abf22f96d0a0f71c2d7628792
+Description: Clipboard và một số thứ khác, việt hoá bởi Huy Huế
+Name: CopyLog Crack VN
+Author: TomT000
+Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
+Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
+
 Package: com.34306.douyinnowtm
 Architecture: iphoneos-arm
 Version: 1.0
