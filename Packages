@@ -207,25 +207,6 @@ Name: Cercube for iOS 7/8/9
 Author: Majd Alfhaily
 Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
 
-Package: com.34306.copylog
-Architecture: iphoneos-arm
-Version: 1.5.3k
-Section: Tweaks
-Maintainer: Ali7assan
-Installed-Size: 4604
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.34306.copylog_1.5.3k_iphoneos-arm.deb
-Size: 2122874
-MD5sum: cde9ece35091a99e78af62848d110826
-SHA1: bb4f330f37bc68e8d3285cccd332ed6a650fc59c
-SHA256: f8bf5d2c212c7b94897a31827bef25db53b80d61684adacaedc446355fbd9414
-SHA512: d434022bed3ee1ab7d95d27038c6945345cfa2c067676d4f89e16b40a94897002819a33b92ae7a884db66c0f1938dd63c0fdce5abf22f96d0a0f71c2d7628792
-Description: Clipboard và một số thứ khác, việt hoá bởi Huy Huế
-Name: CopyLog Crack VN
-Author: TomT000
-Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
-Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
-
 Package: com.34306.douyinnowtm
 Architecture: iphoneos-arm
 Version: 1.0
@@ -633,6 +614,25 @@ Homepage: https://platinmods.com
 Description: Cytus 2 mod by AndnixSH!
 Name: Cytus 2 mod
 Author: AndnixSH
+
+Package: dev.midn1ght.copylog
+Architecture: iphoneos-arm
+Version: 1.5.3k
+Section: Tweaks
+Maintainer: Ali7assan
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/dev.midn1ght.copylog_1.5.3k_iphoneos-arm.deb
+Size: 2122378
+MD5sum: b460eb421fa23a8388383400b5b7cb13
+SHA1: 1853e7cf9a5bc7f0a0145f517889707db29a9282
+SHA256: 5271b214cdf0b1f048123ffe060bcf1a1f535dc822ba16705dc5cc307558c91f
+SHA512: abe10e60f8dac6dd761141a12ff377930875f7d607a0c43532cce6f147b024b240fd131c1aa53fc11e41cd806450ce63eec14b0b03422af16a4c4d26330e61f1
+Description: Clipboard history manager for iOS!
+Name: CopyLog Cracked
+Author: TomT000
+Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
+Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
 
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm
