@@ -496,6 +496,23 @@ Name: YTAdBlock
 Author: atebitsy
 Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
 
+Package: com.34306.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.34306.ytclassicvideoquality_1.0.0_iphoneos-arm.deb
+Size: 3448
+MD5sum: 2b51c50d2cfc9ff1a1f5ec66b53859b6
+SHA1: 6dd90e9976300be04021565be9c3c3d36613f9ca
+SHA256: 6397464160e52e5b8a1fd97a5c9bcd9a36fae33f5c0f924ef9048f14f8ccc918
+SHA512: 42eb5127278f1483add28552ad07bb6e2a5364071810426d673c2f212c6ba091661dd9d4cecccf2c5413e7ceb197b9387aa4264b2c83f35e2c18eaf5c7fb9034
+Description: Revert to the original video quality selector in YouTube app.
+Name: YT Classic Video Quality
+Author: PoomSmart
+
 Package: com.34306.ytlowios
 Architecture: iphoneos-arm
 Version: 1.0
