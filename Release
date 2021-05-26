@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: A little repo to use
 MD5Sum:
- a32adc7123312d84428039b251240498 47836 Packages
- 30cfb78848ebaf8e852e0fc216034974 15069 Packages.bz2
+ 4ceb660f7274f302a46264630ee6fb96 47814 Packages
+ eb96c4e45b39ea97a2b9e4218295bb15 15063 Packages.bz2

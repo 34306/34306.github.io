@@ -100,23 +100,6 @@ Description: Anime Theme update 1.4
 Author: Huy Hue <little34306xd@gmail.com>
 Name: Anime Theme
 
-Package: com.34306.appshack
-Architecture: iphoneos-arm
-Version: 1.0-0+debug-1+debug
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 4772
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
-Filename: ./debs/com.34306.appshack_1.0-0+debug-1+debug_iphoneos-arm.deb
-Size: 1340694
-MD5sum: 08690c0c98b6f5efa6ab427c3ba0fd8a
-SHA1: 14e4f60bea7597641f50e50e0303de2721a5d086
-SHA256: 67cbb61fbe10b34d7b51b069b2d5e31bb0090a277c833cd32e8fd5fa20b48821
-SHA512: 4130274d1c08bd880820e58f56b77a4aef8f655caa16a97da51c6c652d52f072b5015c3b09667f85eb2a95eaf3737551c520b8703a1d5cfb028743be9089c4c8
-Description: App Hack with 8 Ball Pool win 100% win (go first)
-Name: App Hack
-Author: Halem
-
 Package: com.34306.bakgrunnur
 Architecture: iphoneos-arm
 Version: 1.5.13
@@ -369,6 +352,23 @@ Description: MilkyWay2 for iOS 13, 14
 Name: MilkyWay2
 Author: akusio <akusio-report@neko2.net>
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
+Package: com.34306.modifyapps
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 10524
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debs/com.34306.modifyapps_3.1_iphoneos-arm.deb
+Size: 2694884
+MD5sum: e419c792a09f444564801a9101374249
+SHA1: 313a8a598472db83f3e9e9bd19728f64f4ea097c
+SHA256: 2b0e0c12ee0e5f692bfe97c9a6682840bf676f2964b44f65d6e2278289cde41f
+SHA512: 1d248eff78d3a80bec6321fcd9cbd6a952097c95c93ec8374067c4eb53404d284a3b0927fe0481920e0ff8d34242f5ea2a9dde081a773b225a53dc7f6e32501b
+Description: App Hacks with spme awesome tweak!
+Name: Apps Modify
+Author: Halem, Huy Hue (trans)
 
 Package: com.34306.orion1451
 Architecture: iphoneos-arm
