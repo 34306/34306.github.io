@@ -513,6 +513,25 @@ Description: Revert to the original video quality selector in YouTube app.
 Name: YT Classic Video Quality
 Author: PoomSmart
 
+Package: com.34306.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.34306.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
+Size: 3078
+MD5sum: 42af65fe39ff1a7a1ad9e77056eab19d
+SHA1: 9e37b55a089b5b9d34c11a7bf881748a74426495
+SHA256: 4ac508932d290f8578632692863e81ae7972024496e958f33dba0760ea45b676
+SHA512: 618449a28feaf703b7638fa10526cde8ed1a5938df2fca911db3f1df71e0adc483c87a54a89507991124ef3658e60b9a7c5a3354c4142d553fdb4d0e03d927ee
+Description: Revert to the original video quality selector in YouTube app.
+Name: YTClassicVideoQuality
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytclassicvideoquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytclassicvideoquality.json
+
 Package: com.34306.ytlowios
 Architecture: iphoneos-arm
 Version: 1.0
