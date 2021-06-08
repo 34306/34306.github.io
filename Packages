@@ -623,11 +623,11 @@ Section: Wallpaper
 Maintainer: Little 34306
 Depends: mobilesubstrate, wallpaperloader
 Filename: ./debs/con.34306.ios15wallpaper_1.0_iphoneos-arm.deb
-Size: 54103754
-MD5sum: 53307a2ca5ae8ef5c60066404efd3b84
-SHA1: a9eaabbfe015db252bf468ffb74cbde5d32b23de
-SHA256: 07425173c2dfbabe04db14b5680f1f5e8672549a6f241d4ab22be8b400f2532f
-SHA512: cbd9aebbeee7e5667872952532e9d9d3bda255affc5e429881e629268989681aa101ca71f1997b94abbf329fe1c90d574fdd0e3c5aefc449f670d04a7e8997f4
+Size: 53805012
+MD5sum: e8ebab15405aae5c97fa481a4e520ee0
+SHA1: 3ea656e4eea6497e84cb00e5474195ae2a636546
+SHA256: 10dd4e9d0096f702c7e0c1ef6c44077a6542a4b713022dcd1cd0b4ed34617a66
+SHA512: 34e6da01a41eac8978fd29e2bd14d55557442d86a5a8c63e3df55cfcd2085af86ba6bd1a91798203a9f1f9449a08bd8729ced012f3b6347f8fe199dc883b9b12
 Description: A dark/light iOS 15 wallpaper.
 Name: iOS 15 Wallpaper
 Author: Huy Hue
