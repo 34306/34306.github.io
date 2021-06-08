@@ -632,6 +632,22 @@ Description: PullOver Pro Keyboard Fix
 Name: PullOver Pro Keyboard Fix
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: con.34306.ios15wallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/con.34306.ios15wallpaper_1.0_iphoneos-arm.deb
+Size: 53805018
+MD5sum: 99c3f325d42c42f69b486f532dc47a03
+SHA1: ceec752a5f1e53efc03b6dd42e28913fcd00c387
+SHA256: 8f916a358b95999b8512ac67981e2e2dc0e0d5561b663f03a3e208be6e098f5e
+SHA512: 610d4c40ae018cbb8271c93e0417a73e089eba49bb140f742e289b1e7227c20361f866852e94d908478cb57a562de10d6ca20e2d5ce7cb1271e01be3b46d611e
+Description: A dark/light iOS 15 wallpaper.
+Name: iOS 15 Wallpaper
+Author: Huy Hue
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
@@ -1124,23 +1140,6 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Depiction: https://rejail.ru/depiction.php?file=autotouch
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=autotouch
-
-Package: wallpaperloader
-Architecture: iphoneos-arm
-Version: 1.1.1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/wallpaperloader_1.1.1_iphoneos-arm.deb
-Size: 19708
-MD5sum: a41c95a3d4c087212064f90e90b1ddac
-SHA1: 99888ab598878aff84ca9e7f06505221ee933d2b
-SHA256: 4b2628794fcad809d06f13a83713a78fb767e2f6a93e7ff2fdba8cade539de24
-SHA512: e1fe2cb3b6c4a67c52764107e9cd2b8d3cc5a7d5410c63a7b67adb8f743469d3a359add1177e4cf888bb420ab4674a85d8bae71bb2aa32e59ad01fe43085438e
-Description: Add more default wallpapers
-Name: WallpaperLoader
-Author: Skitty
 
 Package: com.34306.zinitv
 Architecture: iphoneos-arm
