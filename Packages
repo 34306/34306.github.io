@@ -265,6 +265,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrename
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: netskao
 
+Package: con.34306.ios15wallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, wallpaperloader
+Filename: ./debs/com.34306.ios15wallpaper_1.0_iphoneos-arm.deb
+Size: 53805012
+MD5sum: 9bd93e59d4c2dfb2f12d24d83418e927
+SHA1: 0358e25fe3261323ef40ab0d4491c9a12ef89f63
+SHA256: c4d36a00b2d79f40bd5cd57ed997834368cf2330797c0a89d6ac9c2c76c0b6f7
+SHA512: f976658fb3124c343d181fcd952fdc258c46909e792f33c2dca7a8ba006097a9122cd327037da4da34002fe7bdfd2f693002fcecb2aa709f257162f3d2195b2d
+Description: A dark/light iOS 15 wallpaper.
+Name: iOS 15 Wallpaper
+Author: Huy Hue
+
 Package: com.34306.libfoxfortutils
 Architecture: iphoneos-arm
 Version: 1.1.7
@@ -615,22 +631,6 @@ SHA512: 6e08e94f9cb3f9ed530844700022d7a55c7c923f1e800f4a7ddf063c8adbb94243281e50
 Description: PullOver Pro Keyboard Fix
 Name: PullOver Pro Keyboard Fix
 Author: Baw Appie <pp121324@gmail.com>
-
-Package: con.34306.ios15wallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, wallpaperloader
-Filename: ./debs/con.34306.ios15wallpaper_1.0_iphoneos-arm.deb
-Size: 53805012
-MD5sum: 9bd93e59d4c2dfb2f12d24d83418e927
-SHA1: 0358e25fe3261323ef40ab0d4491c9a12ef89f63
-SHA256: c4d36a00b2d79f40bd5cd57ed997834368cf2330797c0a89d6ac9c2c76c0b6f7
-SHA512: f976658fb3124c343d181fcd952fdc258c46909e792f33c2dca7a8ba006097a9122cd327037da4da34002fe7bdfd2f693002fcecb2aa709f257162f3d2195b2d
-Description: A dark/light iOS 15 wallpaper.
-Name: iOS 15 Wallpaper
-Author: Huy Hue
 
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
