@@ -494,6 +494,25 @@ Description: Crack tung cai lon` vpn master luon :)
 Name: VPN Master VIP
 Author: Huy Hue
 
+Package: com.34306.wallpaperloader
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.34306.wallpaperloader_1.1.1_iphoneos-arm.deb
+Size: 19762
+MD5sum: 370a560b69e2a19e51cb638dd9d444dd
+SHA1: 596fbfda4ac24de0121c72887a865cb19b803c76
+SHA256: 8e6c7dcbe1fd003157aa3f22030787870afc005d0f98b8a45a0d91af46c52b8f
+SHA512: 3862786fd44c2ff638b2ee36510fe0bfac87aa74364439e09789eefda59ca175f348e45568f2402f5130103e29c6c0708f8e63b1aeebd2e0b8aea10efe2a1915
+Description: Add more default wallpapers!
+Name: WallpaperLoader
+Depiction: https://skitty.xyz/repo/depictions/wallpaperloader
+SileoDepiction: https://skitty.xyz/repo/depictions/wallpaperloader/sileo.json
+Author: Skitty
+
 Package: com.34306.ytadblock
 Architecture: iphoneos-arm
 Version: 15.42.5
