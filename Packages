@@ -648,22 +648,6 @@ Description: PullOver Pro Keyboard Fix
 Name: PullOver Pro Keyboard Fix
 Author: Baw Appie <pp121324@gmail.com>
 
-Package: con.34306.ios15wallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/con.34306.ios15wallpaper_1.0_iphoneos-arm.deb
-Size: 53805018
-MD5sum: 99c3f325d42c42f69b486f532dc47a03
-SHA1: ceec752a5f1e53efc03b6dd42e28913fcd00c387
-SHA256: 8f916a358b95999b8512ac67981e2e2dc0e0d5561b663f03a3e208be6e098f5e
-SHA512: 610d4c40ae018cbb8271c93e0417a73e089eba49bb140f742e289b1e7227c20361f866852e94d908478cb57a562de10d6ca20e2d5ce7cb1271e01be3b46d611e
-Description: A dark/light iOS 15 wallpaper.
-Name: iOS 15 Wallpaper
-Author: Huy Hue
-
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
