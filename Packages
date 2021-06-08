@@ -1129,19 +1129,17 @@ Package: wallpaperloader
 Architecture: iphoneos-arm
 Version: 1.1.1
 Section: Tweaks
-Maintainer: Skitty
+Maintainer: Little 34306
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/wallpaperloader_1.1.1_iphoneos-arm.deb
-Size: 11644
-MD5sum: 0d2ec14a603503f9689b469e6008513e
-SHA1: 621a92f632f802a77f1805fb1d96f96822399f4d
-SHA256: 91409f53a3715397d0eb7a8204943589609b910c57c363f4797845ec66dfcdec
-SHA512: 5abe961d6e85a2281aa58e7ace229b6a1941de78f67b961a0e70400ead0f98ec6cf62659d17919389373174cfb7975b32a6364a47b7519155da44b115a50e7b7
-Description: Add more default wallpapers!
+Size: 19708
+MD5sum: a41c95a3d4c087212064f90e90b1ddac
+SHA1: 99888ab598878aff84ca9e7f06505221ee933d2b
+SHA256: 4b2628794fcad809d06f13a83713a78fb767e2f6a93e7ff2fdba8cade539de24
+SHA512: e1fe2cb3b6c4a67c52764107e9cd2b8d3cc5a7d5410c63a7b67adb8f743469d3a359add1177e4cf888bb420ab4674a85d8bae71bb2aa32e59ad01fe43085438e
+Description: Add more default wallpapers
 Name: WallpaperLoader
-Depiction: https://skitty.xyz/repo/depictions/wallpaperloader
-SileoDepiction: https://skitty.xyz/repo/depictions/wallpaperloader/sileo.json
 Author: Skitty
 
 Package: com.34306.zinitv
