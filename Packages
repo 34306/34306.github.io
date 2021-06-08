@@ -265,7 +265,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrename
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: netskao
 
-Package: con.34306.ios15wallpaper
+Package: com.34306.ios15wallpaper
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Wallpaper
@@ -273,10 +273,10 @@ Maintainer: Little 34306
 Depends: mobilesubstrate, wallpaperloader
 Filename: ./debs/com.34306.ios15wallpaper_1.0_iphoneos-arm.deb
 Size: 53805012
-MD5sum: 9bd93e59d4c2dfb2f12d24d83418e927
-SHA1: 0358e25fe3261323ef40ab0d4491c9a12ef89f63
-SHA256: c4d36a00b2d79f40bd5cd57ed997834368cf2330797c0a89d6ac9c2c76c0b6f7
-SHA512: f976658fb3124c343d181fcd952fdc258c46909e792f33c2dca7a8ba006097a9122cd327037da4da34002fe7bdfd2f693002fcecb2aa709f257162f3d2195b2d
+MD5sum: abbdec56f18765c9024770eabb322c19
+SHA1: ac012af8c0adc648e9b8c0c90cb518c33172e3f5
+SHA256: e06321c574ba79db58429b4a5dab6bddc522237939eeda44d6307f48849d55c5
+SHA512: 2338e45a599ac9c1ae53ec76591e769663d106dc04d546624122eda199e72a8c70dfa249af6d8fc80287b00eb172603d3ccbe08c53233fea96e25a0f89642933
 Description: A dark/light iOS 15 wallpaper.
 Name: iOS 15 Wallpaper
 Author: Huy Hue
