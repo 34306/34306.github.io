@@ -500,13 +500,13 @@ Version: 1.1.1
 Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.0)
+Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.34306.wallpaperloader_1.1.1_iphoneos-arm.deb
-Size: 19762
-MD5sum: 370a560b69e2a19e51cb638dd9d444dd
-SHA1: 596fbfda4ac24de0121c72887a865cb19b803c76
-SHA256: 8e6c7dcbe1fd003157aa3f22030787870afc005d0f98b8a45a0d91af46c52b8f
-SHA512: 3862786fd44c2ff638b2ee36510fe0bfac87aa74364439e09789eefda59ca175f348e45568f2402f5130103e29c6c0708f8e63b1aeebd2e0b8aea10efe2a1915
+Size: 19760
+MD5sum: 8b74e7ffcd78b66cfee579fefcaeccfe
+SHA1: 336a0f742b44bd23cb52b0ee568832df079b4810
+SHA256: ed635ea6418e18bf9c61779871fd6b099fc6880a7dc967ae6cbfebe49ff0677f
+SHA512: 62d8d75bfccf22782c4d61f5bf63c514266c1f29f3853a0fb4c72bdcbfe59e4f2a971896512f7e0ac079ff28c4fc820b3658570f5abb11540f0d7dff8cfa2721
 Description: Add more default wallpapers!
 Name: WallpaperLoader
 Depiction: https://skitty.xyz/repo/depictions/wallpaperloader
