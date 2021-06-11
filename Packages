@@ -18,6 +18,24 @@ Depiction: https://repo.litten.love/depictions/koi/index.html
 SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
 Icon: https://repo.litten.love/depictions/koi/assets/icon.png
 
+Package: com-arab-cydia.iGameGuardian
+Architecture: iphoneos-arm
+Version: 8.3-1
+Priority: optional
+Section: Utilities_
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 15000
+Filename: ./debs/IGG-CRACKED-NEW-12.0.deb
+Size: 447070
+MD5sum: 9055beaf531b7b516fe958a796d535ac
+SHA1: 98ac0c231f82fa8d760de49e150f031f4b9a84df
+SHA256: 7fc2b6216b51b4d9c5a18cfca2e423a38326205ab93fcea9af27864fb94c208c
+SHA512: 9636f9d8f551a9c423428e154de970eb4b8db5dfb9f6979d9d8a626c05c825eafe0e052bbc69171cd39fc58be071960500cff51c9fe41cc87449d81928591967
+Description: iGameGuardian is a game cheating engine for iOS 8.x/9.x/10.2/11.0-11.3.1
+Name: iGameGuardian
+Author: Aqua Wu <igameguardian@gmail.com>
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.34306.GenshinImpact
 Architecture: iphoneos-arm
 Version: 1.0.1+iOSGods.com
@@ -225,23 +243,6 @@ Description: Helper tools for Foxfort tweaks
 Tag: role::developer
 Name: FoxFort Tools
 Author: FoxfortMobile
-
-Package: com.34306.iGameGuardian8.3
-Architecture: iphoneos-arm
-Version: 8.3
-Priority: optional
-Section: iGG
-Maintainer: Little 34306
-Installed-Size: 15000
-Filename: ./debs/com.34306.iGameGuardian8.3_8.3_iphoneos-arm.deb
-Size: 3304410
-MD5sum: edfdbe62c7b1ab4c9b66f1e09790e46d
-SHA1: a2ad94c0512a41bf2b18a57f3926569c0053dea8
-SHA256: 20c15413335410d1c8ced32d854626cbf536af3a17383e1c7853cc3a9c33427c
-SHA512: ac9fb1a012e566fc54c25b02665aee0b18c3d21862224e16284b45b604c1f453914ef684c656de474afb216a1579896f0656e873d5d25208ac1129e47c7362af
-Name: iGameGuardian crack
-Author: Huy Hue
-Sponsor: Little 34306
 
 Package: com.34306.iconrenamerx
 Architecture: iphoneos-arm
