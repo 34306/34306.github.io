@@ -583,6 +583,40 @@ Description: Youtube for lower version iOS (7/8/9)
 Name: Youtube for iOS 7/8/9
 Author: Huy Hue
 
+Package: com.fahlnbg.ikghdCr
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: fahlnbg
+Depends: mobilesubstrate (>= 0.9.5000), com.julioverne.cracktool4
+Filename: ./debs/com.fahlnbg.ikghdCr_0.1_iphoneos-arm.deb
+Size: 1514
+MD5sum: 0029609fbf82551f222617538100a360
+SHA1: fa7985dcff4283b134d7614967731fdd63d35720
+SHA256: f022ef6dbc986efc6836c10c758874b361fc7b1b88deb687cb8b991e0dacdea4
+SHA512: 67fb9fd1bfef720e1b8347936515cffffcf882e745eaf60fb234048ff4fb7bc4119ccfcdc649c1362e0ed0a8df8eb435f6f24ff035b55c21b1b54ab0339b43c4
+Description: Plugin cho Cracktool, vui lòng tải TẤT CẢ các tweak (Ol3D, YoutubeKiller,...) từ nguồn gốc của iKarwan rồi active crack (không active riêng lẻ nếu không sẽ bị lỗi, nếu bị lỗi vui lòng cài lại) trong Cracktool4 từ nguồn này hoặc nguồn chính của Julioverne. Vui lòng ko cài từ nguồn khác để tránh lỗi. Quá lười để làm Depiction nên vui lòng đọc kĩ dòng này rồi hãy làm tránh trường hợp lỗi không cần thiết! Cảm ơn! Crack by fahlnbg, upload by 34306!
+Name: iKarwan cracked all tweak (YTKiller,...)
+Author: fahlnbg
+
+Package: com.julioverne.cracktool4
+Architecture: iphoneos-arm
+Version: 4.0~beta9e
+Section: Utilities
+Maintainer: Julio
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.julioverne.cracktool4_4.0~beta9e_iphoneos-arm.deb
+Size: 906
+MD5sum: 3e70470e4b869668f3ad1bbb7a2cbf9a
+SHA1: 058bde5a908387d2f0e1ad4c700cb653598ce5f2
+SHA256: f04635f290b1681f8e137deed7e427387fcc5a565a4525acec9e468e2061e1a8
+SHA512: 7d1411078b890591140250f0d3706a77f5aa25ca4f684f19ff257dd418ba7d68ffbc75293d69c96fcadd4c36a44100d10db3abd7a825db04cf8a6abb2f7bc3ab
+Homepage: http://twitter.com/ijulioverne
+Description: Crack Tweaks on one click
+Name: CrackTool4 (iOS 12/13)
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+
 Package: com.julioverne.spotilife
 Architecture: iphoneos-arm
 Version: 1.1a
