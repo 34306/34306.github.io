@@ -702,6 +702,22 @@ Description: A dark/light Big Sur wallpaper.
 Name: Big Sur Wallpaper
 Author: Huy Hue
 
+Package: con.34306.montereywallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/con.34306.montereywallpaper_1.0_iphoneos-arm.deb
+Size: 8747958
+MD5sum: d9d11d5ba8defa3d501dab240cdaee8e
+SHA1: 7527dda4e99f7043cdaa6ec17caaa0c5f1e466e8
+SHA256: 49376ae7e0f70d500cfcd09e40b2b0edd448c5f711e23805722f93a3d3d29a0c
+SHA512: de21caeb86780262db40aae691d1cfa99103b8e80e28c58009f3c233e238c4b32c41e49a912987e0ead79f291118509000f364bb60c9477aaa3c96d5e7358089
+Description: A dark/light Monterey wallpaper.
+Name: Monterey Wallpaper
+Author: Huy Hue
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
