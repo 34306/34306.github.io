@@ -686,6 +686,22 @@ Description: PullOver Pro Keyboard Fix
 Name: PullOver Pro Keyboard Fix
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: con.34306.bigsurwallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/con.34306.bigsurwallpaper_1.0_iphoneos-arm.deb
+Size: 9990846
+MD5sum: 321cf4e962b8a0cb1f73066af8849cb2
+SHA1: 987d8d03a5e439cf4c0b116999b0c257cd2d44ff
+SHA256: 528c8a52136c4784456144203ce885d36b21f9a4bd6ebbf2dc33403d1fe6008b
+SHA512: 8def3a54f994d59e7b10a2dd7d315b052a7eca4ff8aa7a73f70b4547330e4e237367ef1b6624b092e73ae5e64d5d51974dfea4893ea07af02f14959010cbae79
+Description: A dark/light Big Sur wallpaper.
+Name: Big Sur Wallpaper
+Author: Huy Hue
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
