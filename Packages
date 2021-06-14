@@ -137,6 +137,22 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
 
+Package: com.34306.bigsurwallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.bigsurwallpaper_1.0_iphoneos-arm.deb
+Size: 9990842
+MD5sum: 10f51ec2349b850b3ed95bbc31520ce5
+SHA1: 5234b74084417379cac39ae72d290f37c3f12419
+SHA256: 3c78881c23902c9dbdb588c8dcc17e037eefbfe2c9c1869a80df38fd790049ab
+SHA512: eb9654d36913c47c2295fa2ff9bd0da652cdb78adeb26ab0292c1b01f1f44f9f3e295b541771891082e421f236ccd1636c38321b6643643d84524f1b5ab2cce2
+Description: A dark/light Big Sur wallpaper.
+Name: Big Sur Wallpaper
+Author: Huy Hue
+
 Package: com.34306.bubbletheme
 Architecture: iphoneos-arm
 Version: 1.0
@@ -223,6 +239,22 @@ SHA256: 42101fa99d2023e79f45cbb9375fc209b2a1b95c05bb58e909c9d162242785cf
 SHA512: e5bcef544da6e2f478095ebaca91929b4f080223abbdf7180ad0878eba5f307796a3aa9b83f635076c7c40495741ba13351d81375e8f0e6a2b3c7b82828e17c3
 Description: Douyin no Wtm
 Name: Douyin no Wtm
+Author: Huy Hue
+
+Package: com.34306.forestwallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.forestwallpaper_1.0_iphoneos-arm.deb
+Size: 2473800
+MD5sum: 8a0d59014b9e676297c1b912d056a37e
+SHA1: a526a57e5aa2c10976d045758bbc87c5d5f0081a
+SHA256: dc33bc33ea088a08e83532c158309d5fd19199f389a7fb065efea18df3c3e773
+SHA512: 26f05da65c2a200cc16ad9bd140543f7e13029a2d8ae8c82e74d2669d46360884dcdff712efe7ae1ff326de6529fa05f6e87ba939907d1bcbc104ad5d4482e8c
+Description: A dark/light Forest wallpaper.
+Name: Forest Wallpaper
 Author: Huy Hue
 
 Package: com.34306.foxforttools
@@ -386,6 +418,22 @@ SHA512: 1d248eff78d3a80bec6321fcd9cbd6a952097c95c93ec8374067c4eb53404d284a3b0927
 Description: App Hacks with spme awesome tweak!
 Name: Apps Modify
 Author: Halem, Huy Hue (trans)
+
+Package: com.34306.montereywallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.montereywallpaper_1.0_iphoneos-arm.deb
+Size: 8747956
+MD5sum: f8f41b730f541ec2c62e121b0ac629df
+SHA1: 716f291f0ee78136873654f95bcb97e075f01dea
+SHA256: 778d66cf8cfd9f725a1e7988076eb77d9f78f5584863c7c3ba39dd65c65c32f7
+SHA512: 1ab23b063b41581252ebee7aa3b4e5a3b0b018775ba73b68ca0e064a603fa7e5a092f46fbd50dd9f121468bcbfa975013d404ff691f38e94a66b21c67fd5036b
+Description: A dark/light Monterey wallpaper.
+Name: Monterey Wallpaper
+Author: Huy Hue
 
 Package: com.34306.orion1451
 Architecture: iphoneos-arm
@@ -685,38 +733,6 @@ SHA512: 6e08e94f9cb3f9ed530844700022d7a55c7c923f1e800f4a7ddf063c8adbb94243281e50
 Description: PullOver Pro Keyboard Fix
 Name: PullOver Pro Keyboard Fix
 Author: Baw Appie <pp121324@gmail.com>
-
-Package: con.34306.bigsurwallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/con.34306.bigsurwallpaper_1.0_iphoneos-arm.deb
-Size: 9990846
-MD5sum: 321cf4e962b8a0cb1f73066af8849cb2
-SHA1: 987d8d03a5e439cf4c0b116999b0c257cd2d44ff
-SHA256: 528c8a52136c4784456144203ce885d36b21f9a4bd6ebbf2dc33403d1fe6008b
-SHA512: 8def3a54f994d59e7b10a2dd7d315b052a7eca4ff8aa7a73f70b4547330e4e237367ef1b6624b092e73ae5e64d5d51974dfea4893ea07af02f14959010cbae79
-Description: A dark/light Big Sur wallpaper.
-Name: Big Sur Wallpaper
-Author: Huy Hue
-
-Package: con.34306.montereywallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/con.34306.montereywallpaper_1.0_iphoneos-arm.deb
-Size: 8747958
-MD5sum: d9d11d5ba8defa3d501dab240cdaee8e
-SHA1: 7527dda4e99f7043cdaa6ec17caaa0c5f1e466e8
-SHA256: 49376ae7e0f70d500cfcd09e40b2b0edd448c5f711e23805722f93a3d3d29a0c
-SHA512: de21caeb86780262db40aae691d1cfa99103b8e80e28c58009f3c233e238c4b32c41e49a912987e0ead79f291118509000f364bb60c9477aaa3c96d5e7358089
-Description: A dark/light Monterey wallpaper.
-Name: Monterey Wallpaper
-Author: Huy Hue
 
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
