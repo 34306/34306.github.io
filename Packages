@@ -562,6 +562,22 @@ Depiction: https://skitty.xyz/repo/depictions/wallpaperloader
 SileoDepiction: https://skitty.xyz/repo/depictions/wallpaperloader/sileo.json
 Author: Skitty
 
+Package: com.34306.win11wp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.win11wp_1.0_iphoneos-arm.deb
+Size: 1488380
+MD5sum: c74b37a89de2e2f937b817c31d5b87c4
+SHA1: 76ad7bf36226872a582a4c6e551c85d0e7864f25
+SHA256: 812a58521b20c4fc6328bd11b1d12be3abff7d4a30337c03df2a9f991e496fc6
+SHA512: 6faf4d4e4f1cb8a43446058b2147a2ffbd80d949cad69e579f063f591f5bfb324fe3c33e088f63b913e12bd15ae8ab87490bc600cb66effbab9f349510697d08
+Description: A dark/light Windows 11 wallpaper.
+Name: Windows 11 Wallpaper
+Author: Huy Hue
+
 Package: com.34306.ytadblock
 Architecture: iphoneos-arm
 Version: 15.42.5
