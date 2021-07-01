@@ -346,6 +346,23 @@ Description: Unlock 60fps for Liên Quân Mobile
 Name: Liên Quân Mobile 60FPS (FPS Cao)
 Author: Huy Hue
 
+Package: com.34306.mediawidget
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 1704
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.mediawidget_1.0.1_iphoneos-arm.deb
+Size: 1120126
+MD5sum: cdebca89957373fb14c58fa8e18edb11
+SHA1: 0d881c18e9e67ea209e9d952638c5664210bdf24
+SHA256: 2a1841ee69342ccabf75841e9fd46c7da50fe182a77b189aaa7f798ab4a19528
+SHA512: de06e9e8fc43aac9a4094737cfeccd5e329a5010e5c41479ab2dd8797f5068dc3cc37c942d9c01e4bd94ee031e95b698ab911075bb92acda8db92bc815f5c30e
+Description: An awesome MobileSubstrate tweak!
+Name: MediaWidget
+Author: Ginsu
+
 Package: com.34306.milkyway2-ios14
 Architecture: iphoneos-arm
 Version: 0.0.1
