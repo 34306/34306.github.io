@@ -1,0 +1,322 @@
+{
+	"name": "StoreVn",
+	"apps": [
+
+{"name": "Minecraft",
+"version": "1.18.0",
+"downloadURL": "https://www.dropbox.com/s/al0ei7gjt41ix75/Minecraft-v1-181.ipa?dl=0",
+"iconURL": "https://i.upanh.org/2022/05/20/1953690f8296fd28373a5394b87f3789.png",
+"versionDescription": "Xoá bản gốc trước khi cài"},
+
+{"name": "Clash of Clans",
+"version": "11.3.20222",
+"downloadURL": "https://dl.dropboxusercontent.com/s/7d6k26b2sfn8l6q/Clash-of-Clans-v11-185-131.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59522c524a280/clash-of-clans.png",
+"versionDescription": "Đang thử nghiệm lỗi ipa vui lòng liên hệ ad"},
+
+{"name": "nPlayer Plus - The best media player] ",
+"version": "17.01.4",
+"downloadURL": "https://dl.dropboxusercontent.com/s/nccq2agdg2ygw33/MyTube_Max_999.17.01.4.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59522caa1fbd7/nplayer-plus.png",
+"versionDescription": "Đang thử nghiệm lỗi ipa vui lòng liên hệ ad"},
+
+{"name": "Puffin Browser Pro",
+"version": "16.46.5",
+"downloadURL": "https://dl.dropboxusercontent.com/s/o98jcra0dnx5ylr/Puffin-Browser-Pro-v5-2-5.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59cbc2a7b41a3/puffin-browser-pro.png",
+"versionDescription": "Đang thử nghiệm lỗi ipa vui lòng liên hệ ad"},
+
+{"name": "Notability",
+"version": "17.01.4",
+"downloadURL": "https://dl.dropboxusercontent.com/s/ycion9bzupwli7w/Notability-v10-4-4.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59522bb1b88b5/notability.png",
+"versionDescription": "Đang thử nghiệm lỗi ipa vui lòng liên hệ ad"},
+
+{"name": "Fortnite",
+"version": "14.18.0",
+"downloadURL": "https://www.dropbox.com/s/dxqejtahjyid43w/Fortnite-v7-20-1.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/5abe0a3bcc9c1/fortnite.png"},
+
+{"name": "Gunfire Reborn",
+"version": "8.5.77",
+"downloadURL": "https://www.dropbox.com/s/iewdx9fdy2mo07d/Gunfire-Reborn-v1-0-42.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/6259919b21c1c/005d227a3637d952cdb998c3fb5f870c.png"},
+{"name": "Day R Premium",
+"version": "8.0.2",
+"downloadURL": "https://www.dropbox.com/s/fgfr434ntk6tozk/Day-R-Premium-v1-7112.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59f42ea6f15ae/day-r-premium-last-world-war.png"},
+
+{"name": "Terraria",
+"version": "1.6.9",
+"downloadURL": "https://www.dropbox.com/s/9cxbmgk1gkweokr/Terraria-v1-4-0-52.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59522b7fabd39/terraria.png"},
+
+{"name": "Youtubers Life: Gaming Channel",
+"version": "19.3",
+"downloadURL": "https://www.dropbox.com/s/cp9ts46ecwsk5gw/Youtubers-Life-Gaming-v1-6-6.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/59522cc9beceb/youtubers-life-gaming-channel.png"},
+
+{"name": "Desire",
+"version": "3.2.4",
+"downloadURL": "https://www.dropbox.com/s/x0fmst3n9ds3svw/Desire-v1-0-28.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/5a7eb48103ea5/dsir.png"},
+
+{"name": "Alien: Isolation",
+"version": "1.10.7",
+"downloadURL": "https://dwdisc.com/fdl/bb09751d-c3fe-4e5f-9baf-8ef2a6eda4cb/Alien-Isolation-v1-2-2.ipa",
+"iconURL": "https://pdacdn.com/app/61cea37f9d1fb/alien-isolation.png"},
+
+{"name": "Fruit Ninja Classic+",
+"version": "9.9.33",
+"downloadURL": "https://dwdisc.com/fdl/cc067597-29a9-477f-a889-885b68bd7940/Fruit-Ninja-Classic-v1-3-0.ipa",
+"iconURL": "https://pdacdn.com/app/6195f7cbc9252/fruit-ninja-classic.png"},
+
+{"name": "Poly Bridge 2",
+"version": "1.5.8.2",
+"downloadURL": "https://dwdisc.com/fdl/f1dee67b-ea8d-4516-a535-a14847916100/Poly-Bridge-2-v1-40.ipa",
+"iconURL": "https://pdacdn.com/app/6167e980b9d06/poly-bridge-2.png"},
+
+{"name": "Company of Heroes",
+"version": "1.26.0",
+"downloadURL": "https://dwdisc.com/fdl/eba1c315-d94a-4c7e-83d9-ea12d3998f6a/Company-of-Heroes-v1-2-2.ipa",
+"iconURL": "https://pdacdn.com/app/615f20c88f173/company-of-heroes.png"},
+
+{"name": "Shadowrocket",
+"version": "19.0.0",
+"downloadURL": "https://dwdisc.com/fdl/fddc9398-676c-4f1f-a7c8-dd3ea4176bd0/Shadowrocket-v2-2-2.ipa",
+"iconURL": "https://pdacdn.com/app/5dca54f048466/.png"},
+
+{"name": "Speedtest by Ookla",
+"version": "2.9.7",
+"downloadURL": "https://dwdisc.com/fdl/38b4f968-9470-4bed-b0f5-ba30bb392fe5/SpeedTest-v4-2-8.ipa",
+"iconURL": "https://pdacdn.com/app/5b44c8626efb2/speedtest-by-ookla.png",
+"versionDescription": "Xoá Ulike Gốc Trước Khi Cài"},
+{"name": "Musicloud Pro - MP3 & FLAC Music Player for Clouds",
+"version": "9.1.6",
+"downloadURL": "https://dl.dropboxusercontent.com/s/sp3atwns102t118/Viva_Video_Vip_999.9.1.6.ipa?dl=0",
+"iconURL": "https://pdacdn.com/app/5a2a779e9ac70/musicloud-pro---mp3--flac-music-player-for-clouds.png"},
+
+{"name": "FL Studio Mobile",
+"version": "8.7.3",
+"downloadURL": "https://dwdisc.com/fdl/a9a87e6f-f4c9-4380-9aa8-3436cdcd196f/FL-Studio-Mobile-v3-6-17.ipa",
+"iconURL": "https://pdacdn.com/app/59522cbceb488/fl-studio-mobile.png"},
+
+{"name": "youtube cercube",
+"version": "17.18.4",
+"downloadURL": "https://www.dropbox.com/s/w4xber9rvo3vhil/Youtubecercube_17.18.4.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png",
+"versionDescription": "Xoá Youtube Gốc Trước Khi Cài"},
+
+{"name": "Youtube cercubebat",
+"version": "17.18.4",
+"downloadURL": "https://www.dropbox.com/s/cjl1c947yxa6jb6/Youtubecercubebat.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png",
+"versionDescription": "Xoá Youtube Gốc Trước Khi Cài"},
+
+{"name": "Netflix Cracked",
+"version": "14.18.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/73z7b8bwjce7j01/Netflix_Cracked.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Netfilx.png"},
+
+{"name": "Spotify++",
+"version": "8.5.77",
+"downloadURL": "https://dl.dropboxusercontent.com/s/49p7x6tzups89il/Spotify_8.5.77_1641618108.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Spotify.png"},
+
+{"name": "unc0ver",
+"version": "8.0.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/w1xx87nfb7xyzv0/unc0ver_8.0.2_1641617997.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Uncover.png"},
+
+{"name": "facebook wolf",
+"version": "366.1",
+"downloadURL": "https://dl.dropboxusercontent.com//s/tpdb6xaeis6xvq4/FacebookWolf_366.1.ipa?dl=0",
+"iconURL": "https://i.upanh.org/2022/05/20/2bf5a56c5ab89207d99a822b08e00a6d.png"},
+
+{"name": "Kodi",
+"version": "19.3",
+"downloadURL": "https://dl.dropboxusercontent.com/s/qlmts6z16bp6zh7/Kodi.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Kodi.png"},
+
+{"name": "RAR Power",
+"version": "3.2.4",
+"downloadURL": "https://dl.dropboxusercontent.com/s/5e7dzddreofg42s/RAW_Power_3.2.4_1641649181.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/RARPower.png"},
+
+{"name": "App Install",
+"version": "1.10.7",
+"downloadURL": "https://dl.dropboxusercontent.com/s/a4u326d2bc9v152/AppInst.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Appinstall.png"},
+
+{"name": "Camera 360 ++",
+"version": "9.9.33",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6vt297u6r9xcb3r/Camera360_Vip_9.9.33_1641723139.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Camera360.png"},
+
+{"name": "Happy Chick",
+"version": "1.5.8.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/o48h87qkypro0x6/Happy_Chik_1.5.8.2_1641723110.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/HappyChick.png"},
+
+{"name": "Peachy Pro",
+"version": "1.26.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6enfedsv8202sef/Peachy_1.26.0_1641723025.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Peachy.png"},
+
+{"name": "TikTok Trung Quốc",
+"version": "19.0.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/l9cuz9aq7jun66q/Tiktok_TQ_19.0.0_1641722995.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Tiktok.png"},
+
+{"name": "Ulike Vip",
+"version": "2.9.7",
+"downloadURL": "https://dl.dropboxusercontent.com/s/baao7n96k61fu4z/Ulike_Vip_2.9.7.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Ulike.png",
+"versionDescription": "Xoá Ulike Gốc Trước Khi Cài"},
+
+{"name": "Viva Video Vip",
+"version": "9.1.6",
+"downloadURL": "https://dl.dropboxusercontent.com/s/sp3atwns102t118/Viva_Video_Vip_999.9.1.6.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VivaVideo.png"},
+
+{"name": "Viva Video Vip",
+"version": "8.7.3",
+"downloadURL": "https://dl.dropboxusercontent.com/s/uugclrtw5ekkg5h/VivaVideo_Vip_8.7.3_LeTi.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VivaVideo.png"},
+
+{"name": "KineMaster Vip",
+"version": "5.0.6",
+"downloadURL": "https://dl.dropboxusercontent.com/s/b9n8eou4exl5rel/KineMaster_Vip_999.5.0.6.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/KineMaster.png"},
+
+{"name": "Photo X",
+"version": "8.01",
+"downloadURL": "https://dl.dropboxusercontent.com/s/mmkaa65bgdc81p6/Photo_X_1.5.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/PhotoX.png"},
+
+{"name": "PicsArt++",
+"version": "16.4.1",
+"downloadURL": "https://dl.dropboxusercontent.com/s/8ixol9vd8yhwv4w/PicsArt_16.4.1.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/PicsArt.png"},
+
+{"name": "InShotPro",
+"version": "1.57.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/e4vp6m0imrcnf06/InShot_Pro_999.1.56.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/InShotPro.png"},
+
+{"name": "Player Xtreme Pro",
+"version": "8.7",
+"downloadURL": "https://dl.dropboxusercontent.com/s/jab487yjog60j6z/PlayerXtreme_8.7.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/PlayerEtreme.png"},
+
+{"name": "VLC Pro",
+"version": "6.21.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/09e0qatlq1ffmia/VLC_Pro_6.21.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VLC.png"},
+
+{"name": "AppCake",
+"version": "7.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/nim3f2jqgr1lqwk/appcake.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Appcake.png"},
+
+{"name": "Document Pro",
+"version": "15.1",
+"downloadURL": "https://dl.dropboxusercontent.com/s/1nxd8ustz7xlhxl/Documents_Pro_15.1.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Document.png"},
+
+{"name": "Zalo 2",
+"version": "210902",
+"downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo_2_210902.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zalo.png"},
+
+{"name": "Facebook 2",
+"version": "345.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/i2mx0i6stwxr4mo/Facebook_2_345.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Facebook.png"},
+
+{"name": "Messenger 2",
+"version": "311.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/9vv545oxm1q7j8n/Messenger_2_311.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Messenger.png"},
+
+{"name": "Twitter++",
+"version": "8.62",
+"downloadURL": "https://dl.dropboxusercontent.com/s/1aujjhdyx0vduj4/Twitter_8.97.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Twiter.png",
+"versionDescription": "Xoá Twitter Gốc Trước Khi Cài"},
+
+{"name": "Instagram ++",
+"version": "115.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/9dvgmvb6usdpzc3/Instagram_115.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Instagram.png"},
+
+{"name": "Adblock",
+"version": "4.7.3",
+"downloadURL": "https://dl.dropboxusercontent.com/s/ns8zbqklkww90ec/Adblock.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Adblock.png"},
+
+{"name": "Quantumult X",
+"version": "1.0.26",
+"downloadURL": "https://dl.dropboxusercontent.com/s/s6exz9uti7unqce/Quantumult_X_1.0.26.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/QuantumultX.png"},
+
+{"name": "Adguard Pro",
+"version": "4.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/r3lmj0t78yjqydf/AdGuard_Pro_4.2.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Adguard.png"},
+
+{"name": "Shadow Rocket",
+"version": "2.1.96",
+"downloadURL": "https://dl.dropboxusercontent.com/s/kkgseqdrsflk86u/Shadowrocket_2.1.96.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Shadowrocket.png"},
+
+{"name": "Recorder Pro",
+"version": "5.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/p0uxsfbri7yutj8/Recorder_Pro_5.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Recode.png"},
+
+{"name": "Tank Battle",
+"version": "12.01",
+"downloadURL": "https://dl.dropboxusercontent.com/s/yib88podjjiqbci/Tank_Battle.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Tank_Battle.png"},
+
+{"name": "Zing Play",
+"version": "1.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
+
+{"name": "Shoppe",
+"version": "2.87.18",
+"downloadURL": "https://dl.dropboxusercontent.com/aaaaaaaaa",
+"iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/d9/b4/ecd9b41d-ce2a-3d38-198a-5fb8e1afb3fd/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg"},
+
+{"name": "醒图—修出高级美",
+"version": "5.4.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/xjwo7td25g2bnje/Retouch_5.4.0_und3fined.ipa?dl=0",
+"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/96/47/fe/9647fe52-5d75-304b-68d0-1f843aa2f0f5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png"},
+
+{"name": "facebook lite",
+"version": "Đang cập nhật",
+"downloadURL": "https://dl.dropboxusercontent.com/s/24jwx6v87kld0xm/Lite_200.0.ipa?dl=0",
+"iconURL": "https://i.upanh.org/2022/05/20/5544acd8c1b1917e94c02d41ac331ebf.png"},
+
+{"name": "lazada",
+"version": "Đang cập nhật",
+"downloadURL": "https://www.dropbox.com/s/x52vsq3ybkqw2iu/Lazada_907.0.0_und3fined.ipa?dl=0",
+"iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/23/93/c02393aa-11e1-dcf2-e453-2f8283f4b398/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]}
