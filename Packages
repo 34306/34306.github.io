@@ -390,22 +390,6 @@ Author: Siguza
 
 Package: com.34306.lockdown
 Architecture: iphoneos-arm
-Version: 1.0.5
-Section: Tweaks
-Maintainer: Little 34306
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.lockdown_1.0.5_iphoneos-arm.deb
-Size: 19540
-MD5sum: f43ab938ca061f5a59431bd91b239631
-SHA1: 98debb7cfc655015e8c30e6925ab2e95d1f7ad6f
-SHA256: 6a269045ed914940c76887eeaa56e9eea609cd33b9457e209488090ca617634d
-SHA512: 3c2298bf3bd4f2544594913fb120c03cbc1d236ef0c68be7c8440187d3cdb18f55e96cf07b9ab1f7e28a207861020ba3ce08ed1d186d94a0b6d16db15508fd43
-Description: Bật passcode cho những máy A11 chạy checkra1n trên iOS 14
-Name: lockdown beta
-Author: _kritanta <kritantadevelopment@gmail.com>
-
-Package: com.34306.lockdown
-Architecture: iphoneos-arm
 Version: 1.0.6
 Section: Tweaks
 Maintainer: _kritanta <kritantadevelopment@gmail.com>
