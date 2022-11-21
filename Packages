@@ -324,6 +324,22 @@ Description: A dark/light iOS 15 wallpaper.
 Name: iOS 15 Wallpaper
 Author: Huy Hue
 
+Package: com.34306.iosx
+Architecture: iphoneos-arm
+Version: 0.6.1
+Section: Themes
+Maintainer: Little 34306
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: ./debs/com.34306.iosx_0.6.1_iphoneos-arm.deb
+Size: 8551916
+MD5sum: 4cfcf6c47e7a98c102970b8e840f9d0c
+SHA1: 7b8a86b41fbcc63fcee79ac06df6d11fb202ba19
+SHA256: 0f8a6124636b4eecedcb4f2cb6d4cb87510e2ecf6ebef9517befc3ca23e5bcc4
+SHA512: 6dfa8210220f9b980b2f7ac91665ac78e165f337de71bc03141c00d014b3eb7bc6097978b1f4f5c20f7f1c02c50be413421f1c2226ba1e787aa3ab65caaf54af
+Description: iOS with a hint of MacOS
+Name: iOSX
+Author: Bank5ia
+
 Package: com.34306.ip13
 Architecture: iphoneos-arm
 Version: 1.0
