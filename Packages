@@ -691,6 +691,44 @@ Description: Plugin cho Cracktool, vui lòng tải TẤT CẢ các tweak (Ol3D, 
 Name: iKarwan cracked all tweak (YTKiller,...)
 Author: fahlnbg
 
+Package: com.foxfort.exiwall
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 26652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.2.25), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate
+Filename: ./debs/com.foxfort.exiwall_1.0.4_iphoneos-arm.deb
+Size: 24878804
+MD5sum: f74569c3ac8c7552e34f0e20aa0a7fe2
+SHA1: 4d0493fd93a1368d5964f70b0d216929b8a0a138
+SHA256: bee6d537dcd509505de1913584c1100b4535123bfcf2c56a20bd93294c74730f
+SHA512: d1201b0889cbbb9dedb22fc45318bc6a12a0d93ee2a655070e0937dff8847f78e0bea0c14f004238ac3fe9fe0158f3d55c9794d172a20dd817966b53c0283b85
+Description: Depth effect for lockscreen wallpaper
+Name: Exiwall
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm
+Version: 2.14.2
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 3584
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.26), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic
+Filename: ./debs/com.foxfort.translomatic_2.14.2_iphoneos-arm.deb
+Size: 3317508
+MD5sum: 27c5a0751ace98d82590946d3dc4daed
+SHA1: 8c44046c094acf255bf72ea24a536968ae2c2dbf
+SHA256: fb010f54fba66b99c8b53d45c44d0e409a850b9a1857ea3220b79fdf58a9607d
+SHA512: 203d639535dd449a8a968644e9085b021e9b1dba90209432ab6c448a83f10fe0bb6807debd965324a5fb7bfc807ba2ee0037e5a3159d4a09d1504e51c6454381
+Description: Quickly translate any text
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
 Package: com.julioverne.cracktool4
 Architecture: iphoneos-arm
 Version: 4.0~beta9e
@@ -888,6 +926,24 @@ Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm
+Version: 2.13.1
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 3124
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/me.ahmedbafkir.dleasy_2.13.1_iphoneos-arm.deb
+Size: 1206614
+MD5sum: 0457004bd7961ce6dd51de96b39200cf
+SHA1: d2e778e46ecbb749415ef39208eed33787da1815
+SHA256: a263688ff676173a3a38a5410a0647c7e60a847047cef9de3fc69db1d3e49a7e
+SHA512: d37d3626c91538e42ca44bdf5326080e020428c3b03ce7711a83ea1a55da337ab861730a850e83b375b51f85890f6256adc3be13b69232df49d93fdf21fefe89
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
