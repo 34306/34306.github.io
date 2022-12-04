@@ -893,6 +893,24 @@ Author: Theos Team <support@theos.dev>
 Icon: https://cdn.chariz.cloud/icon/orion-runtime14/icon@3x.png
 Depiction: https://chariz.com/get/orion-runtime14
 
+Package: iOSGods.com.A8A
+Architecture: iphoneos-arm
+Version: 1.5.0+iOSGods.com
+Section: Tweaks
+Maintainer: iOSGods.com
+Installed-Size: 8576
+Depends: mobilesubstrate
+Filename: ./debs/iOSGods.com.A8A_1.5.0+iOSGods.com_iphoneos-arm.deb
+Size: 1622592
+MD5sum: 4cf3d2634d8ee924dcd946714d76e6b1
+SHA1: 1006fc3f2f3ba6c074410b8b95b3b2a9ed6c6f17
+SHA256: 531871d97cccb570ac26f0dd0ace5a0be37d666b0eaff910756c1fbd4c4da324
+SHA512: 5b4a0cf51b052deacbb7ee51303a7475155f68d0517ff125eb3a3dfce030957946a3858255fc46eb5e71d64d2564b2477ec7954f00f832036275ea356599850b
+Homepage: https://iosgods.com
+Description: Asphalt 8+ iGMM Cheats by Laxus for iOSGods.com!
+Name: Asphalt 8+ Cheats
+Author: Laxus
+
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm
 Version: 0.2.2
