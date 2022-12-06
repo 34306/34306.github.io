@@ -165,6 +165,23 @@ Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong su�
 Name: ClearBatPer
 Author: 34306
 
+Package: com.34306.clearbatper
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.clearbatper_2.0_iphoneos-arm.deb
+Size: 6550
+MD5sum: 8820795bcde71b56ba124decac843712
+SHA1: cc38c41600aa9e5d7ac5711aa1de0be9e8d84d60
+SHA256: 01294036d361a5421ff760819ac14a861cd67fb10cb3d85c4c4b8400a3c38d9a
+SHA512: b7f4d550c1f74f5d09f6e3c4fffd582115e3209ffbe8914d91a07ade2d97f39a5d417d99087c8a883f0b6156d0d5a1f436fe3a600b91891b7f5212342669e290
+Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong suốt. Khi sạc màu vàng, khi bật LPM màu xanh dương, khi pin yếu màu đỏ và bình thường màu trắng.\nEng: Display battery percent without blur battery background/clear background.
+Name: ClearBatPer
+Author: 34306
+
 Package: com.34306.douyinnowtm
 Architecture: iphoneos-arm
 Version: 1.0
@@ -691,44 +708,6 @@ Description: Plugin cho Cracktool, vui lòng tải TẤT CẢ các tweak (Ol3D, 
 Name: iKarwan cracked all tweak (YTKiller,...)
 Author: fahlnbg
 
-Package: com.foxfort.exiwall
-Architecture: iphoneos-arm
-Version: 1.0.4
-Section: Tweaks
-Maintainer: FoxfortMobile
-Installed-Size: 26652
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.2.25), firmware (>= 14.0)
-Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate
-Filename: ./debs/com.foxfort.exiwall_1.0.4_iphoneos-arm.deb
-Size: 24878804
-MD5sum: f74569c3ac8c7552e34f0e20aa0a7fe2
-SHA1: 4d0493fd93a1368d5964f70b0d216929b8a0a138
-SHA256: bee6d537dcd509505de1913584c1100b4535123bfcf2c56a20bd93294c74730f
-SHA512: d1201b0889cbbb9dedb22fc45318bc6a12a0d93ee2a655070e0937dff8847f78e0bea0c14f004238ac3fe9fe0158f3d55c9794d172a20dd817966b53c0283b85
-Description: Depth effect for lockscreen wallpaper
-Name: Exiwall
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
-
-Package: com.foxfort.translomatic
-Architecture: iphoneos-arm
-Version: 2.14.2
-Section: Tweaks
-Maintainer: FoxfortMobile
-Installed-Size: 3584
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.26), applist
-Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic
-Filename: ./debs/com.foxfort.translomatic_2.14.2_iphoneos-arm.deb
-Size: 3317508
-MD5sum: 27c5a0751ace98d82590946d3dc4daed
-SHA1: 8c44046c094acf255bf72ea24a536968ae2c2dbf
-SHA256: fb010f54fba66b99c8b53d45c44d0e409a850b9a1857ea3220b79fdf58a9607d
-SHA512: 203d639535dd449a8a968644e9085b021e9b1dba90209432ab6c448a83f10fe0bb6807debd965324a5fb7bfc807ba2ee0037e5a3159d4a09d1504e51c6454381
-Description: Quickly translate any text
-Name: Translomatic
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
-
 Package: com.julioverne.cracktool4
 Architecture: iphoneos-arm
 Version: 4.0~beta9e
@@ -893,24 +872,6 @@ Author: Theos Team <support@theos.dev>
 Icon: https://cdn.chariz.cloud/icon/orion-runtime14/icon@3x.png
 Depiction: https://chariz.com/get/orion-runtime14
 
-Package: iOSGods.com.A8A
-Architecture: iphoneos-arm
-Version: 1.5.0+iOSGods.com
-Section: Tweaks
-Maintainer: iOSGods.com
-Installed-Size: 8576
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.A8A_1.5.0+iOSGods.com_iphoneos-arm.deb
-Size: 1622592
-MD5sum: 4cf3d2634d8ee924dcd946714d76e6b1
-SHA1: 1006fc3f2f3ba6c074410b8b95b3b2a9ed6c6f17
-SHA256: 531871d97cccb570ac26f0dd0ace5a0be37d666b0eaff910756c1fbd4c4da324
-SHA512: 5b4a0cf51b052deacbb7ee51303a7475155f68d0517ff125eb3a3dfce030957946a3858255fc46eb5e71d64d2564b2477ec7954f00f832036275ea356599850b
-Homepage: https://iosgods.com
-Description: Asphalt 8+ iGMM Cheats by Laxus for iOSGods.com!
-Name: Asphalt 8+ Cheats
-Author: Laxus
-
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm
 Version: 0.2.2
@@ -944,24 +905,6 @@ Description: An expermental tool to hide jailbreak files for bypass detection.
 Tag: role::hacker
 Name: vnodebypass
 Author: XsF1re
-
-Package: me.ahmedbafkir.dleasy
-Architecture: iphoneos-arm
-Version: 2.13.1
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Installed-Size: 3124
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Filename: ./debs/me.ahmedbafkir.dleasy_2.13.1_iphoneos-arm.deb
-Size: 1206614
-MD5sum: 0457004bd7961ce6dd51de96b39200cf
-SHA1: d2e778e46ecbb749415ef39208eed33787da1815
-SHA256: a263688ff676173a3a38a5410a0647c7e60a847047cef9de3fc69db1d3e49a7e
-SHA512: d37d3626c91538e42ca44bdf5326080e020428c3b03ce7711a83ea1a55da337ab861730a850e83b375b51f85890f6256adc3be13b69232df49d93fdf21fefe89
-Description: Download/Share images & videos from social apps easily!
-Name: DLEasy
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
