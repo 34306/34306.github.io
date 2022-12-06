@@ -167,17 +167,17 @@ Author: 34306
 
 Package: com.34306.clearbatper
 Architecture: iphoneos-arm
-Version: 2.0
+Version: 2.1
 Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.clearbatper_2.0_iphoneos-arm.deb
-Size: 6550
-MD5sum: 8820795bcde71b56ba124decac843712
-SHA1: cc38c41600aa9e5d7ac5711aa1de0be9e8d84d60
-SHA256: 01294036d361a5421ff760819ac14a861cd67fb10cb3d85c4c4b8400a3c38d9a
-SHA512: b7f4d550c1f74f5d09f6e3c4fffd582115e3209ffbe8914d91a07ade2d97f39a5d417d99087c8a883f0b6156d0d5a1f436fe3a600b91891b7f5212342669e290
+Filename: ./debs/com.34306.clearbatper_2.1_iphoneos-arm.deb
+Size: 6512
+MD5sum: f715577e6aabcad7a014b1f33163b110
+SHA1: 5003087807b6995c3affe416657b67d4ca95ec42
+SHA256: c589a806ddd7ebd7803bc2a760265e46c635b46058b8abbbeae621c64f2cce59
+SHA512: d086d9fc4c628b8f770ca2ef7037551a0e1fb86b0c2d3e6af4a746743584c5f350b02bd2e34e8390b1d1566dec242c5669074309c264ff1ede23708f832a58ad
 Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong suốt. Khi sạc màu vàng, khi bật LPM màu xanh dương, khi pin yếu màu đỏ và bình thường màu trắng.\nEng: Display battery percent without blur battery background/clear background.
 Name: ClearBatPer
 Author: 34306
