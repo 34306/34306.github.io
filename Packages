@@ -61,6 +61,23 @@ Description: A dark/light Big Sur wallpaper.
 Name: Big Sur Wallpaper
 Author: Huy Hue
 
+Package: com.34306.blursettings
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 340
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.blursettings_1.0-1+debug_iphoneos-arm.deb
+Size: 14580
+MD5sum: 23690d4c73ac6fb5ccdb1eefd1eae6b5
+SHA1: cc377f295094c45d4d967a7d9912e21cbc45372b
+SHA256: c7067589b7d77bc313ede178ee95a99dac83f45e88f87fc1af0098e83f3e6ba9
+SHA512: 3676acfe055134800ed9dcf03560c562da646d79870918119d712492c4019d42f33d123a65b27efc814a7874f9e9f8b0396b5538894873419066550b07eb55fe
+Description: A tweak that blur settings background as homescreen background
+Name: Blur Settings
+Author: 34306
+
 Package: com.34306.bubbletheme
 Architecture: iphoneos-arm
 Version: 1.0
