@@ -760,6 +760,26 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.leftyfl1p.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.10
+Section: Tweaks
+Maintainer: leftyfl1p
+Installed-Size: 7156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.leftyfl1p.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 1868582
+MD5sum: 292222c5acffd6db00963b1eb68cdc97
+SHA1: 81c6c9e91ec6cf61db36c91313f4eb1fb5bb88ae
+SHA256: 16b021cada511d04b955c06bff6345073fb75a988e126d2175a2f3e257ad3370
+SHA512: 782635866798b89f67ee97bd99138817be23051d3d04ed3835ce7bd8ea428ef8aa2d34167abb6850443a6444b25366608a164df307001b1f220821ab46366269
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+
 Package: com.rpgfarm.libapappview
 Architecture: iphoneos-arm
 Version: 1.0
