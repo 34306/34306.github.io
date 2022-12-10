@@ -136,16 +136,16 @@ Package: com.34306.carbridge13
 Architecture: iphoneos-arm
 Version: 2.0.10
 Section: Tweaks
-Maintainer: leftyfl1p
+Maintainer: Little 34306
 Installed-Size: 7156
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debs/com.34306.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 1869160
-MD5sum: 7f68fab298f6e0ac91207ef3d4b70e8c
-SHA1: bcf50c1c3c34f2b756eb5fce8e19a3c8c8155799
-SHA256: 7763b44a8c3b95a93072dd3ca9d09f9edbcf8e15efa9913b4c58e352b98beb9d
-SHA512: 4abf2c95e07cdde8635806ab671355d42660d2277a1ba42541b7fc10c3ac81d2195037965fe53837115d385646f02df0fa85acd56f45946def9915190187a263
+Size: 1869164
+MD5sum: 9b22f259d5bfa41cf70f47e347128227
+SHA1: 656ce7f680b3dbda4717cd62c52c517b8879b3f4
+SHA256: f3925375bf3224079b2bf1923b2b9c1bc0f355cdcc17ecbc6c3272569c4ef1c9
+SHA512: 03e1dfe7dd1295660a1a99278479ab6fb193ec3f6c6d0ae9fa7cf0be94b4fe5bd9a62132df28477b565b3545745145b3f1a04bb100cb1e6ee3c58e38d08c1a13
 Description: Open any app in CarPlay!
 Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
