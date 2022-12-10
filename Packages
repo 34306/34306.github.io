@@ -132,6 +132,25 @@ Description: Fixes the broken shutter button when enabling the iPhone 11 Camera 
 Name: Cam 11 shutter fix
 Author: andyjhall
 
+Package: com.34306.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.10
+Section: Tweaks
+Maintainer: leftyfl1p
+Installed-Size: 7156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.34306.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 1869160
+MD5sum: 7f68fab298f6e0ac91207ef3d4b70e8c
+SHA1: bcf50c1c3c34f2b756eb5fce8e19a3c8c8155799
+SHA256: 7763b44a8c3b95a93072dd3ca9d09f9edbcf8e15efa9913b4c58e352b98beb9d
+SHA512: 4abf2c95e07cdde8635806ab671355d42660d2277a1ba42541b7fc10c3ac81d2195037965fe53837115d385646f02df0fa85acd56f45946def9915190187a263
+Description: Open any app in CarPlay!
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction:
+
 Package: com.34306.cat
 Architecture: iphoneos-arm
 Version: 1.0
@@ -760,26 +779,6 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Name: iOSGods iAP Cracker
 Author: Laxus
 
-Package: com.leftyfl1p.carbridge13
-Architecture: iphoneos-arm
-Version: 2.0.10
-Section: Tweaks
-Maintainer: leftyfl1p
-Installed-Size: 7156
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.leftyfl1p.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 1868582
-MD5sum: 292222c5acffd6db00963b1eb68cdc97
-SHA1: 81c6c9e91ec6cf61db36c91313f4eb1fb5bb88ae
-SHA256: 16b021cada511d04b955c06bff6345073fb75a988e126d2175a2f3e257ad3370
-SHA512: 782635866798b89f67ee97bd99138817be23051d3d04ed3835ce7bd8ea428ef8aa2d34167abb6850443a6444b25366608a164df307001b1f220821ab46366269
-Description: Open any app in CarPlay!
-Tag: cydia::commercial
-Name: CarBridge
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-
 Package: com.rpgfarm.libapappview
 Architecture: iphoneos-arm
 Version: 1.0
@@ -847,25 +846,6 @@ Description: Decrypts iOS Apps
 Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
-
-Package: dev.midn1ght.copylog
-Architecture: iphoneos-arm
-Version: 1.5.3k
-Section: Tweaks
-Maintainer: Ali7assan
-Installed-Size: 4604
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/dev.midn1ght.copylog_1.5.3k_iphoneos-arm.deb
-Size: 2122378
-MD5sum: b460eb421fa23a8388383400b5b7cb13
-SHA1: 1853e7cf9a5bc7f0a0145f517889707db29a9282
-SHA256: 5271b214cdf0b1f048123ffe060bcf1a1f535dc822ba16705dc5cc307558c91f
-SHA512: abe10e60f8dac6dd761141a12ff377930875f7d607a0c43532cce6f147b024b240fd131c1aa53fc11e41cd806450ce63eec14b0b03422af16a4c4d26330e61f1
-Description: Clipboard history manager for iOS!
-Name: CopyLog Cracked
-Author: TomT000
-Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
-Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
 
 Package: dev.theos.orion12
 Architecture: iphoneos-arm
