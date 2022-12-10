@@ -218,6 +218,23 @@ Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong su�
 Name: ClearBatPer
 Author: 34306
 
+Package: com.34306.dockpad
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.dockpad_1.0_iphoneos-arm.deb
+Size: 4048
+MD5sum: f280107210e079433717fde163b68a6b
+SHA1: 2e031d9d37907a4c02f284ecc590a17727bf217f
+SHA256: 058697593f76e6c0f70c178a22fc534226a97dfd3168ffd65eb785c2cbd148b2
+SHA512: 2415fd1df76be0b96b02e2c54d5e3fee584a5d03fe26158a1bff4cbf955b1a86284607cb38f4323650b992ef795104889d1110e7c3dd37cd0586b48a75fca7ac
+Description: A simple tweak that turn your dock into iPadOS dock!
+Name: DockPad
+Author: 34306
+
 Package: com.34306.douyinnowtm
 Architecture: iphoneos-arm
 Version: 1.0
