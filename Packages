@@ -508,6 +508,22 @@ Description: A simple tweak that disable seen in Messenger and Messenger Lite , 
 Name: Messed
 Author: 34306
 
+Package: com.34306.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.1-15
+Section: Tweaks
+Maintainer: Little 34306
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.34306.milkyway2_0.2.1_ios15.deb
+Size: 101128
+MD5sum: 40200564eb1c1d1187693c088f1b164f
+SHA1: 37a561ad8c51bd9b61f507debde7ae71ef809fc7
+SHA256: fa2953112ed94de08896a920bc027646d2d36f5758591428d71aebecb73845ab
+SHA512: 95ca297c3ebc14c796bd20bf97ecfca20759e6f3a97c854fdaceba9538cfbcc55eea5fd239f349246e90d4d3a2ab5227a1c44242daabeb84f8f82c33d26ad7b0
+Description: Milkyway2 with iOS 15 support!
+Name: MilkyWay2 iOS 15
+Author: akusio <akusio-report@neko2.net>
+
 Package: com.34306.modifyapps
 Architecture: iphoneos-arm
 Version: 3.1
