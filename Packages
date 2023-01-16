@@ -270,6 +270,25 @@ Description: Eva is a tweak that allows you to have scrolling and parallax wallp
 Name: Eva crack
 Author: ren7995  <lau7995ren@gmail.com>
 
+Package: com.34306.exiwall
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 26868
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.3.0), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate
+Filename: ./debs/com.34306.exiwall_2.0.1_iphoneos-arm.deb
+Size: 25228026
+MD5sum: 1882a6e3792d3393c4e2801bc3d87a8f
+SHA1: b9eb097b0dfc1fa5091ed18b09dad6e002f76442
+SHA256: 07ec0642a7e34b32a5ecc2f12d386df705beaadb5eac3aaf42161677c689015b
+SHA512: 66d7a03ea0cfdac5f1985fd203298a1a3293fe1908ddc1794ec6770d964e0e278411e1b359d038135f59845544e8ae5cdc1ac78b61a2483fe4f6f42d1bb361df
+Description: Exiwall cờ rắc
+Name: Exiwall cờ rắc
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
+
 Package: com.34306.faced
 Architecture: iphoneos-arm
 Version: 1.0
