@@ -290,18 +290,18 @@ Author: Huy Hue
 
 Package: com.34306.messed
 Architecture: iphoneos-arm
-Version: 1.0-1+debug
+Version: 2.0
 Section: Tweaks
 Maintainer: Little 34306
-Installed-Size: 140
+Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.messed_1.0-1+debug_iphoneos-arm.deb
-Size: 5316
-MD5sum: 8b1d984166355d1071665eb3d869ef04
-SHA1: 30ed4f7e6c0833cb877dd8cf7bdda7473a406b3a
-SHA256: d47f2e695d378ef73cacbdf010db434d39b00b8ec569d2d272c32aee04f25e6d
-SHA512: 8a6f2fc788a06eb029d9f31acca2e118457407268bd64d683be186bdcac42c9678253334cb67091cfe7a7cb4f9b2b1d3040611863d9843230b94ea9f4aec5368
-Description: A simple tweak that disable seen in Messenger and Messenger Lite , disable Ads and StoryView
+Filename: ./debs/com.34306.messed_2.0_iphoneos-arm.deb
+Size: 5114
+MD5sum: 75589f935985efc8d3a0eafde5f038ad
+SHA1: fed49b881630f0b5d7cd00b75d26fb7512f2da64
+SHA256: b808fe434190b0e70cf6355f20790ead7f8f5b86721e9c25b882b837fb0dad36
+SHA512: f754f40d3655f260da695590b5d8e714ff867d8d72a032a89e0c0b37c8c3f0e87a0e0f09d926d018c6c70ad9b8b037bd09e7e057bc7865a465be9deee14f3e6e
+Description: A simple tweak that disable seen in Messenger, disable Ads and StoryView
 Name: Messed
 Author: 34306
 
