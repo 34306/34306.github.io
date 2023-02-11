@@ -288,6 +288,22 @@ Description: A dark/light iPhone 13 wallpaper.
 Name: iPhone 13 Wallpaper
 Author: Huy Hue
 
+Package: com.34306.leanaeolian
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.leanaeolian_1.0_iphoneos-arm.deb
+Size: 30550662
+MD5sum: 208229f37318e2ac5094d7bd1b6aba5d
+SHA1: 26163b77f43a3ac475e51a1fea84d6e9001b65d1
+SHA256: cbcbc8664fb50f48d5eb59b7f9a5b7d09127446c07ae1ad4c19a01a709c7891b
+SHA512: f0269ba30ff503ed3a89cb1df498605f11199054a9069ae7754c5a2d6a85f56bb00d1a3cfd2a9f2c0a894be3709c47cad3b8fd4349677d7d992e7f419f133c43
+Description: A dark/light WLOP wallpaper.
+Name: WLOP LeanAeolian Wallpaper
+Author: 34306
+
 Package: com.34306.messed
 Architecture: iphoneos-arm
 Version: 2.0
