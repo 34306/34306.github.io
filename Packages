@@ -61,6 +61,23 @@ Description: A dark/light Big Sur wallpaper.
 Name: Big Sur Wallpaper
 Author: Huy Hue
 
+Package: com.34306.bilibilipre
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 34306 <null>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.bilibilipre_0.0.1_iphoneos-arm.deb
+Size: 5508
+MD5sum: 7aa10494f8ab89145ed22a5bc7060f5a
+SHA1: 7507799f6484d7d393777adcfb88968b9adc169e
+SHA256: 5cda7174dd7857ec008ced88c3df67dec600527b873e8cf159892a39d0c4e580
+SHA512: 945840310ac0b64da24bc23127a5e3c0093558cfc419a96c177331232df1a42669fff1c786e594190d385ae3d1e8676f1cff58330080eb160cc00c372d0db40b
+Description: Bilibili 1080HD enable and no ads.
+Name: bilibilipre
+Author: 34306 <null>
+
 Package: com.34306.bubbletheme
 Architecture: iphoneos-arm
 Version: 1.0
