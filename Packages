@@ -436,6 +436,23 @@ Description: Fix autofill OTP SMS confirm code
 Name: Autofill OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.34306.teraboxpre
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.teraboxpre_1.0_iphoneos-arm.deb
+Size: 3018
+MD5sum: f099f9942cf23bbbb1a7661cb12342d8
+SHA1: 5a92aa25e56c1c0586acc3970745488d7944af3a
+SHA256: 53ee061d65e645e7a21e698a2eb10ab877ddf5bd9841eeb5732af58f9d24c43a
+SHA512: 679e0ae3d2fcb92f52159e64cd03a4de908f86eceb97f1aeb25e0c0e459877aebd9ab70cbdf4334526bd1eb7a4ac9f35408808b1e438d728964f1c8d553cc5e3
+Description: Terabox Premium
+Name: TeraBox Premium
+Author: 34306
+
 Package: com.34306.wallpaperloader
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -522,4 +539,47 @@ Description: Decrypts iOS Apps
 Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: ellekit
+Architecture: iphoneos-arm64
+Version: 0.3
+Priority: optional
+Section: Tweak Injection
+Maintainer: Procursus Team <support@procurs.us>
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Depends: libiosexec1 (>= 1.2.2)
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: ./debs/ellekit_0.3_2023_3_28_iphoneos-arm64.deb
+Size: 340392
+MD5sum: d2e0464ca90bd5493a4c4f077d060922
+SHA1: 0cd32f2a578f8f1903e90037a00d6a79fffa8ec2
+SHA256: 7df1cdc0db9bf0ae54e1afd12f1f1df2f470b255f1073d43efb126c073adbe74
+SHA512: 7ff89477a6f44dba26af5ba236a6c5b31eb67df703434d8f51baf3ba4d4a8c6dd24bb1b94fe7f4cb3449bb680663d61a72018eac733e4eb63a4540ff4cde332c
+Description: ElleKit tweak injection libraries and loader
+ Currently NO SAFE MODE INCLUDED! Install at your own risk!
+ ElleKit tweak injection libraries and loader. Currently in beta,
+ does not currently include a LaunchDaemon.
+Name: ElleKit (Beta)
+Author: Evelyn
+
+Package: zp.preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0.18
+Section: Tweaks
+Maintainer: ArtikusHG,zp
+Installed-Size: 256
+Provides: preferenceloader (= 2.2.6)
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Filename: ./debs/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
+Size: 23658
+MD5sum: 704c56004d2fad73fa4038d8575031d2
+SHA1: f603bc5d0da875e2f6439b47b69507ad48a05322
+SHA256: 24804690ce11ea0a44c6c6f1dfb28a8b53eee1f1162757e8f97788e959631238
+SHA512: ca9803ef52184284ed155f82bbdf0dc06aa3752395ec0796e855f2f895646808d6ec8b8bfdfddf61e0492d1346e94c2a78b0bd5dc1245198fc445649c291f077
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Name: PreferenceLoader - rootless
+Author: ArtikusHG,zp
 
