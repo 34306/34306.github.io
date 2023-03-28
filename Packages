@@ -523,6 +523,26 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.spark.snowboard
+Architecture: iphoneos-arm64
+Version: 1.5.9-Beta3-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.5.9-Beta3-rootless_iphoneos-arm64.deb
+Size: 1129868
+MD5sum: 1cfa9a99ed81fdc489ce08800c86918f
+SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
+SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
+SHA512: 2a4d06fd0f64b7659531d7c1222dd174e406c41eff35f6c43373fbcb3d171c59e7bf288e29a90aa11b79f25a50b8bcc2fefb5453ac62a08d27bf365aa829eba9
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+
 Package: cydia.com.ipc.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
