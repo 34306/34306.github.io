@@ -338,6 +338,24 @@ Description: A simple tweak that disable seen in Messenger, disable Ads and Stor
 Name: Messed
 Author: 34306
 
+Package: com.34306.messedrl
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.messedrl_2.0_iphoneos-arm64.deb
+Size: 5208
+MD5sum: b9da17e3a0ffad75d63bf265fad21005
+SHA1: 401961f93f3047587fc987d03ab87696dc9fbfd5
+SHA256: 4ccc5b64749f09ad86d8bc81bdaadff2afcbe8ab2bf2bc09bbd3531341ca6f5c
+SHA512: 4275ee591f8c3985e84056b5d34f76ceeb8a47d6a0a9f65f373eaaaedebaa7ef50da3450334ec086f37ef4e9811578b327ba4bc99157f17d3704b38bf5d7c6e0
+Description: A simple tweak that disable seen in Messenger, disable Ads and StoryView. Supported FuguMax/Fugu15 rootless
+Name: Messed rootless
+Author: 34306
+Depiction: https://34306.github.io
+
 Package: com.34306.milkyway2
 Architecture: iphoneos-arm
 Version: 0.2.1-15
