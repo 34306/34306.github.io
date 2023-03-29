@@ -182,6 +182,23 @@ Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong su�
 Name: ClearBatPer
 Author: 34306
 
+Package: com.34306.clearbatperrl
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.clearbatperrl_2.2_iphoneos-arm64.deb
+Size: 6514
+MD5sum: 1caa7b561888747379949a5033443a8a
+SHA1: ef8dbf31efe5c28f61218e05cda6f44ca9c4abce
+SHA256: 8c8ac6400cabddcdb677bed2a312fc86eaa838b66fd906a36bd05c00c5d87bb8
+SHA512: f2229eabf44636d9d0b998d1060435e5fda6be434ff9fc817133d78faf2090d91a7151aa32740e9e46ae3960b5ff2ccf38ffe98c89770170fbd8248466f29753
+Description: Display battery percent without blur battery background/clear background.
+Name: ClearBatPer rootless
+Author: 34306
+
 Package: com.34306.dockpad
 Architecture: iphoneos-arm
 Version: 1.0
@@ -197,6 +214,23 @@ SHA256: 058697593f76e6c0f70c178a22fc534226a97dfd3168ffd65eb785c2cbd148b2
 SHA512: 2415fd1df76be0b96b02e2c54d5e3fee584a5d03fe26158a1bff4cbf955b1a86284607cb38f4323650b992ef795104889d1110e7c3dd37cd0586b48a75fca7ac
 Description: A simple tweak that turn your dock into iPadOS dock!
 Name: DockPad
+Author: 34306
+
+Package: com.34306.dockpadrl
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.dockpadrl_1.1_iphoneos-arm64.deb
+Size: 3810
+MD5sum: 88cd5027d05659b89efc5bf2c4c49e10
+SHA1: 4746c5f419ee09ea7dddcb067811b884e547a3ba
+SHA256: 99970a2238a4e3290312534f125559fe5d23949e686539036ca0e52bfc386847
+SHA512: bd54ac3d8e4a1d470d7a3ca3c6bc258247982f4329e195812773100c4f760020960d1a7146180a1a3142fda556a75dc209466fcfa62c02fbe3817cb55873e819
+Description: A simple tweak that turn your dock into iPadOS dock on iOS 15!
+Name: DockPad rootless
 Author: 34306
 
 Package: com.34306.faced
