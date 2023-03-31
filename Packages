@@ -250,6 +250,23 @@ Description: A simple tweak that disable ads on facebook.
 Name: Faced
 Author: 34306
 
+Package: com.34306.faced
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.faced_1.0_iphoneos-arm64.deb
+Size: 4468
+MD5sum: 6a663b206f50f6bbf6f93e0742c6f2f5
+SHA1: 1a20cb5eda8664d0e20ebd9e5741087ba879d4fe
+SHA256: 6ea62cfac3ac6cc822f305b6f67e2e7d1684d0d67559a8463954ff5ba1eaff6e
+SHA512: 86f96ce150246cac0381b6ab7c56b352fc12f9e80cb0a156bbc4cbbedbb7ccb75938d967e7913616193096df5e4d3c83444fa47a00168c01a0b358eebb202ead
+Description: A simple tweak that disable ads on facebook.
+Name: Faced
+Author: 34306
+
 Package: com.34306.forestwallpaper
 Architecture: iphoneos-arm
 Version: 1.0
@@ -490,18 +507,18 @@ Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.34306.statustimerl
 Architecture: iphoneos-arm64
-Version: 1.0-1+debug
+Version: 1.0
 Section: Tweaks
 Maintainer: Little 34306
-Installed-Size: 308
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.34306.statustimerl_1.0-1+debug_iphoneos-arm64.deb
-Size: 29848
-MD5sum: 0776a8d2df98323759b275f8e1da4e7e
-SHA1: ec9f72fee074bd288e989d7014265adc6375a7e6
-SHA256: 9dcfabe3f48b6985b3fbb73719bdc43f88d82efd93e1684327c60f61b14954b8
-SHA512: 5b2c0dc87618ae12223c9ea155349887643557ed29a565a2fbaf28fa72fcea4e46adf6a8eb9c2c39985cf35753377f501cffc9d8dae8e707df6eef223d30c288
-Description: Add second line to your time on statusbar
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.statustimerl_1.0_iphoneos-arm64.deb
+Size: 3978
+MD5sum: eb5707746799bd1556d7a74ef32e9cb6
+SHA1: fd418803d05d899f4258577f7c1d3aeed22af950
+SHA256: d26336e9ccd3a3b0dc2dcdc2ae62ed7bb28aaee025584c0af6ec8ddbca13587e
+SHA512: 1a1dcc90d380a1ad64906b1811a3ef90ffd1be4094cb17951e9238d46b63a7df421fd8776e2fd9d8f1990683af4bbf2e57dd2d0ee813f85c5bc2a4f45d9a1f0d
+Description: A simple tweak that enable 2 line on status bar
 Name: StatusTime rootless
 Author: 34306
 
