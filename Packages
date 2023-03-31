@@ -250,21 +250,21 @@ Description: A simple tweak that disable ads on facebook.
 Name: Faced
 Author: 34306
 
-Package: com.34306.faced
+Package: com.34306.facedrl
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.faced_1.0_iphoneos-arm64.deb
-Size: 4468
-MD5sum: 6a663b206f50f6bbf6f93e0742c6f2f5
-SHA1: 1a20cb5eda8664d0e20ebd9e5741087ba879d4fe
-SHA256: 6ea62cfac3ac6cc822f305b6f67e2e7d1684d0d67559a8463954ff5ba1eaff6e
-SHA512: 86f96ce150246cac0381b6ab7c56b352fc12f9e80cb0a156bbc4cbbedbb7ccb75938d967e7913616193096df5e4d3c83444fa47a00168c01a0b358eebb202ead
-Description: A simple tweak that disable ads on facebook.
-Name: Faced
+Filename: ./debs/com.34306.facedrl_1.0_iphoneos-arm64.deb
+Size: 4484
+MD5sum: 582959d20cdb716258ec92c1a3405367
+SHA1: 4fcc0271d68c4505bf1f56e0d9438794654cca37
+SHA256: 28071ad07c6dab06d1fe993589221736d6ad2e8987a017342d6f18b438918253
+SHA512: 2a0a490fa6a00650812adf76c8894dd9c06003a632e7a7607b51b800a5ec5a3bc240fee93124b211f1d2ff029efacf100bd442ac65f4912945ffd728107b5c1a
+Description: A simple tweak that disable ads on facebook. Support rootless
+Name: Faced rootless
 Author: 34306
 
 Package: com.34306.forestwallpaper
