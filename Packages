@@ -488,6 +488,23 @@ Description: Fix autofill OTP SMS confirm code
 Name: Autofill OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.34306.statustimerl
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.statustimerl_1.0-1+debug_iphoneos-arm64.deb
+Size: 29848
+MD5sum: 0776a8d2df98323759b275f8e1da4e7e
+SHA1: ec9f72fee074bd288e989d7014265adc6375a7e6
+SHA256: 9dcfabe3f48b6985b3fbb73719bdc43f88d82efd93e1684327c60f61b14954b8
+SHA512: 5b2c0dc87618ae12223c9ea155349887643557ed29a565a2fbaf28fa72fcea4e46adf6a8eb9c2c39985cf35753377f501cffc9d8dae8e707df6eef223d30c288
+Description: Add second line to your time on statusbar
+Name: StatusTime rootless
+Author: 34306
+
 Package: com.34306.teraboxpre
 Architecture: iphoneos-arm
 Version: 1.0
