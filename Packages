@@ -456,6 +456,23 @@ Description: A dark/light Monterey wallpaper.
 Name: Monterey Wallpaper
 Author: Huy Hue
 
+Package: com.34306.networkspeedrl
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.networkspeedrl_1.0_iphoneos-arm64.deb
+Size: 13678
+MD5sum: f0f7f39de894581fcab7063958a536c0
+SHA1: 3af9f8afff86f9b60b21d777228bdcbc4e537f30
+SHA256: 961ce021b10c037c73b92a62223e5825c55a7207798f963ceb360a198b093a4c
+SHA512: f155fbf0a5011e2955716dbf583ba50f61ef61c255a9872171684027e0b4a08a2e403d5dac7a2e866715394965b265d3f8a351f9d0578dd5947313d4b055a630
+Description: A simple tweak that show network speed. Support notched iPhone and also rootless jailbreak.
+Name: NetworkSpeed rootless
+Author: 34306
+
 Package: com.34306.orionappstoreapps
 Architecture: iphoneos-arm
 Version: 1.0.0
