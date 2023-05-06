@@ -132,6 +132,26 @@ Description: Fixes the broken shutter button when enabling the iPhone 11 Camera 
 Name: Cam 11 shutter fix
 Author: andyjhall
 
+Package: com.34306.carbridge13
+Architecture: iphoneos-arm64
+Version: 2.0.11-cr
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 7324
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.34306.carbridge13_2.0.11-cr_iphoneos-arm64.deb
+Size: 443764
+MD5sum: 4e5e06eafc5e277655aa1bf3657bf98b
+SHA1: 6b1b8f694a3081e88c8a88f01dd65cc88e59fa48
+SHA256: 3d2e35e0264dce46a7732d687d1930fd92181a22402cae5b24fa99c6d1234941
+SHA512: ed236887c721494b93bdf7445f8e2332cd0b7852b82b7120d8b17c9fb7919990cebccb235c9c068bc6516d7856507b4f2cc1327b4984f338c34bbe7a4d55735b
+Description: Open any app in CarPlay!
+Name: CarBridge16
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://34306.github.io
+Icon: https://media.havoc.app/6393d4ecfb3fac29d26b9143?w=1920&q=75
+
 Package: com.34306.cat
 Architecture: iphoneos-arm
 Version: 1.0
