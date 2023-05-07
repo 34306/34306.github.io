@@ -559,6 +559,23 @@ Description: Fix autofill OTP SMS confirm code
 Name: Autofill OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.34306.swiped
+Architecture: iphoneos-arm64
+Version: 1.0-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.swiped_1.0-6+debug_iphoneos-arm64.deb
+Size: 12472
+MD5sum: 27b5e8fb275135a5fd98ea53d8567a1d
+SHA1: abdb30edd953709b1c973338e15e957ae96f0545
+SHA256: c96c80fc70bad8519c07351f28e64b25f97b1a9f26df384bf7be6685a959a704
+SHA512: 3d2a705bff881ede1ade275230b9f54f798a56f011893fd9a069841918c696e72e031244b2dc80805810d124ae98bd06ab31a6cf2f892e39b4a04c8cbc8ab959
+Description: Swiped!
+Name: Swiped
+Author: 34306
+
 Package: com.34306.teraboxpre
 Architecture: iphoneos-arm
 Version: 1.0
