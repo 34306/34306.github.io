@@ -1,3 +1,20 @@
+Package: com.34306.2nd
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.2nd_1.0_iphoneos-arm64.deb
+Size: 5572
+MD5sum: 2d5a4562762f698edb4905b5659b9056
+SHA1: 1c04c343429b0cc545146162f188e60b3308932d
+SHA256: 09a18e5de5f7093594f3076e9a0e2f31b8917b6db7cb2439a62a415208e96ec4
+SHA512: 322214a29d82da1ae22892d38eee95f0e271bf3f555f15603f18946c557a83f48aee4fee4a2cdcc55d04bfc98374ca192552cfecd9f471c447819d8ab4b6ef8a
+Description: A simple tweak that enable day and date secondline in status bar
+Name: 2nd
+Author: 34306
+
 Package: com.34306.animetheme
 Architecture: iphoneos-arm
 Version: 1.2
