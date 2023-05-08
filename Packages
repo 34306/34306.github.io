@@ -593,6 +593,23 @@ Description: Swiped!
 Name: Swiped
 Author: 34306
 
+Package: com.34306.swiped
+Architecture: iphoneos-arm64
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.swiped_1.0-8+debug_iphoneos-arm64.deb
+Size: 12896
+MD5sum: b2197037956bb9102814226af387b01a
+SHA1: bb4eb24360e1c7d7d01adbe0a607fbcd8eac483b
+SHA256: 2411e75317ec4c4487ad0a2c46661c4e6c2f310bcce4a2e61706cd183c925e39
+SHA512: 267fa49be157fb0e5df8f544bcfd7f34a2819c8131041b5c0935377de2f26d12929e26b48e6c08911719ba22b5ff0aefe006a728b3a069f74c64d5040b24a993
+Description: Swiped!
+Name: Swiped
+Author: 34306
+
 Package: com.34306.teraboxpre
 Architecture: iphoneos-arm
 Version: 1.0
