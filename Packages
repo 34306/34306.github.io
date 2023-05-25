@@ -731,23 +731,3 @@ Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
-Package: zp.preferenceloader
-Architecture: iphoneos-arm64
-Version: 1.0.18
-Section: Tweaks
-Maintainer: ArtikusHG,zp
-Installed-Size: 256
-Provides: preferenceloader (= 2.2.6)
-Depends: mobilesubstrate
-Conflicts: preferenceloader
-Replaces: preferenceloader
-Filename: ./debs/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
-Size: 23658
-MD5sum: 704c56004d2fad73fa4038d8575031d2
-SHA1: f603bc5d0da875e2f6439b47b69507ad48a05322
-SHA256: 24804690ce11ea0a44c6c6f1dfb28a8b53eee1f1162757e8f97788e959631238
-SHA512: ca9803ef52184284ed155f82bbdf0dc06aa3752395ec0796e855f2f895646808d6ec8b8bfdfddf61e0492d1346e94c2a78b0bd5dc1245198fc445649c291f077
-Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
-Name: PreferenceLoader - rootless
-Author: ArtikusHG,zp
-
