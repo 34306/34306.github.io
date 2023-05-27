@@ -713,6 +713,40 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: com.34306.ysrl
+Architecture: iphoneos-arm
+Version: 999.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 796
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.ysrl_999.0_iphoneos-arm.deb
+Size: 286564
+MD5sum: 45d8f9361da9b775fcd5d8e8c9b7f48c
+SHA1: 5ae98be91a38487e5c305160b6229b95df7cda33
+SHA256: 781b69fc9b178c8d7043ee642ff9dc23670f752bd2360ef1f719ea8b66fe2cde
+SHA512: 1c67c70c2da254125288a1c4c5b5a732d19f33699b6a4933d5f7cf8afae9adede5a1d33e5f1a99e1d798356ff656bb5e84b5baa4bc07e969222664dd9fc03b63
+Description: Menu hack 原神. 3 finger double tap to open menu. 2 fingers double tap to close menu!
+Name: 原神 Hack (All version)
+Author: 34306
+
+Package: com.34306.ysrl
+Architecture: iphoneos-arm64
+Version: 999.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 796
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.ysrl_999.0_iphoneos-arm64.deb
+Size: 286474
+MD5sum: aed7cab4a71608ac53123131a2f50533
+SHA1: 2ad77ad44e0da2a756f91b0763428cde2e10db77
+SHA256: 1c76944f0cd4f4cae98ea524fd81061ea51d406bdcb7b5695d87e61524ad10b1
+SHA512: dc695182d64f1b412c563573ffae7cffdf2b8cf88eff85958b22468cc24ae8abab73862d9e3588fbe35f38183886663b135366c4361630e281d50c3a011ea6d1
+Description: Menu hack 原神. 3 finger double tap to open menu. 2 fingers double tap to close menu!
+Name: 原神 Hack (All version)
+Author: 34306
+
 Package: com.34306.ytadblock
 Architecture: iphoneos-arm
 Version: 15.42.5
