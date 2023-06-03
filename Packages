@@ -460,6 +460,23 @@ Description: A dark/light WLOP wallpaper.
 Name: WLOP LeanAeolian Wallpaper
 Author: 34306
 
+Package: com.34306.lqmfree
+Architecture: iphoneos-arm
+Version: 1.50.11
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 756
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.lqmfree_1.50.11_iphoneos-arm.deb
+Size: 275104
+MD5sum: 087385cf49204b6c3b2cb8ae074ffed2
+SHA1: 47378cb0909bd5037b134ce0b80a7fd173b98e99
+SHA256: 81615f1b655c3f146772861bec41c04003db4d3e50d9f6c5e82b39bd87d0de61
+SHA512: cd1ee5d133130cc4cd2877f491e38f1e2c0859d8ac1ce818ea6ec597056ac66bd047983f65e5a73db772192ebcc04f71b79e81230c51f68c315c28dfebb00de7
+Description: Menu hack LQM. 3 finger double tap to open menu. 2 finger double tap to close menu!
+Name: LQM 34306 Hack Free
+Author: 34306
+
 Package: com.34306.messed
 Architecture: iphoneos-arm
 Version: 2.0
