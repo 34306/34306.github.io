@@ -1,17 +1,34 @@
 Package: com.34306.2nd
-Architecture: iphoneos-arm64
-Version: 1.0
+Architecture: iphoneos-arm
+Version: 2.0-1+debug
 Section: Tweaks
 Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.2nd_1.0_iphoneos-arm64.deb
-Size: 5572
-MD5sum: 2d5a4562762f698edb4905b5659b9056
-SHA1: 1c04c343429b0cc545146162f188e60b3308932d
-SHA256: 09a18e5de5f7093594f3076e9a0e2f31b8917b6db7cb2439a62a415208e96ec4
-SHA512: 322214a29d82da1ae22892d38eee95f0e271bf3f555f15603f18946c557a83f48aee4fee4a2cdcc55d04bfc98374ca192552cfecd9f471c447819d8ab4b6ef8a
-Description: A simple tweak that enable day and date secondline in status bar
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.2nd_2.0-1+debug_iphoneos-arm.deb
+Size: 31430
+MD5sum: 5eba33ae1ed901e443df2dae690d20d8
+SHA1: 418864717801d750c642f36fcb9b0133812b7bc4
+SHA256: 665fd59a34453118e691902f940c36d6aba9efcc50cb232c26ee6ee3f648ea93
+SHA512: 1b0c30ac0c99733ea5c4004e5c8858d8bc1917df6b21ac3135872f91d7c59874f247de7ef4d3bd8c45ef6693b6df54ca23df7d90675a0581264fb6f034687103
+Description: Add second line to your time on statusbar
+Name: 2nd
+Author: 34306
+
+Package: com.34306.2nd
+Architecture: iphoneos-arm64
+Version: 2.0-3+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 312
+Depends: oldabi, mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.2nd_2.0-3+debug_iphoneos-arm64.deb
+Size: 31444
+MD5sum: b1e562404de518ea640bc8b53a2b598f
+SHA1: e53d2750a62120450c6fb7f6e80e5f744950bc93
+SHA256: 42ec9a0c5dbe939224efb6c94d94fde5af463ea1c102196821b70404ccf25e51
+SHA512: 2571992da4efa533596ca736575372790f630fcb6effdd37e38f1d3dbf3e3fa821357dffe81d0a76e91f5cc45f668bec921af313b311521c8ea8512880879985
+Description: Add second line to your time on statusbar
 Name: 2nd
 Author: 34306
 
