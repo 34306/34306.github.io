@@ -833,3 +833,37 @@ Name: CrackerXI+
 Website: https://ipastore.me
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
+Package: me.34306.icontime
+Architecture: iphoneos-arm64
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 356
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/me.34306.icontime_1.0-12_iphoneos-arm64.deb
+Size: 29384
+MD5sum: b511be61f28cbfed3fb04930106510a8
+SHA1: 4cbab453f1cd67daab652b18ed527fcf6e65331d
+SHA256: 9791448fb98525f2d71ab1b263f7e8c0079448b5361a84237f6a60e19b329b32
+SHA512: f0d2ed8fcf2e45ac98e540182419a26b89c9a8c24252e4adc8c2145f87aa747f445ad643d883e13ddc72af28107eea0bb1e38580dfa6dd42bf6b049a78ac5b36
+Description: Display the time as icon
+Name: iconTime
+Author: 34306
+
+Package: me.34306.icontime
+Architecture: iphoneos-arm
+Version: 1.0-13
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 356
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/me.34306.icontime_1.0-13_iphoneos-arm.deb
+Size: 29332
+MD5sum: 6f44f1a24fa787051e02e86e8f1f256e
+SHA1: 303d71cfb546716c985a16dd30e0fcc15d90af44
+SHA256: 219524a394acf169c84892899a886d9db8ea1da4a7ff3cfada0b0047108c6898
+SHA512: 48b62d15c042878eaade1ba59b8372e05f021098dd8d8d142eaf715f58339743f8c11eb5b6b6fb1664f0e46d926fe32cc8b9544563db7f413aec10a114e6da01
+Description: Display the time as icon
+Name: iconTime
+Author: 34306
+
