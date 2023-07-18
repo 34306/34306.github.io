@@ -373,6 +373,23 @@ Name: Genshin Jailbreak Bypass
 Author: iVoider <alex@playcover.me>
 Icon:
 
+Package: com.34306.gsdopa
+Architecture: iphoneos-arm64
+Version: 3.8.0
+Section: Game cheat
+Maintainer: Little 34306
+Installed-Size: 924
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gsdopa_3.8.0_iphoneos-arm64.deb
+Size: 329190
+MD5sum: 4e6d2a24799ade02b530e77674b17181
+SHA1: 784ed5ef39d1f0fb637dac48b83f517e2728c0e8
+SHA256: 32f83e1787a0f4903469aea534b672510ad3faf499fbb24bbc9770e1cf22d94b
+SHA512: 84a5d2d72d0972056b2d1dbcb4e0b226824169e95616f435d2a3f9f48025722d9e47b734e21bff182541f65332273fad1858ddfb44e70fda8bd0934929b4fcaa
+Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
+Name: Genshin Hack 3.8 Dopamine
+Author: 34306
+
 Package: com.34306.gsrl
 Architecture: iphoneos-arm
 Version: 999.0
@@ -405,6 +422,23 @@ SHA256: 230da1690531503a0bae425135c59da9c3b0ffdeb70246ce286bb9c54d134fc9
 SHA512: a962cbf635c1f7cff49342497da871a2f4eb4949d9ce1906147e16f7a5c69b1476672aa79c2cc0514cd455a2e8fcf1ac280d8c1f6ee521f94ccf08421bc6511b
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (All version)
+Author: 34306
+
+Package: com.34306.gsxina
+Architecture: iphoneos-arm
+Version: 3.8.0
+Section: Game cheat
+Maintainer: Little 34306
+Installed-Size: 940
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gsxina_3.8.0_iphoneos-arm.deb
+Size: 337052
+MD5sum: e83e44f52c1d9968253f2b97a2a9f28d
+SHA1: 823fa4ebed2e351b08a13be884422a8a183b7a5f
+SHA256: 2bd864413642121c4c15e57f9a57aa7744594a25e7aad31ef01e2020cef86894
+SHA512: a774cae350af757d32d9dd0fb2670fa5b4f07ebe69897c4cc5b566eeb22b9a78d6c72d3b848b32f17433ace36bd80b15ef03cc937783779852f341a49f413b68
+Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
+Name: Genshin Hack 3.8
 Author: 34306
 
 Package: com.34306.iconrenamerx
