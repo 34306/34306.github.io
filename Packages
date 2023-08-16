@@ -375,19 +375,51 @@ Icon:
 
 Package: com.34306.gsdopa
 Architecture: iphoneos-arm64
-Version: 3.8.0
+Version: 4.0.0
 Section: Game cheat
 Maintainer: Little 34306
 Installed-Size: 924
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsdopa_3.8.0_iphoneos-arm64.deb
-Size: 329190
-MD5sum: 4e6d2a24799ade02b530e77674b17181
-SHA1: 784ed5ef39d1f0fb637dac48b83f517e2728c0e8
-SHA256: 32f83e1787a0f4903469aea534b672510ad3faf499fbb24bbc9770e1cf22d94b
-SHA512: 84a5d2d72d0972056b2d1dbcb4e0b226824169e95616f435d2a3f9f48025722d9e47b734e21bff182541f65332273fad1858ddfb44e70fda8bd0934929b4fcaa
+Filename: ./debs/com.34306.gsdopa_4.0.0_iphoneos-arm64.deb
+Size: 328960
+MD5sum: 1688d9431e93ce17d0027242a152167c
+SHA1: 112a4b0d38da81ccf2cb92fa546f017cd1754981
+SHA256: c2ef1cbce809d8219debb35d21b3a8558b72b70a385d2e7d2c14d0591f8b0c13
+SHA512: f439bbcdc7bd4e666c85a0491caf2a7ee7c46532a8d91d5fd9317ee333812bafda676dc0db120932b1447ffd426526857df878194e95c745493447f5fc1dd991
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack 3.8 Dopamine
+Name: Genshin Hack (Dopamine/palera1n)
+Author: 34306
+
+Package: com.34306.gsliteglo
+Architecture: iphoneos-arm
+Version: 4.0.0
+Maintainer: Little 34306
+Installed-Size: 9116
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gsliteglo_4.0.0_iphoneos-arm.deb
+Size: 6837932
+MD5sum: 6f0ab8a2e40288908ff510e0ec10c998
+SHA1: 00fc8039a00706caeec9c7b5d3352986fc3f5ab8
+SHA256: 69b9a4e66d093d9a9fb5d8bdab02ade420456edaad9ccc4954bcc08c247fe366
+SHA512: 6582f5dba519c5cd33ba94a3fbaefcf4b0576fea6bd0ec2fd83af21e69b673f6cc254da6f5396ffb650165be5f534011ed40a585a4fd0a380c6ddaf9140a57b8
+Description: 3 fingers double tap to open menu!
+Name: Genshin Hack Lite VI/EN (old devices)
+Author: 34306
+
+Package: com.34306.gsliteja
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: Little 34306
+Installed-Size: 9116
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gsliteja_1.0_iphoneos-arm.deb
+Size: 6838238
+MD5sum: b646c98f433a285de63f0be02caa7a90
+SHA1: 35c902b9a9a46262f55fe9c85475c0d21a3a57e6
+SHA256: 770ad8740230ee01adc6bbdd15be9ef5a3afb36a593f6ddc7c2f3316fdf62c71
+SHA512: 4ab08af137f9de7ee4e32a6072cfc33a03d8c7886129329820df4b197135b18228895a63903e6d94e9f275d7a0ff4bbf3b8bbe2c101c4340250520db4fc95937
+Description: 3 fingers double tap to open menu!
+Name: Genshin Lite JA (old devices)
 Author: 34306
 
 Package: com.34306.gsrl
@@ -426,19 +458,19 @@ Author: 34306
 
 Package: com.34306.gsxina
 Architecture: iphoneos-arm
-Version: 3.8.0
+Version: 4.0.0
 Section: Game cheat
 Maintainer: Little 34306
 Installed-Size: 940
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsxina_3.8.0_iphoneos-arm.deb
-Size: 337052
-MD5sum: e83e44f52c1d9968253f2b97a2a9f28d
-SHA1: 823fa4ebed2e351b08a13be884422a8a183b7a5f
-SHA256: 2bd864413642121c4c15e57f9a57aa7744594a25e7aad31ef01e2020cef86894
-SHA512: a774cae350af757d32d9dd0fb2670fa5b4f07ebe69897c4cc5b566eeb22b9a78d6c72d3b848b32f17433ace36bd80b15ef03cc937783779852f341a49f413b68
+Filename: ./debs/com.34306.gsxina_4.0.0_iphoneos-arm.deb
+Size: 337146
+MD5sum: f4b8ae781076bc22c4a7f62303934dc2
+SHA1: 4130113185bba6f1a133935804467c319682e7db
+SHA256: 90e6ce3240028390b1e1ffbb9a71af221bdf6c915c3a7f9d114038e7cb9661cd
+SHA512: b5fd6606213ccafab61c56e7311260d739c4a603e0062ea7ee29cdb9f74f3ecad5f033b6db61f73faf3c0c3ec299a52ce46055e2dcf1bafb2b89e7e1778e8522
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack 3.8
+Name: Genshin Hack (u0/checkra1n/Xina)
 Author: 34306
 
 Package: com.34306.iconrenamerx
@@ -509,23 +541,6 @@ SHA256: cbcbc8664fb50f48d5eb59b7f9a5b7d09127446c07ae1ad4c19a01a709c7891b
 SHA512: f0269ba30ff503ed3a89cb1df498605f11199054a9069ae7754c5a2d6a85f56bb00d1a3cfd2a9f2c0a894be3709c47cad3b8fd4349677d7d992e7f419f133c43
 Description: A dark/light WLOP wallpaper.
 Name: WLOP LeanAeolian Wallpaper
-Author: 34306
-
-Package: com.34306.lqmfree
-Architecture: iphoneos-arm
-Version: 1.50.11
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 756
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.lqmfree_1.50.11_iphoneos-arm.deb
-Size: 275104
-MD5sum: 087385cf49204b6c3b2cb8ae074ffed2
-SHA1: 47378cb0909bd5037b134ce0b80a7fd173b98e99
-SHA256: 81615f1b655c3f146772861bec41c04003db4d3e50d9f6c5e82b39bd87d0de61
-SHA512: cd1ee5d133130cc4cd2877f491e38f1e2c0859d8ac1ce818ea6ec597056ac66bd047983f65e5a73db772192ebcc04f71b79e81230c51f68c315c28dfebb00de7
-Description: Menu hack LQM. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: LQM 34306 Hack Free
 Author: 34306
 
 Package: com.34306.messed
