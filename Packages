@@ -375,17 +375,17 @@ Icon:
 
 Package: com.34306.gsdopa
 Architecture: iphoneos-arm64
-Version: 4.0.0
+Version: 4.0.1
 Section: Game cheat
 Maintainer: Little 34306
 Installed-Size: 924
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsdopa_4.0.0_iphoneos-arm64.deb
-Size: 328960
-MD5sum: 1688d9431e93ce17d0027242a152167c
-SHA1: 112a4b0d38da81ccf2cb92fa546f017cd1754981
-SHA256: c2ef1cbce809d8219debb35d21b3a8558b72b70a385d2e7d2c14d0591f8b0c13
-SHA512: f439bbcdc7bd4e666c85a0491caf2a7ee7c46532a8d91d5fd9317ee333812bafda676dc0db120932b1447ffd426526857df878194e95c745493447f5fc1dd991
+Filename: ./debs/com.34306.gsdopa_4.0.1_iphoneos-arm64.deb
+Size: 329256
+MD5sum: ee56a68bccda324d97b77a7f0a13755d
+SHA1: 0d2ab5e73e2ac6ba23a8519157a4d81cf1aff59d
+SHA256: 564f54c3f013c6641ddd5e86659f5ccfc53175fdf7d2d192cc01da8ef4498ecd
+SHA512: 6833fc8aa21a6a16a04afd5ef73b368f03609461250932ed2650cf8fcf6450e8bc742b7c3d2fbe60f1f96826e034b6ea64367b01522731197738dbaffe96bcc6
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (Dopamine/palera1n)
 Author: 34306
