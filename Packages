@@ -236,6 +236,23 @@ Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong su�
 Name: ClearBatPer
 Author: 34306
 
+Package: com.34306.clearbatper
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.clearbatper_2.1_iphoneos-arm64e.deb
+Size: 5008
+MD5sum: 8466469ba952c6222c16bc2667ec4c7e
+SHA1: c624f695f019ae1df301a4215a24bb2ba83593a9
+SHA256: 00dd67112626d319a6148cc7bf0624c73a7dd63e95dc9513e939b4cfd98fa3b6
+SHA512: af23ddef6fe59a079583107d8d936b33bbdac1e5affc8532278f6ef9ebfece5d3d1345eca14e62d46dfdd7098a73ae53e666c2560e8d35628a043df0ba596ba5
+Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong suốt. Khi sạc màu vàng, khi bật LPM màu xanh dương, khi pin yếu màu đỏ và bình thường màu trắng.\nEng: Display battery percent without blur battery background/clear background.
+Name: ClearBatPer
+Author: 34306
+
 Package: com.34306.clearbatperrl
 Architecture: iphoneos-arm64
 Version: 2.2
@@ -300,6 +317,23 @@ MD5sum: 2e52be68c05ec04678a1229ca7e40a8f
 SHA1: 06ee3904e2e7f7d94974e3c314ded003b858bc48
 SHA256: 179f3ddeb22f9e83cbdb80bf5363ca506e1abcbfac128f09b1f8adba769fc107
 SHA512: 2a93dd512c609ef43f272a7b3ed5cb1e9803dedd2b80f1dff60fbf4b0d95b20cdfce5ac848b0f5c20d6f97b1ea7f71f6c5f915a5e4bf36db558039ea429aa00b
+Description: A simple tweak that disable ads on facebook.
+Name: Faced
+Author: 34306
+
+Package: com.34306.faced
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.faced_2.0_iphoneos-arm64e.deb
+Size: 4550
+MD5sum: 7d3ad72ab8a79e7fabca4c810cd5d560
+SHA1: 4172fadcc45591672c223044d5f73ece7a10fde9
+SHA256: abad37031309e3da27a2a79a128e212bc65471e1d2a53270b6d107ee996d502a
+SHA512: 34d16bcc59dc9b7a095b599dfc224f59cccc77bbb939d679791928c35f9b5cdf13ac8412b75f9908fbad61292d6fae93b5e091782a07d31c04d386692ba8efa1
 Description: A simple tweak that disable ads on facebook.
 Name: Faced
 Author: 34306
@@ -578,6 +612,24 @@ Name: Messed rootless
 Author: 34306
 Depiction: https://34306.github.io
 
+Package: com.34306.messedrl
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.messedrl_2.0_iphoneos-arm64e.deb
+Size: 5344
+MD5sum: 4f9eb6669a4f9268ce8bf7e8928f88b8
+SHA1: b66361d0c625a23a2c381c07bacf3ba32a5162d6
+SHA256: 36f1193a15cda46e8659a1909a0bdc945ac9cda830eb580ef43bdcdee7fe8f3a
+SHA512: 0a4c4687cc4c02e3b84d02370a231e68ab5a9e9a44ee62aaa8ce7ead19b0f71248bc184197a55f627a9ffd47074693db4c5acff2dc76ba2c6cfc141c3c6b8f02
+Description: A simple tweak that disable seen in Messenger, disable Ads and StoryView. Supported FuguMax/Fugu15 rootless
+Name: Messed rootless
+Author: 34306
+Depiction: https://34306.github.io
+
 Package: com.34306.milkyway2
 Architecture: iphoneos-arm
 Version: 0.2.1-15
@@ -792,6 +844,23 @@ MD5sum: 726fe5c50c8301622f2ec76bb4455465
 SHA1: 0e29250dc08c49537d6ae3526b77f80b740d43d0
 SHA256: 1c3cf37e80beb51dc3ba76f98855f82f3ae55423e920f580259afd0d8c7137c4
 SHA512: 3c4463437b494f32d7a13adc4823131bebe7f5c074c1ac2068678e7bc9c5027710086a553a085d6564366ebcf71f75f47de6e53e76e2ee85addd7f79acd339a3
+Description: You'll never seen Ads in Never gonna give you up anymore!
+Name: Youtubed rootless
+Author: 34306
+
+Package: com.34306.youtubedrl
+Architecture: iphoneos-arm64e
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.youtubedrl_1.0-2+debug_iphoneos-arm64e.deb
+Size: 4042
+MD5sum: 7ffe126cba11702e0815ce11e26fbf01
+SHA1: d374fe6639d99457e2355388086c175f43b147e3
+SHA256: b81de70992f300552dc667bde68885609481fb0ceab9699538e62d298921449e
+SHA512: 7f45c93b3c427cfd3bd1e84d7ed13d061240034604aed64ca527d5bf0460ee1beadd9515ec47884f87a4bef8f60486d8147397eca875763255eea677d02b072c
 Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
