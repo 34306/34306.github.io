@@ -409,51 +409,19 @@ Icon:
 
 Package: com.34306.gsdopa
 Architecture: iphoneos-arm64
-Version: 4.0.1
+Version: 4.1.0
 Section: Game cheat
 Maintainer: Little 34306
-Installed-Size: 924
+Installed-Size: 972
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsdopa_4.0.1_iphoneos-arm64.deb
-Size: 329256
-MD5sum: ee56a68bccda324d97b77a7f0a13755d
-SHA1: 0d2ab5e73e2ac6ba23a8519157a4d81cf1aff59d
-SHA256: 564f54c3f013c6641ddd5e86659f5ccfc53175fdf7d2d192cc01da8ef4498ecd
-SHA512: 6833fc8aa21a6a16a04afd5ef73b368f03609461250932ed2650cf8fcf6450e8bc742b7c3d2fbe60f1f96826e034b6ea64367b01522731197738dbaffe96bcc6
+Filename: ./debs/com.34306.gsdopa_4.1.0_iphoneos-arm64.deb
+Size: 345786
+MD5sum: 5f0bc2d6ccaa3076070729b517a2e2ac
+SHA1: 951e4ee0436cfe34cbfbdc85571a9864fdce6412
+SHA256: 02a6d41cf784d7d1e20dfbc66c52f62e4eac112712aa63bfd0375e4fc5f403e4
+SHA512: 8ab2f6fefeab8e4376d19b314763578b13ee32e1536313053b4933cfbf0b22935d1e409c3768a6c74a58fac99db68272e62707f92144329ae4f0f8e751c1135b
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (Dopamine/palera1n)
-Author: 34306
-
-Package: com.34306.gsliteglo
-Architecture: iphoneos-arm
-Version: 4.0.0
-Maintainer: Little 34306
-Installed-Size: 9116
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsliteglo_4.0.0_iphoneos-arm.deb
-Size: 6837932
-MD5sum: 6f0ab8a2e40288908ff510e0ec10c998
-SHA1: 00fc8039a00706caeec9c7b5d3352986fc3f5ab8
-SHA256: 69b9a4e66d093d9a9fb5d8bdab02ade420456edaad9ccc4954bcc08c247fe366
-SHA512: 6582f5dba519c5cd33ba94a3fbaefcf4b0576fea6bd0ec2fd83af21e69b673f6cc254da6f5396ffb650165be5f534011ed40a585a4fd0a380c6ddaf9140a57b8
-Description: 3 fingers double tap to open menu!
-Name: Genshin Hack Lite VI/EN (old devices)
-Author: 34306
-
-Package: com.34306.gsliteja
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: Little 34306
-Installed-Size: 9116
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsliteja_1.0_iphoneos-arm.deb
-Size: 6838238
-MD5sum: b646c98f433a285de63f0be02caa7a90
-SHA1: 35c902b9a9a46262f55fe9c85475c0d21a3a57e6
-SHA256: 770ad8740230ee01adc6bbdd15be9ef5a3afb36a593f6ddc7c2f3316fdf62c71
-SHA512: 4ab08af137f9de7ee4e32a6072cfc33a03d8c7886129329820df4b197135b18228895a63903e6d94e9f275d7a0ff4bbf3b8bbe2c101c4340250520db4fc95937
-Description: 3 fingers double tap to open menu!
-Name: Genshin Lite JA (old devices)
 Author: 34306
 
 Package: com.34306.gsrl
@@ -492,17 +460,17 @@ Author: 34306
 
 Package: com.34306.gsxina
 Architecture: iphoneos-arm
-Version: 4.0.0
+Version: 4.1.0
 Section: Game cheat
 Maintainer: Little 34306
 Installed-Size: 940
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsxina_4.0.0_iphoneos-arm.deb
-Size: 337146
-MD5sum: f4b8ae781076bc22c4a7f62303934dc2
-SHA1: 4130113185bba6f1a133935804467c319682e7db
-SHA256: 90e6ce3240028390b1e1ffbb9a71af221bdf6c915c3a7f9d114038e7cb9661cd
-SHA512: b5fd6606213ccafab61c56e7311260d739c4a603e0062ea7ee29cdb9f74f3ecad5f033b6db61f73faf3c0c3ec299a52ce46055e2dcf1bafb2b89e7e1778e8522
+Filename: ./debs/com.34306.gsxina_4.1.0_iphoneos-arm.deb
+Size: 337196
+MD5sum: 3b860349f4a15f0e006d55b3ebb77689
+SHA1: 647029e312886c1846d098fd1884807f0c7c59bc
+SHA256: 18709ca19681593d0e2da3f08d2da9f7e8f8f46a8d9d7ed29fa5cf483e11755a
+SHA512: 58277ee38260579ca33557006bb559c5c092db4de484ec02a4aa3e4367bc04d507ddbaca8f835de7a35b85a320b6bf6d9261d75949aa8bb63c91d8f01aed0883
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (u0/checkra1n/Xina)
 Author: 34306
