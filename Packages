@@ -528,6 +528,40 @@ Description: A dark/light WLOP wallpaper.
 Name: WLOP LeanAeolian Wallpaper
 Author: 34306
 
+Package: com.34306.lunard
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.lunard_1.0_iphoneos-arm.deb
+Size: 6994
+MD5sum: 77b33f4deeda8d5ad760f697dbb92475
+SHA1: c5a70c024b66d81865066c978b3f24afd4f3a940
+SHA256: 468daafd015886ad5e0094c243da0ed4237e5da9b0a8f8823b230ce5c6aaf1b4
+SHA512: d8d0a6f35cd1a5611d690025487739687087c8b8d9cfa418f40dcfb238686af4912c594b77d421e6106b471ae4d7d075d8842b662084ceca2810e0f7d0355f42
+Description: A simple tweak that show lunar date
+Name: Lunard
+Author: 34306
+
+Package: com.34306.lunard
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.lunard_1.0_iphoneos-arm64.deb
+Size: 7064
+MD5sum: 7b271080c2c2aeb041deb74e36cbe5f9
+SHA1: 9f1e5b846339a1d6cf6177a425519056bcc3bdb1
+SHA256: 3813f8174ba6edf602a1a21ed0374eadbbfb010be69675811cf002c7467390a9
+SHA512: b16214b4913c2d185d15b7d2ec3a6f98194e7e542b0ff8a821a80c6f04d815e3cac073190992da756ef225c50bd75a9d184ad9b15ab35e4f03ed1fb847b59347
+Description: A simple tweak that show lunar date
+Name: Lunard
+Author: 34306
+
 Package: com.34306.messed
 Architecture: iphoneos-arm
 Version: 2.0
