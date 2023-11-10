@@ -562,6 +562,23 @@ Description: A simple tweak that show lunar date
 Name: Lunard
 Author: 34306
 
+Package: com.34306.lunard
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.lunard_1.0_iphoneos-arm64e.deb
+Size: 7010
+MD5sum: f41a035552d296c4bd22efc891d02f3b
+SHA1: 7fd94c1952722266db1aa6d4b04bd6c64c5b1047
+SHA256: 071e08ce27136f3cf123d7499215e79fbeedef773e52c59ba05d6e9b1e13e7a1
+SHA512: 9175b2ed9322a74c746c3ca4bd3eddc6e015bd7da484259113ab3209f27e347cf70051caf731e4e25e4b1ce4ad3a06a090d2176e7ce51c82ec59f06dd033f3dc
+Description: A simple tweak that show lunar date
+Name: Lunard
+Author: 34306
+
 Package: com.34306.messed
 Architecture: iphoneos-arm
 Version: 2.0
