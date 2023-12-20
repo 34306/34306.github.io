@@ -443,17 +443,17 @@ Author: 34306
 
 Package: com.34306.gsxina
 Architecture: iphoneos-arm
-Version: 4.2.0
+Version: 4.3.0
 Section: Game cheat
 Maintainer: Little 34306
-Installed-Size: 6984
+Installed-Size: 7016
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsxina_4.2.0_iphoneos-arm.deb
-Size: 2136870
-MD5sum: 438c8feb8bd9f598c6f982c96ebc5be7
-SHA1: 4ed82542f6224f920a4b1b8963a5f4ca19d7b086
-SHA256: b67a198a5cf978a34f58b120d9b4f2dac22991bbb9a09ba834802b37b4c71101
-SHA512: 6e08b3810ee610f7e64fa0add9d38702f7ccab9765a877bc3aa10fe15f81edb92c51a535ad2a96be74e06fc92e818e30b7d1089c3dcc4d0dbfaf2f17bcc216d3
+Filename: ./debs/com.34306.gsxina_4.3.0_iphoneos-arm.deb
+Size: 2140248
+MD5sum: 5ba8e1faa978e316c9ed53c69294bbee
+SHA1: 1479d105b76e890a6eb128b15b22705b1cfacb8b
+SHA256: 28518618366cbbaae74b24a4f0252dd977ab6c1086b1de4d31170c8a6a5c56ee
+SHA512: fec9f3c3b9790519905e0500f10973d23c8c94ff4052388569ab4d1ceb65ae92211e58e96397eb4366904ac0007a3691f17fb7d41ef68e7717d694761fe388f5
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (u0/checkra1n/Xina)
 Author: 34306
@@ -526,57 +526,6 @@ SHA256: cbcbc8664fb50f48d5eb59b7f9a5b7d09127446c07ae1ad4c19a01a709c7891b
 SHA512: f0269ba30ff503ed3a89cb1df498605f11199054a9069ae7754c5a2d6a85f56bb00d1a3cfd2a9f2c0a894be3709c47cad3b8fd4349677d7d992e7f419f133c43
 Description: A dark/light WLOP wallpaper.
 Name: WLOP LeanAeolian Wallpaper
-Author: 34306
-
-Package: com.34306.lunard
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.lunard_1.0_iphoneos-arm.deb
-Size: 6994
-MD5sum: 77b33f4deeda8d5ad760f697dbb92475
-SHA1: c5a70c024b66d81865066c978b3f24afd4f3a940
-SHA256: 468daafd015886ad5e0094c243da0ed4237e5da9b0a8f8823b230ce5c6aaf1b4
-SHA512: d8d0a6f35cd1a5611d690025487739687087c8b8d9cfa418f40dcfb238686af4912c594b77d421e6106b471ae4d7d075d8842b662084ceca2810e0f7d0355f42
-Description: A simple tweak that show lunar date
-Name: Lunard
-Author: 34306
-
-Package: com.34306.lunard
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.lunard_1.0_iphoneos-arm64.deb
-Size: 7064
-MD5sum: 7b271080c2c2aeb041deb74e36cbe5f9
-SHA1: 9f1e5b846339a1d6cf6177a425519056bcc3bdb1
-SHA256: 3813f8174ba6edf602a1a21ed0374eadbbfb010be69675811cf002c7467390a9
-SHA512: b16214b4913c2d185d15b7d2ec3a6f98194e7e542b0ff8a821a80c6f04d815e3cac073190992da756ef225c50bd75a9d184ad9b15ab35e4f03ed1fb847b59347
-Description: A simple tweak that show lunar date
-Name: Lunard
-Author: 34306
-
-Package: com.34306.lunard
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.lunard_1.0_iphoneos-arm64e.deb
-Size: 7010
-MD5sum: f41a035552d296c4bd22efc891d02f3b
-SHA1: 7fd94c1952722266db1aa6d4b04bd6c64c5b1047
-SHA256: 071e08ce27136f3cf123d7499215e79fbeedef773e52c59ba05d6e9b1e13e7a1
-SHA512: 9175b2ed9322a74c746c3ca4bd3eddc6e015bd7da484259113ab3209f27e347cf70051caf731e4e25e4b1ce4ad3a06a090d2176e7ce51c82ec59f06dd033f3dc
-Description: A simple tweak that show lunar date
-Name: Lunard
 Author: 34306
 
 Package: com.34306.messed
