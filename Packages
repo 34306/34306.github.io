@@ -443,17 +443,17 @@ Author: 34306
 
 Package: com.34306.gsxina
 Architecture: iphoneos-arm
-Version: 4.3.0
+Version: 4.4.0
 Section: Game cheat
 Maintainer: Little 34306
-Installed-Size: 7016
+Installed-Size: 936
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsxina_4.3.0_iphoneos-arm.deb
-Size: 2140248
-MD5sum: 5ba8e1faa978e316c9ed53c69294bbee
-SHA1: 1479d105b76e890a6eb128b15b22705b1cfacb8b
-SHA256: 28518618366cbbaae74b24a4f0252dd977ab6c1086b1de4d31170c8a6a5c56ee
-SHA512: fec9f3c3b9790519905e0500f10973d23c8c94ff4052388569ab4d1ceb65ae92211e58e96397eb4366904ac0007a3691f17fb7d41ef68e7717d694761fe388f5
+Filename: ./debs/com.34306.gsxina_4.4.0_iphoneos-arm.deb
+Size: 324372
+MD5sum: fea1bb36dfaf96064d496d61852fd1ac
+SHA1: d6f97e7beda8b589b20774d158d25cc778a1dd91
+SHA256: aeb01acba7bd9b03407d96e2a85704e6367c0a1df776727f9636094eec960450
+SHA512: 3a143ffb3724ca73881f493a3b9825659c919021a2c413286d17c633902b0c670892286097b34297f9e951bd3503c773a69dde203b457f9dc900b5fe1982e9cc
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (u0/checkra1n/Xina)
 Author: 34306
