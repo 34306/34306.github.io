@@ -32,36 +32,6 @@ Description: Add second line to your time on statusbar
 Name: 2nd
 Author: 34306
 
-Package: com.34306.animetheme
-Architecture: iphoneos-arm
-Version: 1.2
-Section: Tweaks
-Maintainer: Little 34306
-Filename: ./debs/com.34306.animetheme_1.2_iphoneos-arm.deb
-Size: 27620016
-MD5sum: ffa63e0d52d0d2092e14e4c4142c3a9e
-SHA1: 4847d9d004f2e97200f5976fbbba78822b7f07d7
-SHA256: e642b334ea9e3881b25a8b9a11683c46ed62a3def9e59ebfb0d9ec5b2773a474
-SHA512: cdcb132f4b73420cbace6ea1e47527da575b92bf12bd05bfa849cb1167dac109cee313197c650a673c0e606c51dfa300827db49624590d5d1df6a6aea618e0da
-Description: Anime Theme update 1.2
-Author: Huy Hue <little34306xd@gmail.com>
-Name: Anime Theme
-
-Package: com.34306.animetheme
-Architecture: iphoneos-arm
-Version: 1.4
-Section: Tweaks
-Maintainer: Little 34306
-Filename: ./debs/com.34306.animetheme_1.4_iphoneos-arm.deb
-Size: 31679082
-MD5sum: e5d6505d07ed276979441fd85cb07b7a
-SHA1: f794bb7c134fa0fcb19c4a0d4c01dd243eea6969
-SHA256: dcaaba86e2abc7c5b759cb9c67a67f398bdce3e76c018dc380fb1eeec99fe162
-SHA512: bd4bbe4e5a0313cc0d8a6623e97aea1482c96ced6eacc65a67d90998daeb90c9ed80adae7d4bbdd68f62e4096a6f67e616b848e96924db300342ec37ad61a105
-Description: Anime Theme update 1.4
-Author: Huy Hue <little34306xd@gmail.com>
-Name: Anime Theme
-
 Package: com.34306.batfill
 Architecture: iphoneos-arm
 Version: 2.0
@@ -79,22 +49,6 @@ Description: iOS 16 style for iOS 11-15. Please setting your own color in Settin
 Name: BatFill
 Author: 34306, fahlnbg
 
-Package: com.34306.bigsurwallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.bigsurwallpaper_1.0_iphoneos-arm.deb
-Size: 9990842
-MD5sum: 10f51ec2349b850b3ed95bbc31520ce5
-SHA1: 5234b74084417379cac39ae72d290f37c3f12419
-SHA256: 3c78881c23902c9dbdb588c8dcc17e037eefbfe2c9c1869a80df38fd790049ab
-SHA512: eb9654d36913c47c2295fa2ff9bd0da652cdb78adeb26ab0292c1b01f1f44f9f3e295b541771891082e421f236ccd1636c38321b6643643d84524f1b5ab2cce2
-Description: A dark/light Big Sur wallpaper.
-Name: Big Sur Wallpaper
-Author: Huy Hue
-
 Package: com.34306.bilibilipre
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -111,21 +65,6 @@ SHA512: 945840310ac0b64da24bc23127a5e3c0093558cfc419a96c177331232df1a42669fff1c7
 Description: Bilibili 1080HD enable and no ads.
 Name: bilibilipre
 Author: 34306 <null>
-
-Package: com.34306.bubbletheme
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Huy Hue
-Filename: ./debs/com.34306.bubbletheme_1.0_iphoneos-arm.deb
-Size: 929380
-MD5sum: 327012fb213ebe47590d31df43f79839
-SHA1: b9f204803bf107b5b3ece62e5b4216923d1c8815
-SHA256: cd03944487f65af70bb5e667c815ae92e31c805d338fb941cbaa8715b846b006
-SHA512: 13e246ee3053843d7c08b009d0c5653877b5e376427e78b5aa251a22fb5a79d2bb7f7ff928626fc6fdcc8d46b91b296e4c4cb118728b7100ecbfc6cebc0502ea
-Description: Bubble Theme
-Author: Huy Hue
-Name: Bubble Theme
 
 Package: com.34306.cam11ui
 Architecture: iphoneos-arm
@@ -165,59 +104,6 @@ SHA512: 518735713b209155eb5dc23deef94aa723d84e1e6a89f5e60e410aeabe73e22b1a1b4410
 Description: Fixes the broken shutter button when enabling the iPhone 11 Camera on older devices. Does however stop the swipe on shutter button to record video from working.
 Name: Cam 11 shutter fix
 Author: andyjhall
-
-Package: com.34306.carbridge13
-Architecture: iphoneos-arm64
-Version: 2.0.11-cr
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 7324
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.34306.carbridge13_2.0.11-cr_iphoneos-arm64.deb
-Size: 443764
-MD5sum: 4e5e06eafc5e277655aa1bf3657bf98b
-SHA1: 6b1b8f694a3081e88c8a88f01dd65cc88e59fa48
-SHA256: 3d2e35e0264dce46a7732d687d1930fd92181a22402cae5b24fa99c6d1234941
-SHA512: ed236887c721494b93bdf7445f8e2332cd0b7852b82b7120d8b17c9fb7919990cebccb235c9c068bc6516d7856507b4f2cc1327b4984f338c34bbe7a4d55735b
-Description: Open any app in CarPlay!
-Name: CarBridge16
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://34306.github.io
-Icon: https://media.havoc.app/6393d4ecfb3fac29d26b9143?w=1920&q=75
-
-Package: com.34306.cat
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.cat_1.0_iphoneos-arm.deb
-Size: 816518
-MD5sum: 6ae8278fe5bd0d8bd4ee2f4f2e9a237a
-SHA1: d6b3389c048e7604b1fad791d234faae39ffc5aa
-SHA256: 4f4d6814ea212cb399fe8ee9928b554f41ba4f4ea67f718de89a2cd970b91f61
-SHA512: cc5bd4e112664d5b5d2c64b9ef079eac8ad24c39e1c3864792f03697612d5117abc04d763e655ef2698490db597bf38530b90129a8dd0938018d99fcb9f3453b
-Description: A dark/light cat wallpaper.
-Name: Cat
-Author: 34306
-
-Package: com.34306.clearbatper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.clearbatper_1.0_iphoneos-arm.deb
-Size: 6532
-MD5sum: 3cccfd931d18b533cbb659c2ca2e0f33
-SHA1: cb514a36931f88010a2882e9c395ac9aa91701cf
-SHA256: bfc5ed5aa5b75e817ebc3bf87e7aa91bb75a6ab780e4f557e71a84bf5dc29e17
-SHA512: 177a656a18ed22a7b60fae4e4464d157ae7e2c3e94b367f990891c959097bcbb9bd3e6ebeb14bcf2f1541c02e59f8d1a0eecaa55a8914d9f562bdc3629119ffd
-Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong suốt. Khi sạc màu vàng, khi bật LPM màu xanh dương, khi pin yếu màu đỏ và bình thường màu trắng.\nEng: Display battery percent without blur battery background/clear background.
-Name: ClearBatPer
-Author: 34306
 
 Package: com.34306.clearbatper
 Architecture: iphoneos-arm
@@ -372,22 +258,6 @@ Description: 1TB?
 Name: Fake storage rootless
 Author: 34306
 
-Package: com.34306.forestwallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.forestwallpaper_1.0_iphoneos-arm.deb
-Size: 2473800
-MD5sum: 8a0d59014b9e676297c1b912d056a37e
-SHA1: a526a57e5aa2c10976d045758bbc87c5d5f0081a
-SHA256: dc33bc33ea088a08e83532c158309d5fd19199f389a7fb065efea18df3c3e773
-SHA512: 26f05da65c2a200cc16ad9bd140543f7e13029a2d8ae8c82e74d2669d46360884dcdff712efe7ae1ff326de6529fa05f6e87ba939907d1bcbc104ad5d4482e8c
-Description: A dark/light Forest wallpaper.
-Name: Forest Wallpaper
-Author: Huy Hue
-
 Package: com.34306.genshinjailbreakbypass
 Architecture: iphoneos-arm
 Version: 1.1
@@ -407,40 +277,6 @@ Name: Genshin Jailbreak Bypass
 Author: iVoider <alex@playcover.me>
 Icon:
 
-Package: com.34306.gsrl
-Architecture: iphoneos-arm
-Version: 999.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 796
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsrl_999.0_iphoneos-arm.deb
-Size: 286350
-MD5sum: 3905c126a4e340d8ee58ba5e6aea9860
-SHA1: cdb015f9f1add3fced17ea313f778e3a1727d72c
-SHA256: e43aefddf373788397890f350f410b8cd596b0bdee95d7e61abbdb6ed15b1886
-SHA512: 6f480983dbcbb058a8df2b6fe40b1faaf85e823bd4b34ea35877ddf71c23a3e5a7fca8c9544d2c727e1d4149562983b799a01303ab5e7bb2a43c509aed1b45a9
-Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack (All version)
-Author: 34306
-
-Package: com.34306.gsrl
-Architecture: iphoneos-arm64
-Version: 999.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 796
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsrl_999.0_iphoneos-arm64.deb
-Size: 286316
-MD5sum: 759568e245bcbe06be0f5b0b35f3b586
-SHA1: f83732f4368aa46e4a41519271b012e682de2ffa
-SHA256: 230da1690531503a0bae425135c59da9c3b0ffdeb70246ce286bb9c54d134fc9
-SHA512: a962cbf635c1f7cff49342497da871a2f4eb4949d9ce1906147e16f7a5c69b1476672aa79c2cc0514cd455a2e8fcf1ac280d8c1f6ee521f94ccf08421bc6511b
-Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack (All version)
-Author: 34306
-
 Package: com.34306.gsxina
 Architecture: iphoneos-arm
 Version: 4.4.0
@@ -456,76 +292,6 @@ SHA256: aeb01acba7bd9b03407d96e2a85704e6367c0a1df776727f9636094eec960450
 SHA512: 3a143ffb3724ca73881f493a3b9825659c919021a2c413286d17c633902b0c670892286097b34297f9e951bd3503c773a69dde203b457f9dc900b5fe1982e9cc
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (u0/checkra1n/Xina)
-Author: 34306
-
-Package: com.34306.iconrenamerx
-Architecture: iphoneos-arm
-Version: 1.1-1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 107
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.34306.iconrenamerx_1.1-1_iphoneos-arm.deb
-Size: 14410
-MD5sum: a7584666c02f2dc27118f12d26bd4366
-SHA1: ca1bd8fd9c97d042ff1cde0de1e78b07376f0b97
-SHA256: 9dc6aa1ebe0173b568f3e5ed79b517b431ad27544f62d8a54d77457644874490
-SHA512: 93860ce1e9ba4db0b0ce465ed1bfb49d12ff5135f784e0332e9a08b4070011f286d48f1e837071dc1402c740b96122f8e43c82f4963933162f5454b215a95b7d
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerxDp
-Description: Rename apps
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Netskao <netskao@gmail.com>
-Name: IconRenamerX
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerxDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: netskao
-
-Package: com.34306.ios15wallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.ios15wallpaper_1.0_iphoneos-arm.deb
-Size: 53805014
-MD5sum: 64cdfa2f2cebb56fde7152321d4ea475
-SHA1: 9a980eae3b2e81bed5c0a8c38c93007575860475
-SHA256: 9844cb874928cf2308195b70ce28f98b3b85565e394fe1e5f4aa3dadd825c0dc
-SHA512: 6876fe9e4bc6df0a4ed4c369dcd37b2b38e602ab3108d02ef5af50fa725989c51abf3f91102483915fb94689d811863529399d9ccf75861fef9408bb533bf7a5
-Description: A dark/light iOS 15 wallpaper.
-Name: iOS 15 Wallpaper
-Author: Huy Hue
-
-Package: com.34306.ip13
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.ip13_1.0_iphoneos-arm.deb
-Size: 23171024
-MD5sum: 8f2bf3ac8e87a63e512b72484ab634b3
-SHA1: cd6263ab3e112178ea1f3942476f164ba50a12d0
-SHA256: 317d311aea9bb801d835cfe6272a7cbcdc4927b7c8930ee8fb79edfedf879c28
-SHA512: abec053fa6686758cab161c3d1a0229681331bf74c2f8c99adfed4038e1d794ff398cc6d0f98f5a600223f93fc953e4073a0e91d7fc8d19b86b8c5d3e7674f67
-Description: A dark/light iPhone 13 wallpaper.
-Name: iPhone 13 Wallpaper
-Author: Huy Hue
-
-Package: com.34306.leanaeolian
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.leanaeolian_1.0_iphoneos-arm.deb
-Size: 30550662
-MD5sum: 208229f37318e2ac5094d7bd1b6aba5d
-SHA1: 26163b77f43a3ac475e51a1fea84d6e9001b65d1
-SHA256: cbcbc8664fb50f48d5eb59b7f9a5b7d09127446c07ae1ad4c19a01a709c7891b
-SHA512: f0269ba30ff503ed3a89cb1df498605f11199054a9069ae7754c5a2d6a85f56bb00d1a3cfd2a9f2c0a894be3709c47cad3b8fd4349677d7d992e7f419f133c43
-Description: A dark/light WLOP wallpaper.
-Name: WLOP LeanAeolian Wallpaper
 Author: 34306
 
 Package: com.34306.messed
@@ -581,37 +347,39 @@ Name: Messed rootless
 Author: 34306
 Depiction: https://34306.github.io
 
-Package: com.34306.milkyway2
-Architecture: iphoneos-arm
-Version: 0.2.1-15
+Package: com.34306.mineland
+Architecture: iphoneos-arm64
+Version: 2.0-6+debug
 Section: Tweaks
 Maintainer: Little 34306
-Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debs/com.34306.milkyway2_0.2.1_ios15.deb
-Size: 101128
-MD5sum: 40200564eb1c1d1187693c088f1b164f
-SHA1: 37a561ad8c51bd9b61f507debde7ae71ef809fc7
-SHA256: fa2953112ed94de08896a920bc027646d2d36f5758591428d71aebecb73845ab
-SHA512: 95ca297c3ebc14c796bd20bf97ecfca20759e6f3a97c854fdaceba9538cfbcc55eea5fd239f349246e90d4d3a2ab5227a1c44242daabeb84f8f82c33d26ad7b0
-Description: Milkyway2 with iOS 15 support!
-Name: MilkyWay2 iOS 15
-Author: akusio <akusio-report@neko2.net>
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.34306.mineland_2.0_iphoneos-arm64.deb
+Size: 43446
+MD5sum: 3926db983c726f7f3504b903399f2496
+SHA1: 2cc0cb705c5dff32b5e90ad9bcfe95cca4fb77fc
+SHA256: d3a3f5f8c54b359de2ae916287c3f006f95699637127b0eca1d238db34fd9458
+SHA512: f014e6ca9833295c8fb66d0053d216dacea80e4c9bd212aca8bd2834254b72dd916241fd9deb24224712ae698a60a34e8c8f3c93561049af114519e11d5120ab
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, KhanhDuyTran
 
-Package: com.34306.montereywallpaper
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
+Package: com.34306.mineland
+Architecture: iphoneos-arm64e
+Version: 2.0-7+debug
+Section: Tweaks
 Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.montereywallpaper_1.0_iphoneos-arm.deb
-Size: 8747956
-MD5sum: f8f41b730f541ec2c62e121b0ac629df
-SHA1: 716f291f0ee78136873654f95bcb97e075f01dea
-SHA256: 778d66cf8cfd9f725a1e7988076eb77d9f78f5584863c7c3ba39dd65c65c32f7
-SHA512: 1ab23b063b41581252ebee7aa3b4e5a3b0b018775ba73b68ca0e064a603fa7e5a092f46fbd50dd9f121468bcbfa975013d404ff691f38e94a66b21c67fd5036b
-Description: A dark/light Monterey wallpaper.
-Name: Monterey Wallpaper
-Author: Huy Hue
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.34306.mineland_2.0_iphoneos-arm64e.deb
+Size: 43418
+MD5sum: e664ec4c8ee99d334786aeba46f7ff82
+SHA1: 885e19b84187169ef4d9b60777e9647eff8b33ca
+SHA256: 81fe82734f39439003964dc6f5435fb93bfec2f134dd26beb91fd0f9b5d3a37c
+SHA512: f86080d86acb8d87d4b2dbee6597d8b07e2fbbc9c26f5ef061505eb064a44ac5ac9b0fde8fd21131313f69eaacc44e67c3f9638bd3c0e77b3be89f5e556c171c
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, KhanhDuyTran
 
 Package: com.34306.networkspeedrl
 Architecture: iphoneos-arm64
@@ -628,55 +396,6 @@ SHA256: 961ce021b10c037c73b92a62223e5825c55a7207798f963ceb360a198b093a4c
 SHA512: f155fbf0a5011e2955716dbf583ba50f61ef61c255a9872171684027e0b4a08a2e403d5dac7a2e866715394965b265d3f8a351f9d0578dd5947313d4b055a630
 Description: A simple tweak that show network speed. Support notched iPhone and also rootless jailbreak.
 Name: NetworkSpeed rootless
-Author: 34306
-
-Package: com.34306.orionappstoreapps
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 2132
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2)
-Filename: ./debs/com.34306.orionappstoreapps_1.0.0_iphoneos-arm.deb
-Size: 1085684
-MD5sum: ca7b1cefa21b20ef9fa96138438a3450
-SHA1: e462b05f6063c57a58763f8d2d0c05af50766e5d
-SHA256: 4e9450c18f16c2681aafd955699c60b0d2383fa4c834a5c89218ede2a2f9075f
-SHA512: 58f6f3598975d7183473c6364bd6db4fc73c836bb1c826916412b3d454110f15a613e49cb7dfa0be16734bb191ddff1d87eadf9927788da4d69ca223b7c42d5b
-Description: Kiểm soát cách dùng một số App trên App Store
-Name: Orion Apps Việt Hoá
-Author: Johnzaro  <johnzrgnns@gmail.com>
-
-Package: com.34306.paimonls
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.34306.paimonls_1.0_iphoneos-arm.deb
-Size: 1825536
-MD5sum: 56153d6cb50960571d1c703fa0fa3621
-SHA1: 1063d6c540830ec5e7b4d476ddf174a7c6ed00a6
-SHA256: 90fd19b1e69ca747e5683eb2b4bd17025a115c9fd20f151ea78b6ad9ff8f82fd
-SHA512: 0eac309698c917d6e841daf9914753b53a367a87768c4c7a74393de19903912241f6baac025733ee1f372d94cca63455c75e6079d7be21a765d9b589b25c8e9c
-Description: Emergency Food is now available for lock screen!
-Name: Passcode Lock Paimon
-Author: 34306
-
-Package: com.34306.se3rd
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.se3rd_1.0_iphoneos-arm.deb
-Size: 5171158
-MD5sum: dbaa32fcaacf2448ffbfa9ad38b70810
-SHA1: 20112e388c1e8645632c4f1b461e85dfd5b53398
-SHA256: 4a1683c395f5ab1e2d5386970f67495ef794206b665182822e37d0acdb9c89be
-SHA512: 2c7a9a01e8f4fdf0b3e28474c4c9de92329c2df22bfcff5603160e9ae2834a4d2250f1e6229e6b68442dc159c7a25c1eb6595b13427850044f1ff61f9e594a29
-Description: A dark/light iPhone SE 3rd wallpaper.
-Name: iPhone SE 3rd Wallpaper
 Author: 34306
 
 Package: com.34306.smsautofillfix
@@ -747,41 +466,6 @@ Description: Terabox Premium
 Name: TeraBox Premium
 Author: 34306
 
-Package: com.34306.wallpaperloader
-Architecture: iphoneos-arm
-Version: 1.1.1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/com.34306.wallpaperloader_1.1.1_iphoneos-arm.deb
-Size: 19760
-MD5sum: 8b74e7ffcd78b66cfee579fefcaeccfe
-SHA1: 336a0f742b44bd23cb52b0ee568832df079b4810
-SHA256: ed635ea6418e18bf9c61779871fd6b099fc6880a7dc967ae6cbfebe49ff0677f
-SHA512: 62d8d75bfccf22782c4d61f5bf63c514266c1f29f3853a0fb4c72bdcbfe59e4f2a971896512f7e0ac079ff28c4fc820b3658570f5abb11540f0d7dff8cfa2721
-Description: Add more default wallpapers!
-Name: WallpaperLoader
-Depiction: https://skitty.xyz/repo/depictions/wallpaperloader
-SileoDepiction: https://skitty.xyz/repo/depictions/wallpaperloader/sileo.json
-Author: Skitty
-
-Package: com.34306.win11wp
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Wallpaper
-Maintainer: Little 34306
-Depends: mobilesubstrate, com.34306.wallpaperloader
-Filename: ./debs/com.34306.win11wp_1.0_iphoneos-arm.deb
-Size: 1488380
-MD5sum: c74b37a89de2e2f937b817c31d5b87c4
-SHA1: 76ad7bf36226872a582a4c6e551c85d0e7864f25
-SHA256: 812a58521b20c4fc6328bd11b1d12be3abff7d4a30337c03df2a9f991e496fc6
-SHA512: 6faf4d4e4f1cb8a43446058b2147a2ffbd80d949cad69e579f063f591f5bfb324fe3c33e088f63b913e12bd15ae8ab87490bc600cb66effbab9f349510697d08
-Description: A dark/light Windows 11 wallpaper.
-Name: Windows 11 Wallpaper
-Author: Huy Hue
-
 Package: com.34306.youtubedrl
 Architecture: iphoneos-arm64
 Version: 1.0-1+debug
@@ -816,58 +500,6 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
-Package: com.34306.ysrl
-Architecture: iphoneos-arm
-Version: 999.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 796
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.ysrl_999.0_iphoneos-arm.deb
-Size: 286564
-MD5sum: 45d8f9361da9b775fcd5d8e8c9b7f48c
-SHA1: 5ae98be91a38487e5c305160b6229b95df7cda33
-SHA256: 781b69fc9b178c8d7043ee642ff9dc23670f752bd2360ef1f719ea8b66fe2cde
-SHA512: 1c67c70c2da254125288a1c4c5b5a732d19f33699b6a4933d5f7cf8afae9adede5a1d33e5f1a99e1d798356ff656bb5e84b5baa4bc07e969222664dd9fc03b63
-Description: Menu hack 原神. 3 finger double tap to open menu. 2 fingers double tap to close menu!
-Name: 原神 Hack (All version)
-Author: 34306
-
-Package: com.34306.ysrl
-Architecture: iphoneos-arm64
-Version: 999.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 796
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.ysrl_999.0_iphoneos-arm64.deb
-Size: 286474
-MD5sum: aed7cab4a71608ac53123131a2f50533
-SHA1: 2ad77ad44e0da2a756f91b0763428cde2e10db77
-SHA256: 1c76944f0cd4f4cae98ea524fd81061ea51d406bdcb7b5695d87e61524ad10b1
-SHA512: dc695182d64f1b412c563573ffae7cffdf2b8cf88eff85958b22468cc24ae8abab73862d9e3588fbe35f38183886663b135366c4361630e281d50c3a011ea6d1
-Description: Menu hack 原神. 3 finger double tap to open menu. 2 fingers double tap to close menu!
-Name: 原神 Hack (All version)
-Author: 34306
-
-Package: com.34306.ytadblock
-Architecture: iphoneos-arm
-Version: 15.42.5
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.34306.ytadblock_15.42.5_iphoneos-arm.deb
-Size: 14398
-MD5sum: fb229cf719ff895527a98eddab3ff7dd
-SHA1: 00d6cfe25552d8cf0929d185b9cc2d081406eaf7
-SHA256: 514151b7bc779f155203d6e84af046cf1db69d6a41b66b050751a63cdf62d64c
-SHA512: 3ef3fd1ac23be6a9191687bc8fd1b9c516fd98b617e8efab9beb55254c71d27401b94ea571a0b503d9ad7e7d3596f254b266826b3cea4ee87b8b149fcdc93b6d
-Description: An awesome YouTube AdBlock tweak!
-Name: YTAdBlock
-Author: atebitsy
-Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
-
 Package: com.laxus.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
@@ -884,23 +516,6 @@ SHA512: 9308dc504382b27397b565fe8e1a3d90eda132cc32394486e9d26345fc515d2ed1b81bc1
 Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
 Name: iOSGods iAP Cracker
 Author: Laxus
-
-Package: cydia.com.ipc.crackerxi
-Architecture: iphoneos-arm
-Version: 1.1.16
-Section: System
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0)
-Filename: ./debs/crackerxi_1.1.16.deb
-Size: 9960924
-MD5sum: 7363c9289b0041ba3bc8df156b751a9c
-SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
-SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
-SHA512: e347b5b6b47acf13fb486ed012e6f444c012db45a9957edd5caeb0b9c67e49438640c4b3827656fb271cc7cd3d14f13be8b6310314b22d84c936ca61717a090b
-Description: Decrypts iOS Apps
-Name: CrackerXI+
-Website: https://ipastore.me
-Icon: file:///Applications/crackerxi.app/AppIcon.png
 
 Package: me.34306.icontime
 Architecture: iphoneos-arm64
