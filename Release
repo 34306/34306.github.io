@@ -3,9 +3,9 @@ Label: 34306
 Suite: stable
 Version: 1.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A little repo to use
 MD5Sum:
- 2490087905c26225de2bcc3b816e0051 21715 Packages
- 8a2b2c78f073d1d163ca4093402c8de4 7589 Packages.bz2
+ 762fc3e64b474d07e30c1cbc9077db53 23092 Packages
+ 101e249acc5880832795f5d4b9db2b8d 7979 Packages.bz2

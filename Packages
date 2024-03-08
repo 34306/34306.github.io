@@ -277,6 +277,40 @@ Name: Genshin Jailbreak Bypass
 Author: iVoider <alex@playcover.me>
 Icon:
 
+Package: com.34306.gsdopa
+Architecture: iphoneos-arm64
+Version: 4.4.0
+Section: Game cheat
+Maintainer: Little 34306
+Installed-Size: 972
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gsdopa_4.4.0_iphoneos-arm64.deb
+Size: 333594
+MD5sum: 5099ccd6db7da33a64a939973d43446d
+SHA1: ffa136b613ac675a3678f6a8d8a6e91c7b040e74
+SHA256: cae11bfef03849e24e0aefea1a12657f871ab3ebd57654420cfb28558842117a
+SHA512: 97f85ce75066f9facea60209ed75b2280ce214974cc3b0540e706ff369fb13e9732a2aba0b36d1cd7143e68f0b305e114424b659bc052394e9e6c843a5cbf6b0
+Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
+Name: Genshin Hack (Dopamine/palera1n)
+Author: 34306
+
+Package: com.34306.gsxina
+Architecture: iphoneos-arm64e
+Version: 4.4.0
+Section: Game cheat
+Maintainer: Little 34306
+Installed-Size: 936
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.gsroothide_4.4.0_iphoneos-arm64e.deb
+Size: 323292
+MD5sum: 7fb41ceb70e57d29aa1476ee6a17ecbb
+SHA1: 365c8dd8d5eb07672c2021f4fe55ddb8c5997943
+SHA256: 893fc6192c07f25133a3926840bd5bb717779262b79f203399cdcbfc4587285b
+SHA512: 29640f628c16cdbb3b8b82c33470424d00d9a006558ed863625fb6b2f139d98c76ba6c470acc4b8f085a3e7deca174c7708b709f37fb175f2da320b74266ff88
+Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
+Name: Genshin Hack (Roothide/Bootstrap)
+Author: 34306
+
 Package: com.34306.gsxina
 Architecture: iphoneos-arm
 Version: 4.4.0
@@ -285,11 +319,11 @@ Maintainer: Little 34306
 Installed-Size: 936
 Depends: mobilesubstrate
 Filename: ./debs/com.34306.gsxina_4.4.0_iphoneos-arm.deb
-Size: 324372
-MD5sum: fea1bb36dfaf96064d496d61852fd1ac
-SHA1: d6f97e7beda8b589b20774d158d25cc778a1dd91
-SHA256: aeb01acba7bd9b03407d96e2a85704e6367c0a1df776727f9636094eec960450
-SHA512: 3a143ffb3724ca73881f493a3b9825659c919021a2c413286d17c633902b0c670892286097b34297f9e951bd3503c773a69dde203b457f9dc900b5fe1982e9cc
+Size: 322984
+MD5sum: 33d5d36fc8d4a090987afecf1d275f64
+SHA1: 6521b4d67a06e8c1fc2e10729e67cb09cab84f03
+SHA256: f6289659f10b47cbf64ba512cfbd65f57f2fc89ad19f07634f78b1b86eef6813
+SHA512: e6d20c2abb42ad99f713b041afecf8210ab5c683909c35a4d9c551884aba88587fa2e2832a614efc0ae6f7779190bed706e037d65a06f4af011392a02196cca7
 Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
 Name: Genshin Hack (u0/checkra1n/Xina)
 Author: 34306
