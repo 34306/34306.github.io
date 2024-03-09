@@ -500,6 +500,108 @@ Description: Terabox Premium
 Name: TeraBox Premium
 Author: 34306
 
+Package: com.34306.upsidedowned
+Architecture: iphoneos-arm
+Version: 1.1-5+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.34306.upsidedowned_1.1_rootful_iphoneos-arm.deb
+Size: 4630
+MD5sum: a745925463fcc13712fa1add9911cc11
+SHA1: 70b2aa1573a2faf915368641edf4e33e343599c3
+SHA256: 9dddafe6d9a550a5987a14fab449642360b0f7673ef1e5fe8868cd92de797c07
+SHA512: 9356cc1f9f84236947ff549fa2b903e3a9b42d912769411c314eb9baa29cd1811f7cb9d425cf44c7b66953db807b7dc9bb1d2cafc9dfa35a83f056fc925eb820
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Name: upsidedowned
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.upsidedowned
+Architecture: iphoneos-arm64e
+Version: 1.1-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.34306.upsidedowned_1.1_roothide_iphoneos-arm64e.deb
+Size: 4628
+MD5sum: c25f9f5930dce6fb14436bbe0171848c
+SHA1: 2b2cf68faabb872a74032406473d69087b8f2d34
+SHA256: 71f1b6d56d228ea2310101a7f0aca2229ec0c7288416554bc7fc2ebfd00fad29
+SHA512: 976525b55a1e2ba81f36541eacd34a26758a2f7e07e530b51d1bc1e70cb09a1c33d3bfc523c0ad2ff6bf435079ddab356c20ba38b9a00a40588248a9483c7a4d
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Name: upsidedowned
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.upsidedowned
+Architecture: iphoneos-arm64
+Version: 1.1-4+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.34306.upsidedowned_1.1_rootless_iphoneos-arm64.deb
+Size: 4668
+MD5sum: 4579125d06dd4fa5297ad32768207353
+SHA1: 3717e26b9fe7fba262999848f551d559e952df99
+SHA256: 004db87a9e610d5834b0ca57847ca4f19641347735b0c9f84baa417931cac123
+SHA512: 2e75a3a1d008d33e08c88013408ea29c4d5084252330377f637527d7c74cac95fd612e2c0272a81b37c35b30ba12dfa33f65019b5fd2ab8e670f0710df252ed4
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Name: upsidedowned
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.watched
+Architecture: iphoneos-arm
+Version: 1.1-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_rootful_iphoneos-arm.deb
+Size: 5778
+MD5sum: d554b349eaec33e19ce3aeb1ab0a2db5
+SHA1: 5dc3aa40ab19a5436c38f85df27f93a6c2ef073c
+SHA256: ea9920a93e38b56c5c87acb83d839cd5f4538c412472c7dc1ad0bfff674db356
+SHA512: cbb31d9847ab4f9c0bff1b6fe341ee11f4b9da896f3fe1f3bc5c428c7272d2b867ee9740ae6407dd0e0584ca95c89ba62b27136d258f4d0ee0f04b18b8b1036b
+Description: Paired your Apple Watch on new watchOS with older iOS
+Name: watched
+Author: 34306
+
+Package: com.34306.watched
+Architecture: iphoneos-arm64e
+Version: 1.1-10+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_roothide_iphoneos-arm64e.deb
+Size: 5792
+MD5sum: b133709066391ab7b0cd97ec759d74d2
+SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
+SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
+SHA512: c76e485b21ce5cbdc1126e82db168037923ae84ab46af9ef436d3183b8b324216ff34181f42325b7ce142532687ab42edb34b039b1eb441244fce7b58f75762e
+Description: Paired your Apple Watch on new watchOS with older iOS
+Name: watched
+Author: 34306
+
+Package: com.34306.watched
+Architecture: iphoneos-arm64
+Version: 1.1-9+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_rootless_iphoneos-arm64.deb
+Size: 5834
+MD5sum: 63ef9d32a9811580d64abb480304248f
+SHA1: 6d73f4130b8f468aeea9f950cfb5dfdc42c61bb5
+SHA256: 1345c8a8bb6f61bd8928a9eededaf2de4329eb759598c4381838ecbff3c6c6cd
+SHA512: c248c801edf769c060c476fe0d9ffe2befe636092188a5bb3fff85937750493a46f8f3f9e2de5ed55aa8756e10fe9a1d4bb18a12f6321bb3d9851018d450657d
+Description: Paired your Apple Watch on new watchOS with older iOS
+Name: watched
+Author: 34306
+
 Package: com.34306.youtubedrl
 Architecture: iphoneos-arm64
 Version: 1.0-1+debug
