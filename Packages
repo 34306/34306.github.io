@@ -330,56 +330,51 @@ Author: 34306
 
 Package: com.34306.messed
 Architecture: iphoneos-arm
-Version: 2.0
-Section: Tweaks
+Version: 3.0
 Maintainer: Little 34306
-Installed-Size: 136
+Installed-Size: 76
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.messed_2.0_iphoneos-arm.deb
-Size: 5114
-MD5sum: 75589f935985efc8d3a0eafde5f038ad
-SHA1: fed49b881630f0b5d7cd00b75d26fb7512f2da64
-SHA256: b808fe434190b0e70cf6355f20790ead7f8f5b86721e9c25b882b837fb0dad36
-SHA512: f754f40d3655f260da695590b5d8e714ff867d8d72a032a89e0c0b37c8c3f0e87a0e0f09d926d018c6c70ad9b8b037bd09e7e057bc7865a465be9deee14f3e6e
-Description: A simple tweak that disable seen in Messenger, disable Ads and StoryView
+Filename: ./debs/com.34306.messed_3.0_iphoneos-arm.deb
+Size: 5956
+MD5sum: bb8f7d99f770ad530689131987c88dc4
+SHA1: dc88f5b058402f0d7831d254ad342eb60bda693e
+SHA256: 43be4749a8bfbc283d82bdcd466e49c7363467acc12646eee89d1f8c841fab2a
+SHA512: 06570dcaa42dee3f8e30f1a612693ed2d4cfbc6c063f11226e9f654c34dbdd27372bd53757ded9f5369f6511db418812ad51913ca9b688584fc420314956265e
+Description: Messed
 Name: Messed
 Author: 34306
 
-Package: com.34306.messedrl
+Package: com.34306.messed
 Architecture: iphoneos-arm64
-Version: 2.0
-Section: Tweaks
+Version: 3.0
 Maintainer: Little 34306
-Installed-Size: 136
+Installed-Size: 76
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.messedrl_2.0_iphoneos-arm64.deb
-Size: 5208
-MD5sum: b9da17e3a0ffad75d63bf265fad21005
-SHA1: 401961f93f3047587fc987d03ab87696dc9fbfd5
-SHA256: 4ccc5b64749f09ad86d8bc81bdaadff2afcbe8ab2bf2bc09bbd3531341ca6f5c
-SHA512: 4275ee591f8c3985e84056b5d34f76ceeb8a47d6a0a9f65f373eaaaedebaa7ef50da3450334ec086f37ef4e9811578b327ba4bc99157f17d3704b38bf5d7c6e0
-Description: A simple tweak that disable seen in Messenger, disable Ads and StoryView. Supported FuguMax/Fugu15 rootless
-Name: Messed rootless
+Filename: ./debs/com.34306.messed_3.0_iphoneos-arm64.deb
+Size: 6000
+MD5sum: c33c3b2b50d49141d578331f3d0fca1f
+SHA1: 85b0416af2700ba44f3762ff9264ff02e2dec19b
+SHA256: 7b9178df4744ffb74c30d49106af2848951477d8718b14bad0d0966f229affe7
+SHA512: 0b706ace2a4d20bd3453ca94dd77e5454d2339bb5d3c6542898da3893fd15787441956df14252e68d90c7a769fef11272b72f5c4931f273c96cac4fdf6751fb6
+Description: Messed
+Name: Messed
 Author: 34306
-Depiction: https://34306.github.io
 
-Package: com.34306.messedrl
+Package: com.34306.messed
 Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Tweaks
+Version: 3.0
 Maintainer: Little 34306
-Installed-Size: 152
+Installed-Size: 76
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.messedrl_2.0_iphoneos-arm64e.deb
-Size: 5344
-MD5sum: 4f9eb6669a4f9268ce8bf7e8928f88b8
-SHA1: b66361d0c625a23a2c381c07bacf3ba32a5162d6
-SHA256: 36f1193a15cda46e8659a1909a0bdc945ac9cda830eb580ef43bdcdee7fe8f3a
-SHA512: 0a4c4687cc4c02e3b84d02370a231e68ab5a9e9a44ee62aaa8ce7ead19b0f71248bc184197a55f627a9ffd47074693db4c5acff2dc76ba2c6cfc141c3c6b8f02
-Description: A simple tweak that disable seen in Messenger, disable Ads and StoryView. Supported FuguMax/Fugu15 rootless
-Name: Messed rootless
+Filename: ./debs/com.34306.messed_3.0_iphoneos-arm64e.deb
+Size: 5954
+MD5sum: 2a4bfc8eecc2cb7c7ff4a283cfa35708
+SHA1: 5bb4a75c8b5d0329ade441dfcd1b3faba074b428
+SHA256: cd4ff8b585df89a3bf82f29715b843188b10561888ded030c0a109c1a8469a73
+SHA512: 897ce928b71bbd171766c8d46a6aef6968cc1e2a786ac355758a574eb9ac62ce92c37899a347de08b69bb04d1cb93c0fd83217ec1ee0243e5030d374993c6c41
+Description: Messed
+Name: Messed
 Author: 34306
-Depiction: https://34306.github.io
 
 Package: com.34306.mineland
 Architecture: iphoneos-arm64
@@ -430,6 +425,57 @@ SHA256: 961ce021b10c037c73b92a62223e5825c55a7207798f963ceb360a198b093a4c
 SHA512: f155fbf0a5011e2955716dbf583ba50f61ef61c255a9872171684027e0b4a08a2e403d5dac7a2e866715394965b265d3f8a351f9d0578dd5947313d4b055a630
 Description: A simple tweak that show network speed. Support notched iPhone and also rootless jailbreak.
 Name: NetworkSpeed rootless
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm.deb
+Size: 3060
+MD5sum: 8e61b9f09d41b550c07d9655eb6a84dd
+SHA1: f23f3e12acabeaad0d515bdcf7bb4b549e042b91
+SHA256: b4004f543310656299cfb80ed4ca5ae7cd33cd8dec03592092b4643c47ac3f4a
+SHA512: 9db9244fa00b581abb75f13872d406913a16cc99c98c0c8c5ab6abb70a80f74dec85840f2835c951e75fdce4d8e2001200dce3a5f60d85856258f9af2f509482
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
+Size: 3094
+MD5sum: 9f36730b58f43f060d082b03b6f3ce32
+SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
+SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
+SHA512: f767ae9ab6542f97a4c2f14998b27d816d406b7b2e1b11feec1a8ec6f38b968b43f06a18acab4a33156c8c4716f68dd7d99a451c2fa122de36c5c1e62b785c99
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Size: 3052
+MD5sum: dc06e77e6126d9a06d31e7ad4ddb6485
+SHA1: 1f4c5e1d8a05eb3a12a6c64299491745244c2f6f
+SHA256: 622ef01822fad1e6f4ab57cf99045aaff607e26fb8413165d8437644bb0192d0
+SHA512: 61a96a39fe0aae6f1944bb509f30508acb51d8e94d071398a34ee2e18b22f9cffb52c578271098ca7416b9b823f66537c20926cc677fbc31ce67c27750aa2dda
+Description: Remove the notification that the P
+Name: replaced
 Author: 34306
 
 Package: com.34306.smsautofillfix
