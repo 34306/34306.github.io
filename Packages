@@ -49,62 +49,6 @@ Description: iOS 16 style for iOS 11-15. Please setting your own color in Settin
 Name: BatFill
 Author: 34306, fahlnbg
 
-Package: com.34306.bilibilipre
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: 34306 <null>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.bilibilipre_0.0.1_iphoneos-arm.deb
-Size: 5508
-MD5sum: 7aa10494f8ab89145ed22a5bc7060f5a
-SHA1: 7507799f6484d7d393777adcfb88968b9adc169e
-SHA256: 5cda7174dd7857ec008ced88c3df67dec600527b873e8cf159892a39d0c4e580
-SHA512: 945840310ac0b64da24bc23127a5e3c0093558cfc419a96c177331232df1a42669fff1c786e594190d385ae3d1e8676f1cff58330080eb160cc00c372d0db40b
-Description: Bilibili 1080HD enable and no ads.
-Name: bilibilipre
-Author: 34306 <null>
-
-Package: com.34306.cam11ui
-Architecture: iphoneos-arm
-Version: 0.0.1-1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 202
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.34306.cam11ui_0.0.1-1_iphoneos-arm.deb
-Size: 11136
-MD5sum: f4267060d7d6ce67ea830ed26a5ed351
-SHA1: b3a7971a1ec85a265d57a60b51a0612bea69a5c1
-SHA256: cc067f83c6c76e6aa116bd0e04ff754819268e79351e03cc5f9ef2a32de7c9e7
-SHA512: 008be3bbf995dc812b3e1171973bcfaba4a742187fd57f512d1ee155b2007f985c5bee83f79f614fcf4bdae33756b89671a9d1ccabdfcc01a85bdbd7bb52fa2c
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cameraui11Dp
-Description: iPhone 11 Camera UI
-Tag: purpose::uikit, role::enduser, compatible::ios13
-Author: Huy Hue
-Name: iPhone 11 CameraUI
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cameraui11Dp
-Sponsor: Little 34306
-dev: Huy Hue
-
-Package: com.34306.camshutterfix
-Architecture: iphoneos-arm
-Version: 0.0.1-1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.camshutterfix_0.0.1-1_iphoneos-arm.deb
-Size: 4898
-MD5sum: e93a8060fde8a1a1adfa5f9e722c5a01
-SHA1: 76f79297017abb60ca6e48d742ce1b0c6a84a97b
-SHA256: c583e9c80fbdf948ea538a03f34714d67d9a9d05863af12175f16e977b89a8f6
-SHA512: 518735713b209155eb5dc23deef94aa723d84e1e6a89f5e60e410aeabe73e22b1a1b44103b11c67d13a13098b39166818be513371b2daa8eb8272010f63c0179
-Description: Fixes the broken shutter button when enabling the iPhone 11 Camera on older devices. Does however stop the swipe on shutter button to record video from working.
-Name: Cam 11 shutter fix
-Author: andyjhall
-
 Package: com.34306.clearbatper
 Architecture: iphoneos-arm
 Version: 2.1
@@ -258,76 +202,6 @@ Description: 1TB?
 Name: Fake storage rootless
 Author: 34306
 
-Package: com.34306.genshinjailbreakbypass
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 264
-Depends: mobilesubstrate
-Conflicts:
-Filename: ./debs/com.34306.genshinjailbreakbypass_1.1_iphoneos-arm.deb
-Size: 7530
-MD5sum: 261f4f19276e6e43e7cf3ccc655472fd
-SHA1: 5c76d9e5878eaa8dceb14459a137b002a62e3f4d
-SHA256: e3a978d1fe17191e47eb3ff1a2a74b2bb32d827b18f37a8c451c96ed1557b1eb
-SHA512: 13daff1e354fc4b25c6e0e4f56bc9396453137b6723db6f007da4e5f7383db594b03c1e02a6191cc9eb52ffd51a990df311b6f152a65638886bf13d76c058805
-Description: Bypass "Data error, please login again" mesage
-Name: Genshin Jailbreak Bypass
-Author: iVoider <alex@playcover.me>
-Icon:
-
-Package: com.34306.gsdopa
-Architecture: iphoneos-arm64
-Version: 4.5.0
-Section: Game cheat
-Maintainer: Little 34306
-Installed-Size: 972
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsdopa_4.5.0_iphoneos-arm64.deb
-Size: 333828
-MD5sum: 0f66268983e71a2e23c137f9c88a2322
-SHA1: eccd7321c5586580e805f481f13bc55f8100294d
-SHA256: 527dbb392ecd3d0ac8a4b2b6a517200e198dd07114beb06ff8e6913dde63a6e7
-SHA512: 0955d4b4e84b19a579a486908c5b6256842d9ec7a275c7448d2dc2331ed0811b13263682a1f13bf74d44d11c1df9a1d1527cade28f1f29a2549df1f1bd43cae0
-Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack (Dopamine/palera1n)
-Author: 34306
-
-Package: com.34306.gsxina
-Architecture: iphoneos-arm
-Version: 4.5.0
-Section: Game cheat
-Maintainer: Little 34306
-Installed-Size: 936
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsxina_4.5.0_iphoneos-arm.deb
-Size: 323130
-MD5sum: be0c3d3bb104284ffb9a29e98e6cec97
-SHA1: 67de8e1b5034f73d68b16b7c0a4a1cdec1448666
-SHA256: b581a5d14d3ec07b6170e10276d2ee575ce3855ddf9e2c8dc6e9c46f0d645fb3
-SHA512: 33ee8da7c00b2330f4003e1bf5b2cac8d06a3df0d59c77263815c9c043915772319988cefad13efca86929045a61562ac27ccc8f7518cefd93c49cd19112eea4
-Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack (u0/checkra1n/Xina)
-Author: 34306
-
-Package: com.34306.gsxina
-Architecture: iphoneos-arm64e
-Version: 4.5.0
-Section: Game cheat
-Maintainer: Little 34306
-Installed-Size: 936
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.gsxina_4.5.0_iphoneos-arm64e.deb
-Size: 413084
-MD5sum: 466c12063a35137bbb7236cd3448dacc
-SHA1: c206646aee275759d0b6b9905cb66b581eb4d95a
-SHA256: e0f19e76f8d1be4a46d8ef05763921d90c5108095ba40424bb28f4b0704ac96b
-SHA512: a5ac6807ef82ee6a5826321dea9435044f69a5702a1fdced5fd738e6a1432f3e503a6e75523bc26b76e65f6edb5e1b9f55b91e0e7179a366559dd5161f5a3008
-Description: Menu hack Genshin. 3 finger double tap to open menu. 2 finger double tap to close menu!
-Name: Genshin Hack (roothide/Bootstrap)
-Author: 34306
-
 Package: com.34306.messed
 Architecture: iphoneos-arm
 Version: 3.0
@@ -478,23 +352,6 @@ Description: Remove the notification that the P
 Name: replaced
 Author: 34306
 
-Package: com.34306.smsautofillfix
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 332
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.34306.smsautofillfix_1.0.1_iphoneos-arm.deb
-Size: 10490
-MD5sum: 148eb6d8fcf8d927cf6927e96675e7b6
-SHA1: 79e90e604c2d2ea79a58d9832c286df0c3ab5c32
-SHA256: 892d595f496fc54e3880e18931d6bd48aa5c2cd798388823f488352bed08ef3e
-SHA512: 3a8d009efaf597a554974e3def40fab0718db862305b5223a3a848102327f1253555c3464bb9f791f94ba9dfe4c034aa90ab25459dca4a9f8a7cade7da25a063
-Description: Fix autofill OTP SMS confirm code
-Name: Autofill OTP SMS
-Author: Baw Appie <pp121324@gmail.com>
-
 Package: com.34306.swiped
 Architecture: iphoneos-arm64
 Version: 1.0-6+debug
@@ -527,23 +384,6 @@ SHA256: 2411e75317ec4c4487ad0a2c46661c4e6c2f310bcce4a2e61706cd183c925e39
 SHA512: 267fa49be157fb0e5df8f544bcfd7f34a2819c8131041b5c0935377de2f26d12929e26b48e6c08911719ba22b5ff0aefe006a728b3a069f74c64d5040b24a993
 Description: Swiped!
 Name: Swiped
-Author: 34306
-
-Package: com.34306.teraboxpre
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.34306.teraboxpre_1.0_iphoneos-arm.deb
-Size: 3018
-MD5sum: f099f9942cf23bbbb1a7661cb12342d8
-SHA1: 5a92aa25e56c1c0586acc3970745488d7944af3a
-SHA256: 53ee061d65e645e7a21e698a2eb10ab877ddf5bd9841eeb5732af58f9d24c43a
-SHA512: 679e0ae3d2fcb92f52159e64cd03a4de908f86eceb97f1aeb25e0c0e459877aebd9ab70cbdf4334526bd1eb7a4ac9f35408808b1e438d728964f1c8d553cc5e3
-Description: Terabox Premium
-Name: TeraBox Premium
 Author: 34306
 
 Package: com.34306.upsidedowned
@@ -649,23 +489,6 @@ Name: watched
 Author: 34306
 
 Package: com.34306.youtubedrl
-Architecture: iphoneos-arm64
-Version: 1.0-1+debug
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.34306.youtubedrl_1.0-1+debug_iphoneos-arm64.deb
-Size: 3906
-MD5sum: 726fe5c50c8301622f2ec76bb4455465
-SHA1: 0e29250dc08c49537d6ae3526b77f80b740d43d0
-SHA256: 1c3cf37e80beb51dc3ba76f98855f82f3ae55423e920f580259afd0d8c7137c4
-SHA512: 3c4463437b494f32d7a13adc4823131bebe7f5c074c1ac2068678e7bc9c5027710086a553a085d6564366ebcf71f75f47de6e53e76e2ee85addd7f79acd339a3
-Description: You'll never seen Ads in Never gonna give you up anymore!
-Name: Youtubed rootless
-Author: 34306
-
-Package: com.34306.youtubedrl
 Architecture: iphoneos-arm64e
 Version: 1.0-2+debug
 Section: Tweaks
@@ -681,23 +504,6 @@ SHA512: 7f45c93b3c427cfd3bd1e84d7ed13d061240034604aed64ca527d5bf0460ee1beadd9515
 Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
-
-Package: com.laxus.iosgodsiapcracker
-Architecture: iphoneos-arm
-Version: 1.0-2+debug
-Section: Tweaks
-Maintainer: Laxus
-Installed-Size: 296
-Depends: mobilesubstrate
-Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
-Size: 18412
-MD5sum: f609fdef7758b9f6c5b544781c58ded7
-SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
-SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
-SHA512: 9308dc504382b27397b565fe8e1a3d90eda132cc32394486e9d26345fc515d2ed1b81bc1de9868c37f63b14b322c254ddc016e9445bb53d24c2de5d81d42950e
-Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
-Name: iOSGods iAP Cracker
-Author: Laxus
 
 Package: me.34306.icontime
 Architecture: iphoneos-arm64
