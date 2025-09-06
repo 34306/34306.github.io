@@ -298,6 +298,23 @@ Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
 
+Package: com.34306.messengerfix
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 1016
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.messengerfix_1.0-2+debug_iphoneos-arm.deb
+Size: 458300
+MD5sum: 95a44138ae9479a8c23b0cb981104461
+SHA1: c7bf9dae2826a06f4be7f82eb91be439a8953980
+SHA256: 5bd6e7ebc0fbb3b2d4193344198e747b1feed8982c128237b6d94e26b63e7ce5
+SHA512: e2340029ee8a47a13a29f9f1a1e6f5cf6828f19b8db13821565ead6474f8c2aac162256728b4a52d174ca19fa3c089629225ca52ed60b420a8c79c022988c6e0
+Description: Facebook Messenger fix for iOS 14
+Name: MessengerFix14
+Author: 34306
+
 Package: com.34306.mineland
 Architecture: iphoneos-arm64
 Version: 2.0-6+debug
